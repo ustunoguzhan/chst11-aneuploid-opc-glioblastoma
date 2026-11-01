@@ -1,0 +1,26 @@
+{
+ "tcga": {
+  "study": "gbm_tcga_pan_can_atlas_2018",
+  "profile": "gbm_tcga_pan_can_atlas_2018_rna_seq_v2_mrna",
+  "n": 154,
+  "events": 122,
+  "genes": [
+   "CHST11",
+   "XYLT1",
+   "DSEL",
+   "GALNT13",
+   "ST6GALNAC3"
+  ]
+ },
+ "ivygap": {
+  "wells_total": 270,
+  "wells_reference_histology": 122,
+  "genes": [
+   "CHST11",
+   "XYLT1",
+   "DSEL",
+   "GALNT13",
+   "ST6GALNAC3"
+  ]
+ }
+}

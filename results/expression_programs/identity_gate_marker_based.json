@@ -1,0 +1,57 @@
+{
+ "n_samples": 20,
+ "n_nuclei": 60734,
+ "module_sizes": {
+  "OPC": 48,
+  "AC": 38,
+  "NPC": 87,
+  "MES": 94
+ },
+ "contrasts": [
+  {
+   "contrast": "OPC_vs_NPC",
+   "n": 20,
+   "delta": 0.21268,
+   "p_perm": 2e-06,
+   "min_p": 1.9073486328125e-06,
+   "positive": "20/20",
+   "passes": true
+  },
+  {
+   "contrast": "OPC_vs_AC",
+   "n": 20,
+   "delta": 0.24565,
+   "p_perm": 2e-06,
+   "min_p": 1.9073486328125e-06,
+   "positive": "20/20",
+   "passes": true
+  },
+  {
+   "contrast": "OPC_vs_MES",
+   "n": 20,
+   "delta": 0.37105,
+   "p_perm": 2e-06,
+   "min_p": 1.9073486328125e-06,
+   "positive": "20/20",
+   "passes": true
+  }
+ ],
+ "specificity": {
+  "NPC": {
+   "delta": -0.09144,
+   "p_perm": 4e-06,
+   "opc_leads": false
+  },
+  "AC": {
+   "delta": -0.28136,
+   "p_perm": 2e-06,
+   "opc_leads": false
+  },
+  "MES": {
+   "delta": -0.1295,
+   "p_perm": 2e-06,
+   "opc_leads": false
+  }
+ },
+ "gate_pass": true
+}

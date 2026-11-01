@@ -1,0 +1,5 @@
+step,samples,patients
+"Deposited (GSE174554, snrna_cohort.csv)",58,29
+After QC and pairing (processed cohort),56,28
+Within-sample CNV reference (>=20 nuclei),51,28
+>=30 OPC-like nuclei in both compartments,20,15

@@ -1,0 +1,1179 @@
+ModelID,CHST11_Chronos_GeneEffect_24Q4,OncotreeLineage,OncotreePrimaryDisease,OncotreeSubtype,OncotreeCode,CellLineName,StrippedCellLineName,CHST11_Expression_TPM_Logp1_24Q4,is_GBM,is_Glioma_any,is_CNS_Brain
+ACH-000660,-0.5811857126748483,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,SU-DHL-5,SUDHL5,4.614120868789254,False,False,False
+ACH-000295,-0.5723070639488763,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,EM-2,EM2,5.904724928390404,False,False,False
+ACH-001539,-0.4566784001534664,Lymphoid,Mature B-Cell Neoplasms,Germinal Center B-Cell Type,GCB,KML-1,KML1,5.143230134776893,False,False,False
+ACH-000519,-0.4135992323200987,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Lymphoblastic Leukemia/Lymphoma,TLL,PEER,PEER,5.973611275519472,False,False,False
+ACH-001603,-0.3980200568094165,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NH-12,NH12,2.1667154449664223,False,False,False
+ACH-000077,-0.3979693153866388,Lymphoid,Non-Hodgkin Lymphoma,Mature T and NK Neoplasms,MTNN,MJ,MJ,4.133399125417198,False,False,False
+ACH-000149,-0.3879199760295482,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,SK-N-SH,SKNSH,2.933572638261024,False,False,False
+ACH-002077,-0.3687420173223183,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,Lu-165,LU165,1.4750848829487828,False,False,False
+ACH-001279,-0.3536418865632407,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Small Cell Carcinoma of the Ovary,SCCO,SCCOHT-1,SCCOHT1,2.298658315564515,False,False,False
+ACH-002780,-0.3426302365064059,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,NCC-ES1-C1,NCCES1C1,1.6780719051126378,False,False,False
+ACH-000026,-0.3360071849028471,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,253J-BV,253JBV,2.992768430768924,False,False,False
+ACH-000210,-0.3357019444107907,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,CADO-ES1,CADOES1,3.408711861029429,False,False,False
+ACH-001550,-0.3308412583445093,Skin,Merkel Cell Carcinoma,Merkel Cell Carcinoma,MCC,MCC13,MCC13,1.0496307677246008,False,False,False
+ACH-002204,-0.313583771070405,Bone,Chordoma,Chordoma,CHDM,U-CH2,UCH2,,False,False,False
+ACH-000239,-0.3076781461429708,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,HuG1-N,HUG1N,0.2265085298086797,False,False,False
+ACH-002059,-0.3030805527851461,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma,BLL,P30/OHK,P30OHK,4.445594291341182,False,False,False
+ACH-000878,-0.3013175176104184,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,HCC-15,HCC15,2.211012193485512,False,False,False
+ACH-000654,-0.2976138166046874,Lymphoid,Mature B-Cell Neoplasms,Burkitt Lymphoma,BL,Raji,RAJI,2.2448870591235344,False,False,False
+ACH-002278,-0.2968693923711033,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NB10,NB10,,False,False,False
+ACH-001409,-0.294852518693935,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,UM-UC-16,UMUC16,4.138323004056484,False,False,False
+ACH-000985,-0.2946461871586827,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,LS411N,LS411N,0.0426443374084937,False,False,False
+ACH-001502,-0.2935557565908178,Testis,Non-Seminomatous Germ Cell Tumor,Teratoma,TT,GCT-27,GCT27,2.908812907739548,False,False,False
+ACH-002678,-0.2931551818737848,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,WILL-1,WILL1,0.2630344058337938,False,False,False
+ACH-001497,-0.2926923443801604,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,ESO51,ESO51,0.7048719644563528,False,False,False
+ACH-001520,-0.2876262144173003,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma,BLL,HG-3,HG3,1.967168607532628,False,False,False
+ACH-001390,-0.2835766817306319,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,SUM-149PT,SUM149PT,1.803227036434928,False,False,False
+ACH-002150,-0.281728947645713,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,LB1047-RCC,LB1047RCC,,False,False,False
+ACH-001338,-0.279812331345567,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,CHP-134,CHP134,2.2265085298086795,False,False,False
+ACH-000004,-0.2734370445695258,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,HEL,HEL,5.540089281982523,False,False,False
+ACH-001675,-0.270990250920934,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,TR146,TR146,,False,False,False
+ACH-002247,-0.2686182289618312,Myeloid,Non-Cancerous,Immortalized Blood,,IM-9,IM9,,False,False,False
+ACH-002470,-0.2684751820969518,Bone,Osteosarcoma,Osteosarcoma,OS,OS186,OS186,2.232660756790275,False,False,False
+ACH-002105,-0.2680117857092277,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,ES4,ES4,,False,False,False
+ACH-001973,-0.2678377882457664,Skin,Melanoma,Melanoma,MEL,MM485,MM485,5.833396134163228,False,False,False
+ACH-001367,-0.2656086844788921,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NMB,NMB,3.0840642647884744,False,False,False
+ACH-001453,-0.2653622025584127,Prostate,Non-Cancerous,"Hyperplasia, Prostate",,BPH-1,BPH1,3.314696525656286,False,False,False
+ACH-000167,-0.2652847371460228,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,KE-97,KE97,3.5921580021253603,False,False,False
+ACH-002114,-0.2651734405231887,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,EW-16,EW16,,False,False,False
+ACH-000562,-0.2589326525063583,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,HCC-78,HCC78,1.4222330006830477,False,False,False
+ACH-002690,-0.2579367441143901,Bone,Osteosarcoma,Osteosarcoma,OS,OS526,OS526,2.2141248053528475,False,False,False
+ACH-002928,-0.2573642652024631,Skin,Melanoma,Acral Melanoma,ACRM,MM100511,MM100511,4.587364990936461,False,False,False
+ACH-002654,-0.2544104113372782,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,JVE-015,JVE015,0.8237493603082727,False,False,False
+ACH-002014,-0.253485064109325,Eye,Ocular Melanoma,Uveal Melanoma,UM,Mel270,MEL270,3.082361969557473,False,False,False
+ACH-000559,-0.2523888685760108,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H1836,NCIH1836,2.422233000683048,False,False,False
+ACH-001639,-0.2521572328623694,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,ROS-50,ROS50,,False,False,False
+ACH-001033,-0.2504175037840953,CNS/Brain,Embryonal Tumor,Primitive Neuroectodermal Tumor,PNET,CHLA-57,CHLA57,1.5753123306874368,False,False,True
+ACH-000495,-0.2499016858555291,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,TUHR4TKB,TUHR4TKB,3.177917792195843,False,False,False
+ACH-002215,-0.2463858849168725,Lymphoid,Mature B-Cell Neoplasms,Primary Effusion Lymphoma,PEL,BC-3,BC3,3.130930869826449,False,False,False
+ACH-000370,-0.2460700582486011,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,SNU-626,SNU626,2.948600847493356,True,True,True
+ACH-000848,-0.2455436114550735,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,JHH-7,JHH7,0.2265085298086797,False,False,False
+ACH-001668,-0.2442786438090319,Testis,Non-Seminomatous Germ Cell Tumor,Teratoma,TT,SUSA,SUSA,2.2479275134435857,False,False,False
+ACH-001991,-0.2434140187501819,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,NZOV9,NZOV9,0.01435529297707,False,False,False
+ACH-003177,-0.2432776900033608,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,NRH-UPS1,NRHUPS1,3.10936055940423,False,False,False
+ACH-001392,-0.2397401668841396,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,SUM-185PE,SUM185PE,2.1473066987802936,False,False,False
+ACH-000769,-0.239183476958139,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,LK-2,LK2,5.2268938135713885,False,False,False
+ACH-000304,-0.2376621221453269,Skin,Melanoma,Melanoma,MEL,WM-115,WM115,3.5570424152637194,False,False,False
+ACH-002181,-0.2367762958600336,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,OVCA420,OVCA420,,False,False,False
+ACH-000762,-0.2345955317312165,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,YD-38,YD38,2.8155754288625725,False,False,False
+ACH-002693,-0.2344474039003287,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,S462,S462,2.1538053360790355,False,False,False
+ACH-002512,-0.234133422704318,Skin,Melanoma,Acral Melanoma,ACRM,MM160113,MM160113,3.8186460828225393,False,False,False
+ACH-002061,-0.2338508022947633,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,P2UR/K-562,P2URK562,3.550900664647523,False,False,False
+ACH-002664,-0.23145612921139,Bowel,Colorectal Adenocarcinoma,Mucinous Adenocarcinoma of the Colon and Rectum,MACR,JVE-253,JVE253,3.733354340613827,False,False,False
+ACH-002179,-0.2313610845163498,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,OCUB-M,OCUBM,,False,False,False
+ACH-000929,-0.2290356251340771,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,NCI-H2110,NCIH2110,2.594548549550354,False,False,False
+ACH-001398,-0.2289155048136153,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,SW 156,SW156,2.8619553641448694,False,False,False
+ACH-002782,-0.2285609876115594,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,NCC-UPS1-C1,NCCUPS1C1,4.788163657037767,False,False,False
+ACH-002660,-0.228507595578694,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,JVE-187,JVE187,0.5459683691052926,False,False,False
+ACH-001834,-0.2261019714737345,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC10,ICC10,3.411426245726465,False,False,False
+ACH-002799,-0.224779528784217,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,NCC-MPNST1-C1,NCCMPNST1C1,1.0496307677246008,False,False,False
+ACH-002291,-0.2218015320980325,Testis,Non-Seminomatous Germ Cell Tumor,Embryonal Carcinoma,EMBCA,NTERA-2 cl.D1,NTERA2CLD1,2.007195501404204,False,False,False
+ACH-000563,-0.221433098718818,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,EBC-1,EBC1,5.8407149911410805,False,False,False
+ACH-001613,-0.2210833814896131,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,OCI-AML4,OCIAML4,4.089159131911238,False,False,False
+ACH-002471,-0.2187088311257446,Bone,Osteosarcoma,Osteosarcoma,OS,OS052,OS052,1.144046369616707,False,False,False
+ACH-000111,-0.2184703040727558,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,HCC1187,HCC1187,3.090853430451113,False,False,False
+ACH-000276,-0.2183369550048007,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,HCC38,HCC38,1.752748591407134,False,False,False
+ACH-000268,-0.2180753158538434,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Extrahepatic Cholangiocarcinoma,EHCH,SNU-245,SNU245,0.2265085298086797,False,False,False
+ACH-001862,-0.2180482396473169,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,TGBC52TKB,TGBC52TKB,5.739578112048051,False,False,False
+ACH-002160,-0.2180360374688845,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,MC-IXC,MCIXC,,False,False,False
+ACH-002035,-0.2179290307396021,Lung,Non-Small Cell Lung Cancer,Poorly Differentiated Non-Small Cell Lung Cancer,NSCLCPD,LCAM1,LCAM1,3.8629472480209217,False,False,False
+ACH-001407,-0.217435709134199,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,UM-UC-13,UMUC13,3.583759753639499,False,False,False
+ACH-000718,-0.2162526236966653,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H2291,NCIH2291,0.4114262457264649,False,False,False
+ACH-000973,-0.2155365823395792,Bladder/Urinary Tract,Urethral Cancer,Urethral Urothelial Carcinoma,UCU,639-V,639V,3.2387868595871163,False,False,False
+ACH-001863,-0.213695262511195,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,TKKK,TKKK,3.2883585621936606,False,False,False
+ACH-001574,-0.2133993190581111,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,MOLM-14,MOLM14,3.1554254317471973,False,False,False
+ACH-000361,-0.2126138557397936,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SK-HEP-1,SKHEP1,2.15704371014558,False,False,False
+ACH-000821,-0.2110992272678732,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,EJM,EJM,2.19534759832222,False,False,False
+ACH-001517,-0.2080640546797226,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HEC-1,HEC1,1.2570106182060237,False,False,False
+ACH-000939,-0.2078853391823818,Uterus,Uterine Sarcoma/Mesenchymal,Uterine Leiomyosarcoma,ULMS,SK-UT-1,SKUT1,1.7739963251111732,False,False,False
+ACH-002511,-0.2067750367012215,Skin,Melanoma,Melanoma,MEL,M140325,M140325,4.161887682376894,False,False,False
+ACH-000323,-0.2051083705020717,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,42-MG-BA,42MGBA,2.1538053360790355,True,True,True
+ACH-001454,-0.2047266833560093,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,C10,C10,0.7907720378619999,False,False,False
+ACH-000961,-0.2036930648398504,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,Ishikawa (Heraklio) 02 ER-,ISHIKAWAHERAKLIO02ER,3.2172307162206693,False,False,False
+ACH-000593,-0.2031768281930404,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,BC-3C,BC3C,1.5260688116675876,False,False,False
+ACH-000760,-0.2030461913800929,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,LNZ308,LNZ308,2.6415460290875235,True,True,True
+ACH-000920,-0.2024442320663642,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,CML-T1,CMLT1,7.109882877588455,False,False,False
+ACH-001986,-0.2009956421510429,Skin,Melanoma,Melanoma,MEL,NZM42,NZM42,3.824767853143294,False,False,False
+ACH-000537,-0.200214525911349,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SNU-761,SNU761,1.570462931026041,False,False,False
+ACH-000716,-0.1996248800506584,Thyroid,Well-Differentiated Thyroid Cancer,Follicular Thyroid Cancer,THFO,TT2609-C02,TT2609C02,3.6881803585869264,False,False,False
+ACH-000516,-0.1992112923965582,Bone,Chondrosarcoma,Dedifferentiated Chondrosarcoma,DDCHS,CAL-78,CAL78,1.8678964639926547,False,False,False
+ACH-001345,-0.1978266751047233,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,GP5d,GP5D,0.0,False,False,False
+ACH-000019,-0.1967588983292891,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,MCF7,MCF7,0.6780719051126377,False,False,False
+ACH-002285,-0.19661992193515,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NB7,NB7,,False,False,False
+ACH-002067,-0.1951568403035775,Bone,Osteosarcoma,Osteosarcoma,OS,NOS-1,NOS1,2.356143810225275,False,False,False
+ACH-001676,-0.1945429478622339,Head and Neck,"Head and Neck Carcinoma, Other",NUT Midline Carcinoma of the Head and Neck,NMCHN,Ty-82,TY82,1.8991756304805127,False,False,False
+ACH-002040,-0.1945091121406116,Vulva/Vagina,Mucosal Melanoma of the Vulva/Vagina,Mucosal Melanoma of the Vulva/Vagina,VMM,HMV-II,HMVII,3.040892430646901,False,False,False
+ACH-003012,-0.1942207334721455,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,A549_CRAF_KD,A549CRAFKD,3.639232163249277,False,False,False
+ACH-000001,-0.1940461075511332,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,NIH:OVCAR-3,NIHOVCAR3,2.316145742293356,False,False,False
+ACH-000290,-0.1938985555424459,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H209,NCIH209,4.529820946528695,False,False,False
+ACH-002533,-0.1929778164954909,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,SNU-482,SNU482,4.501439145158873,False,False,False
+ACH-000996,-0.1927038155878028,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HEC-251,HEC251,3.5545888516776376,False,False,False
+ACH-000441,-0.1919042334753361,Skin,Melanoma,Melanoma,MEL,SH-4,SH4,4.783456654360239,False,False,False
+ACH-000476,-0.1918278885586034,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,JHH-4,JHH4,1.6870606883398924,False,False,False
+ACH-000532,-0.191575553380183,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,SNU-61,SNU61,0.722466024471091,False,False,False
+ACH-000190,-0.1910787755580878,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,HD-MY-Z,HDMYZ,2.430285272977781,False,False,False
+ACH-001336,-0.1900213200839937,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,Ca Ski,CASKI,1.9597701552114672,False,False,False
+ACH-000438,-0.1892595358458242,Lung,Non-Small Cell Lung Cancer,Giant Cell Carcinoma of the Lung,GCLC,Lu-65,LU65,1.1699250014423124,False,False,False
+ACH-000078,-0.1892449361032258,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,MHH-NB-11,MHHNB11,2.140778655782796,False,False,False
+ACH-002669,-0.189187680952595,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,KP-363T,KP363T,0.1110313123887439,False,False,False
+ACH-001227,-0.1886713323245432,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-090,UPCISCC090,0.0426443374084937,False,False,False
+ACH-001737,-0.188441458412016,Lymphoid,Mature T and NK Neoplasms,Adult T-Cell Leukemia/Lymphoma,ATLL,CTV-1-DM,CTV1DM,5.895787316463311,False,False,False
+ACH-002069,-0.1876449517547374,Bone,Osteosarcoma,Osteosarcoma,OS,HS-Os-1,HSOS1,1.459431618637297,False,False,False
+ACH-000546,-0.1872852955460933,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,HSC-4,HSC4,1.5008020530571575,False,False,False
+ACH-001128,-0.187250496815588,Soft Tissue,Rhabdoid Cancer,Extrarenal Rhabdoid Cancer,,MON,MON,0.1505596765753814,False,False,False
+ACH-002778,-0.1869294817099616,Bone,Osteosarcoma,Osteosarcoma,OS,NCC-OS1-X2-C1,NCCOS1X2C1,1.8875252707415875,False,False,False
+ACH-000485,-0.1868087065074306,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,GSU,GSU,0.01435529297707,False,False,False
+ACH-001289,-0.1867786541393773,CNS/Brain,Embryonal Tumor,Atypical Teratoid/Rhabdoid Tumor,ATRT,COG-AR-359,COGAR359,1.803227036434928,False,False,True
+ACH-000884,-0.1866036801018618,Skin,Melanoma,Melanoma,MEL,MDA-MB-435S,MDAMB435S,2.765534746362977,False,False,False
+ACH-001270,-0.1865906568474135,Soft Tissue,Synovial Sarcoma,Synovial Sarcoma,SYNS,1273/99,127399,2.8135246892978105,False,False,False
+ACH-001645,-0.1852035155929546,Skin,Melanoma,Melanoma,MEL,SEKI,SEKI,6.473137487772256,False,False,False
+ACH-000887,-0.1847208914772795,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,SF-172,SF172,4.4269356196483365,True,True,True
+ACH-000547,-0.1835099522895012,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,HT-1197,HT1197,5.849999259466098,False,False,False
+ACH-002283,-0.1823472256039111,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NB5,NB5,4.2890967024199895,False,False,False
+ACH-000391,-0.1815902504046725,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,MHH-ES-1,MHHES1,0.137503523749935,False,False,False
+ACH-000620,-0.1813949714395188,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,JHH-1,JHH1,4.308156975114762,False,False,False
+ACH-000580,-0.1810360750746096,Skin,Melanoma,Melanoma,MEL,C32,C32,4.4329594072761065,False,False,False
+ACH-000018,-0.1810041731828891,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,T24,T24,3.289834465177509,False,False,False
+ACH-002467,-0.1809366621071636,Eye,Non-Cancerous,"Immortalized Epithelial Cells, Retinal",,RPE1-ss51,RPE1SS51,3.237257770900372,False,False,False
+ACH-001386,-0.1808859987893942,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,SCLC-22H,SCLC22H,1.3785116232537298,False,False,False
+ACH-000381,-0.1806156878186354,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,T84,T84,0.632268215499513,False,False,False
+ACH-000924,-0.1801532393130035,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,NCI-H2172,NCIH2172,2.521050736900963,False,False,False
+ACH-001626,-0.1798127362533632,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,OSC-20,OSC20,2.596935142387232,False,False,False
+ACH-002080,-0.1783009138786721,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,TN-2,TN2,2.82781902461732,False,False,False
+ACH-000725,-0.1776624128184459,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,DCIS,HCC202,HCC202,2.634593268445757,False,False,False
+ACH-000823,-0.1774117295047795,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-140,KYSE140,1.01435529297707,False,False,False
+ACH-001184,-0.1772334086817281,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,SCMC-RM2,SCMCRM2,0.6959938131099002,False,False,False
+ACH-000052,-0.1770586709115303,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,A-673,A673,0.1890338243900171,False,False,False
+ACH-002463,-0.1767119700334306,Eye,Non-Cancerous,"Immortalized Epithelial Cells, Retinal",,RPE1-ss77,RPE1SS77,2.91456452349394,False,False,False
+ACH-000860,-0.1764737466461959,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H358,NCIH358,2.356143810225275,False,False,False
+ACH-000962,-0.1757884693628014,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,OC 314,OC314,1.459431618637297,False,False,False
+ACH-000914,-0.1755283630308021,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,HT,HT,6.237257770900372,False,False,False
+ACH-000014,-0.1752177092798805,Skin,Melanoma,Melanoma,MEL,Hs 294T,HS294T,4.875780063068488,False,False,False
+ACH-000325,-0.1750521311288398,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,SNU-620,SNU620,0.0565835283663675,False,False,False
+ACH-001496,-0.1748396329910077,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Adenocarcinoma of the Gastroesophageal Junction,GEJ,ESO26,ESO26,1.2265085298086795,False,False,False
+ACH-001510,-0.1742930464604726,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,H376,H376,1.9818526532897407,False,False,False
+ACH-002110,-0.1739988308462092,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,EW-1,EW1,,False,False,False
+ACH-001481,-0.1737540209421015,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,CHLA-90,CHLA90,2.722466024471091,False,False,False
+ACH-001518,-0.173571735120014,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HEC-116,HEC116,4.93451650158608,False,False,False
+ACH-001799,-0.173564642374222,Soft Tissue,Liposarcoma,Dedifferentiated Liposarcoma,DDLS,LPS141,LPS141,4.539158811108031,False,False,False
+ACH-000791,-0.1725316458328494,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,RERF-LC-Ad1,RERFLCAD1,0.7570232465074596,False,False,False
+ACH-002662,-0.1721691963385943,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,JVE-207,JVE207,0.0,False,False,False
+ACH-000633,-0.1719254279474537,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,FU97,FU97,0.2630344058337938,False,False,False
+ACH-003180,-0.1712159703760938,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,NRH-UPS2,NRHUPS2,2.2172307162206693,False,False,False
+ACH-001993,-0.1711012325681326,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma with Hypodiploidy,BLLHYPO,NALM-16,NALM16,4.417515002885087,False,False,False
+ACH-001450,-0.1709573829086389,Lymphoid,Mature B-Cell Neoplasms,Burkitt Lymphoma,BL,BLUE-1,BLUE1,0.01435529297707,False,False,False
+ACH-002280,-0.1703415470260496,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NB13,NB13,,False,False,False
+ACH-000324,-0.1692913637916581,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,JHOC-5,JHOC5,1.879705766282288,False,False,False
+ACH-002003,-0.168766815861599,Skin,Melanoma,Melanoma,MEL,A375 SKIN CJ3,A375SKINCJ3,4.452200049406222,False,False,False
+ACH-001530,-0.1680955061007812,Uterus,Gestational Trophoblastic Disease,Choriocarcinoma,UCCA,JEG-3,JEG3,1.1043366598147355,False,False,False
+ACH-000576,-0.1678987622598715,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,KMS-27,KMS27,3.547203024756932,False,False,False
+ACH-002062,-0.1673590945879713,Lymphoid,Mature B-Cell Neoplasms,Splenic Marginal Zone Lymphoma,SMZL,SLVL,SLVL,4.295723024539968,False,False,False
+ACH-001624,-0.1668910392294232,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,Onda 9,ONDA9,1.722466024471091,True,True,True
+ACH-001020,-0.1666632565375831,CNS/Brain,Embryonal Tumor,Atypical Teratoid/Rhabdoid Tumor,ATRT,BT-16,BT16,1.4059923596758368,False,False,True
+ACH-002261,-0.1662448627584181,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,KP-N-YS,KPNYS,,False,False,False
+ACH-000076,-0.1659453906731271,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,NCO2,NCO2,5.038260575175349,False,False,False
+ACH-001765,-0.1658404930487256,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,Rh4,RH4,2.5777309314900805,False,False,False
+ACH-000182,-0.1657887950711239,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,SNU-869,SNU869,1.8953026213333068,False,False,False
+ACH-002030,-0.1655888238978005,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,Sa3,SA3,,False,False,False
+ACH-001670,-0.1653011004980823,CNS/Brain,Embryonal Tumor,Primitive Neuroectodermal Tumor,PNET,TASK1,TASK1,0.1634987322828795,False,False,True
+ACH-001278,-0.1652831402944458,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Small Cell Carcinoma of the Ovary,SCCO,BIN-67,BIN67,1.9745293124838816,False,False,False
+ACH-001334,-0.1651501946128745,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,C-4 I,C4I,2.9891390073682333,False,False,False
+ACH-001303,-0.1638053504627726,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NB-1643,NB1643,2.6959938131099,False,False,False
+ACH-000213,-0.163628093413614,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,HUP-T4,HUPT4,3.321928094887362,False,False,False
+ACH-000984,-0.1624436848373661,Uterus,Endometrial Carcinoma,Uterine Adenosquamous Carcinoma,UASC,HEC-6,HEC6,4.729552770453971,False,False,False
+ACH-000637,-0.1624093848125332,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-520,KYSE520,2.414135532984451,False,False,False
+ACH-000477,-0.1623019898683846,Skin,Melanoma,Melanoma,MEL,Malme-3M,MALME3M,4.938756261492295,False,False,False
+ACH-000442,-0.1622597920281957,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,RERF-LC-Sq1,RERFLCSQ1,5.382321407114501,False,False,False
+ACH-000407,-0.1621854929202051,Uterus,Endometrial Carcinoma,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,UCS,SNU-685,SNU685,3.19377174339668,False,False,False
+ACH-001418,-0.1620054478499816,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,UWB1.289,UWB1289,2.875780063068488,False,False,False
+ACH-002045,-0.1619048327157925,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,HO-1-u-1,HO1U1,1.097610796626422,False,False,False
+ACH-000922,-0.1615397880047882,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1,BLLTCF3PBX1,RCH-ACV,RCHACV,3.661065479806948,False,False,False
+ACH-000824,-0.1615171795441358,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-510,KYSE510,1.0840642647884746,False,False,False
+ACH-000684,-0.1611556630793519,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,KMRC-1,KMRC1,4.20163386116965,False,False,False
+ACH-000525,-0.1603685789385568,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H2171,NCIH2171,3.5909612413426,False,False,False
+ACH-000398,-0.1601204731930826,Lymphoid,Mature B-Cell Neoplasms,Activated B-cell Type,ABC,RI-1,RI1,2.38404980679516,False,False,False
+ACH-000181,-0.1598263950175241,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,SCC-9,SCC9,3.40735275114004,False,False,False
+ACH-000336,-0.1596070794963334,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,OCI-AML3,OCIAML3,5.013908845490639,False,False,False
+ACH-000941,-0.1591116196280876,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HEC-1-B,HEC1B,0.3103401206121505,False,False,False
+ACH-000936,-0.1587345394588353,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,EFO-27,EFO27,5.247927513443585,False,False,False
+ACH-002530,-0.1582503733318535,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,SNU-977,SNU977,,False,False,False
+ACH-002005,-0.1579994146290825,Skin,Melanoma,Cutaneous Melanoma,SKCM,SK-MEL-19,SKMEL19,5.5777309314900805,False,False,False
+ACH-000607,-0.1576712233444235,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,ERMS,KYM-1,KYM1,0.3103401206121505,False,False,False
+ACH-000045,-0.157557345369845,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,MV4-11,MV411,4.82781902461732,False,False,False
+ACH-001275,-0.1573593588163539,Bone,Osteosarcoma,Osteosarcoma,OS,OSA 1777,OSA1777,1.655351828612554,False,False,False
+ACH-001647,-0.1567399637452849,Myeloid,Acute Myeloid Leukemia,Acute Monoblastic/Monocytic Leukemia,AMOL,SHI-1,SHI1,3.6158870739160567,False,False,False
+ACH-000632,-0.1562897760323433,Skin,Melanoma,Cutaneous Melanoma,SKCM,Hs 944.T,HS944T,4.674121632632394,False,False,False
+ACH-000345,-0.1555506240287176,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,KP-N-RT-BM-1,KPNRTBM1,4.797531839571962,False,False,False
+ACH-000514,-0.1552683946944113,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H1092,NCIH1092,3.007195501404204,False,False,False
+ACH-000405,-0.1544268072390195,Lymphoid,Mature B-Cell Neoplasms,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,CLLSLL,MEC-1,MEC1,3.2047667506546134,False,False,False
+ACH-001134,-0.1543998492212387,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Lymphoblastic Leukemia/Lymphoma,TLL,MYLA,MYLA,3.730096465595469,False,False,False
+ACH-001814,-0.1534036254067596,Bone,Osteosarcoma,Osteosarcoma,OS,OS252,OS252,2.669026765509631,False,False,False
+ACH-000074,-0.153200804298131,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,KU812,KU812,4.028569152196771,False,False,False
+ACH-001850,-0.1527326289046341,Biliary Tract,Intracholecystic Papillary Neoplasm,"Gallbladder Adenocarcinoma, NOS",GBAD,G415,G415,1.3334237337251915,False,False,False
+ACH-002016,-0.1526955586680822,Eye,Ocular Melanoma,Uveal Melanoma,UM,Mel290,MEL290,2.1076878693143737,False,False,False
+ACH-000208,-0.1525838704889398,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,U-178,U178,3.2675357980687347,False,True,True
+ACH-002499,-0.1522027085731565,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,UACC-3199,UACC3199,4.676944359106912,False,False,False
+ACH-000364,-0.1520690595453512,Bone,Osteosarcoma,Osteosarcoma,OS,U-2 OS,U2OS,1.819668183496456,False,False,False
+ACH-000480,-0.1516838900641098,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,HuH-7,HUH7,2.0426443374084937,False,False,False
+ACH-000252,-0.1516540394685217,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,LS1034,LS1034,0.3673710656485294,False,False,False
+ACH-001331,-0.1495686376010832,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,BICR 10,BICR10,,False,False,False
+ACH-002792,-0.1495426611077779,Soft Tissue,Clear Cell Sarcoma,Clear Cell Sarcoma,CCS,NCC-CCS1B-C1,NCCCCS1BC1,4.653060017104565,False,False,False
+ACH-000082,-0.149454023115003,Bone,Osteosarcoma,Osteosarcoma,OS,"G-292, clone A141B1",G292CLONEA141B1,1.632268215499513,False,False,False
+ACH-000965,-0.1489537644640543,Uterus,Endometrial Carcinoma,Uterine Adenosquamous Carcinoma,UASC,RL95-2,RL952,1.0840642647884746,False,False,False
+ACH-000777,-0.148664397049737,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-30,KYSE30,1.713695814843359,False,False,False
+ACH-001719,-0.1484659152522938,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,OCI-C4P,OCIC4P,1.967168607532628,False,False,False
+ACH-000106,-0.1483664732667537,Lymphoid,Mature B-Cell Neoplasms,Mantle Cell Lymphoma,MCL,JVM-2,JVM2,3.323370069061269,False,False,False
+ACH-000192,-0.1481927952217516,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,MFE-280,MFE280,2.060047383669939,False,False,False
+ACH-000819,-0.1481427915976637,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,LN-18,LN18,2.27500704749987,True,True,True
+ACH-001521,-0.1481345886656477,Skin,Cutaneous Squamous Cell Carcinoma,Cutaneous Squamous Cell Carcinoma,CSCC,HKA-1,HKA1,2.994579724215748,False,False,False
+ACH-001188,-0.1479688092689959,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,SH-SY5Y,SHSY5Y,2.0531113364595623,False,False,False
+ACH-000781,-0.1477662199926921,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H2023,NCIH2023,3.608809242675524,False,False,False
+ACH-000832,-0.1476784771660027,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,CAL 27,CAL27,2.028569152196771,False,False,False
+ACH-002083,-0.1462843571494247,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NB69,NB69,,False,False,False
+ACH-000178,-0.145887879239455,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Hs 766T,HS766T,1.613531652917927,False,False,False
+ACH-002052,-0.1454314543946369,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,Lu-139,LU139,1.989139007368233,False,False,False
+ACH-000431,-0.1452022147483672,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H1694,NCIH1694,2.1731274334806563,False,False,False
+ACH-001975,-0.145101649281139,Skin,Melanoma,Melanoma,MEL,MM576,MM576,3.8094144442358986,False,False,False
+ACH-000404,-0.1450506231638411,Skin,Melanoma,Cutaneous Melanoma,SKCM,K029AX,K029AX,5.2433644256936605,False,False,False
+ACH-000120,-0.1449462797659314,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,CHP-212,CHP212,1.3103401206121503,False,False,False
+ACH-000739,-0.1445318563852479,Liver,Hepatoblastoma,Hepatoblastoma,LIHB,Hep G2,HEPG2,0.01435529297707,False,False,False
+ACH-000257,-0.1444603562636546,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,COR-L279,CORL279,1.5753123306874368,False,False,False
+ACH-000244,-0.1442059556507561,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,DK-MG,DKMG,2.693765712217783,True,True,True
+ACH-000103,-0.1441434271037999,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,Caov-4,CAOV4,0.3448284969974411,False,False,False
+ACH-001555,-0.1436718084335069,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,Mero-14,MERO14,2.3305584000308026,False,False,False
+ACH-000343,-0.1433691973258547,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H522,NCIH522,2.3305584000308026,False,False,False
+ACH-001577,-0.1431954044135276,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,MUTZ-8,MUTZ8,4.224194663970433,False,False,False
+ACH-001536,-0.1429589664333683,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Extrahepatic Cholangiocarcinoma,EHCH,KKU-100,KKU100,2.344828496997441,False,False,False
+ACH-001307,-0.1429381915110812,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,8505C,8505C,0.5058909297299573,False,False,False
+ACH-000683,-0.1426859150092186,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,SNU-503,SNU503,1.831877241191673,False,False,False
+ACH-002922,-0.1426556590104618,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,SK-N-MM,SKNMM,2.769771739249448,False,False,False
+ACH-000248,-0.1426536056261492,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,AU565,AU565,4.777156666004501,False,False,False
+ACH-001528,-0.1425061755626057,Thyroid,Well-Differentiated Thyroid Cancer,Papillary Thyroid Cancer,THPA,IHH-4,IHH4,3.5298209465286954,False,False,False
+ACH-000869,-0.1423496763805075,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1568,NCIH1568,3.713695814843359,False,False,False
+ACH-000796,-0.142265200186238,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,MCAS,MCAS,3.3909427728025427,False,False,False
+ACH-002051,-0.1422406764041885,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,Lu-134-A,LU134A,0.6959938131099002,False,False,False
+ACH-000706,-0.1422385141130107,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,EKVX,EKVX,3.228049047884462,False,False,False
+ACH-000921,-0.1420342480843037,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,NCI-H157-DM,NCIH157DM,4.540399305630624,False,False,False
+ACH-001431,-0.1418553339445326,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,TC-205,TC205,0.6870606883398922,False,False,False
+ACH-000313,-0.1412663347510441,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,KMRC-3,KMRC3,2.3305584000308026,False,False,False
+ACH-000232,-0.1408740072385725,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,U-251 MG,U251MG,2.8933622107638715,False,True,True
+ACH-000029,-0.1403158812739009,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,HCC-827-GR5,HCC827GR5,3.595742339474399,False,False,False
+ACH-000271,-0.1402694193501199,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,SU-DHL-10,SUDHL10,0.2387868595871165,False,False,False
+ACH-002705,-0.1402396924032345,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,IS076P,IS076P,1.709290635723358,False,False,False
+ACH-001558,-0.1401922740392954,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Biphasic Type",PLBMESO,Mero-48a,MERO48A,3.237257770900372,False,False,False
+ACH-000698,-0.1398697995080993,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,DMS 53,DMS53,1.6088092426755238,False,False,False
+ACH-001567,-0.1396005685656372,Skin,Melanoma,Melanoma,MEL,MM383,MM383,2.333423733725192,False,False,False
+ACH-001568,-0.1395122930040562,Skin,Melanoma,Melanoma,MEL,MM386,MM386,3.7897292513757694,False,False,False
+ACH-000571,-0.1392662327559687,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,T98G,T98G,1.2750070474998698,True,True,True
+ACH-000101,-0.1384222438483057,Lymphoid,Mature T and NK Neoplasms,Adult T-Cell Leukemia/Lymphoma,ATLL,KE-37,KE37,5.700994494168267,False,False,False
+ACH-000621,-0.1381726261294272,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,MDA-MB-157,MDAMB157,3.0250287944915226,False,False,False
+ACH-002019,-0.1379190511092266,Cervix,Glassy Cell Carcinoma of the Cervix,Glassy Cell Carcinoma of the Cervix,CEGCC,HOKUG,HOKUG,2.3045110418099526,False,False,False
+ACH-000209,-0.1376290276979614,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,SNU-1079,SNU1079,1.111031312388744,False,False,False
+ACH-002672,-0.1371805659583219,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,MAPAC-HS-77,MAPACHS77,2.933572638261024,False,False,False
+ACH-000681,-0.1366280542300543,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,A549,A549,4.084914659767938,False,False,False
+ACH-000858,-0.1365365646614907,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,KNS-62,KNS62,2.269033146455237,False,False,False
+ACH-001228,-0.1358537045820197,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-152,UPCISCC152,0.0285691521967709,False,False,False
+ACH-000588,-0.1357315469282798,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,KMS-26,KMS26,3.472487771462744,False,False,False
+ACH-000486,-0.1355004809638186,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,KU-19-19,KU1919,5.60229058486114,False,False,False
+ACH-000896,-0.1353226736876965,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,647-V,647V,3.820689560559215,False,False,False
+ACH-000366,-0.1344319314070028,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,SK-N-DZ,SKNDZ,2.4356285940520905,False,False,False
+ACH-002269,-0.134183413490551,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,LNZTA3WT4,LNZTA3WT4,,False,True,True
+ACH-000216,-0.1340920041070023,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,JH-EsoAd1,JHESOAD1,4.631104282365877,False,False,False
+ACH-001695,-0.1330600826656236,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-099,UPCISCC099,1.292781749227846,False,False,False
+ACH-001422,-0.1327923320445172,Prostate,Non-Cancerous,"Immortalized Epithelial Cells, Prostate",,WPE1-NA22,WPE1NA22,2.853995647176393,False,False,False
+ACH-000648,-0.1327684093571978,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,NCI-H28,NCIH28,4.106013237622119,False,False,False
+ACH-000871,-0.1327502223514232,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H510,NCIH510,5.207502459258789,False,False,False
+ACH-000601,-0.132691172076,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,MIA PaCa-2,MIAPACA2,0.2868811477881615,False,False,False
+ACH-001412,-0.1326837107272936,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,UM-UC-10,UMUC10,3.977279923499916,False,False,False
+ACH-000265,-0.1324865178286856,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,KP-4,KP4,2.718087583960517,False,False,False
+ACH-001038,-0.1322670636464596,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,COG-E-352,COGE352,1.2078928516413328,False,False,False
+ACH-000569,-0.1315905150560248,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,IST-MES1,ISTMES1,0.5655971758542251,False,False,False
+ACH-000401,-0.1315492672433964,Skin,Melanoma,Cutaneous Melanoma,SKCM,COLO-800,COLO800,4.764473550992666,False,False,False
+ACH-002029,-0.131508420105846,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,SAS,SAS,2.526068811667588,False,False,False
+ACH-000235,-0.1311667613767395,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Panc 04.03,PANC0403,4.398487190018967,False,False,False
+ACH-001662,-0.1307203249108163,Breast,Invasive Breast Carcinoma,"Breast Invasive Cancer, NOS",BRCANOS,SNU-2372,SNU2372,0.0426443374084937,False,False,False
+ACH-000169,-0.1301864825254576,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,ERMS,RD,RD,1.292781749227846,False,False,False
+ACH-000397,-0.1296355470638803,Uterus,Endometrial Carcinoma,Uterine Clear Cell Carcinoma,UCCC,TEN,TEN,2.786596361890807,False,False,False
+ACH-002544,-0.1295953691970603,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,SNU-1750,SNU1750,6.095924419998536,False,False,False
+ACH-001419,-0.1293476568118066,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,VP229,VP229,3.4276061727818994,False,False,False
+ACH-000487,-0.1293234982542017,Myeloid,Myelodysplastic Syndromes,Myelodysplastic Syndromes,MDS,F-36P,F36P,5.644144699932848,False,False,False
+ACH-000093,-0.1293135827971249,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Panc 05.04,PANC0504,4.1586601753464985,False,False,False
+ACH-002018,-0.1286591762272726,Eye,Ocular Melanoma,Uveal Melanoma,UM,Omm2.5,OMM25,3.2234225499349374,False,False,False
+ACH-001990,-0.1283196975145793,Skin,Melanoma,Melanoma,MEL,NZM7,NZM7,1.5310694927259538,False,False,False
+ACH-001370,-0.1283150924226577,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,OCI-P5x,OCIP5X,1.3561438102252754,False,False,False
+ACH-001306,-0.1281361752146104,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,8305C,8305C,3.9523335663696857,False,False,False
+ACH-000882,-0.1277966563730787,Skin,Melanoma,Melanoma,MEL,IGR-1,IGR1,4.949534933017012,False,False,False
+ACH-000302,-0.1277759767894179,Uterus,Endometrial Carcinoma,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,UCS,SNU-1077,SNU1077,3.431622959713292,False,False,False
+ACH-000719,-0.1277210903838618,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,RMG-I,RMGI,4.662775171937776,False,False,False
+ACH-001794,-0.1276055136522325,Soft Tissue,Liposarcoma,Well-Differentiated Liposarcoma,WDLS,93T449,93T449,0.5753123306874368,False,False,False
+ACH-000308,-0.1273665263463443,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,EFO-21,EFO21,1.4276061727818994,False,False,False
+ACH-001861,-0.1272498279977007,Biliary Tract,Intracholecystic Papillary Neoplasm,Gallbladder Cancer,GBC,TGBC1TKB,TGBC1TKB,3.485426827170241,False,False,False
+ACH-001408,-0.1271874748335144,Bladder/Urinary Tract,Urethral Cancer,Urethral Urothelial Carcinoma,UCU,UM-UC-14,UMUC14,4.40667271575583,False,False,False
+ACH-002106,-0.1271247977207075,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,ES5,ES5,,False,False,False
+ACH-002486,-0.1270376240812026,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,MES-OV,MESOV,3.6678921252302334,False,False,False
+ACH-001048,-0.1270176802857332,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,COV504,COV504,3.657640005207824,False,False,False
+ACH-000652,-0.1262887599908411,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,SUIT-2,SUIT2,4.286881147788161,False,False,False
+ACH-001054,-0.1262730245864865,CNS/Brain,Embryonal Tumor,Medulloblastoma,MBL,D458,D458,1.4854268271702415,False,False,True
+ACH-001972,-0.1259385844094001,Skin,Melanoma,Melanoma,MEL,MM473,MM473,5.113117036390723,False,False,False
+ACH-000450,-0.1255568683143939,Skin,Melanoma,Melanoma,MEL,MEL-HO,MELHO,5.898692072560488,False,False,False
+ACH-001835,-0.1254103991028629,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC10-6,ICC106,0.4329594072761062,False,False,False
+ACH-001347,-0.1247615327814117,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,H157,H157,0.8953026213333066,False,False,False
+ACH-000944,-0.1243265909882453,Lymphoid,Mature B-Cell Neoplasms,Burkitt Lymphoma,BL,NAMALWA,NAMALWA,1.726831217032493,False,False,False
+ACH-001656,-0.1240665842119976,Myeloid,Acute Myeloid Leukemia,AML with Maturation,AM,SKNO-1,SKNO1,4.917909073852982,False,False,False
+ACH-000291,-0.1233988684470356,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,OV-90,OV90,3.0,False,False,False
+ACH-001400,-0.1232741338785421,Vulva/Vagina,Squamous Cell Carcinoma of the Vulva/Vagina,Squamous Cell Carcinoma of the Vulva/Vagina,VSC,SW 954,SW954,0.6229303509201767,False,False,False
+ACH-001061,-0.1231152431825487,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,DLD-1,DLD1,0.2141248053528473,False,False,False
+ACH-001736,-0.1228208422845706,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1,BLLETV6RUNX1,HB1119,HB1119,5.341985747228616,False,False,False
+ACH-000160,-0.1227379158713496,CNS/Brain,Embryonal Tumor,Atypical Teratoid/Rhabdoid Tumor,ATRT,BT-12,BT12,4.775050541483175,False,False,True
+ACH-000881,-0.1224907277478709,Skin,Melanoma,Cutaneous Melanoma,SKCM,MEL-JUSO,MELJUSO,1.8914191868460783,False,False,False
+ACH-002465,-0.1224261566992064,Eye,Non-Cancerous,"Immortalized Epithelial Cells, Retinal",,RPE1-ss119,RPE1SS119,3.614709844115208,False,False,False
+ACH-001836,-0.121570615300782,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC10-8,ICC108,3.543495883425772,False,False,False
+ACH-000147,-0.1210235204723179,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,T-47D,T47D,2.5285713188707577,False,False,False
+ACH-000168,-0.1209928647484576,Myeloid,Acute Myeloid Leukemia,Acute Monoblastic/Monocytic Leukemia,AMOL,NOMO-1,NOMO1,5.073820233291672,False,False,False
+ACH-000704,-0.1209225738114471,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,OAW42,OAW42,0.2141248053528473,False,False,False
+ACH-001562,-0.1208041336530742,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,Mero-95,MERO95,1.978195629681652,False,False,False
+ACH-001451,-0.1208039686330873,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,BOKU,BOKU,2.6848187375532224,False,False,False
+ACH-000305,-0.1203219575767413,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,EC-GI-10,ECGI10,4.328405658958567,False,False,False
+ACH-001280,-0.1202587205242508,Soft Tissue,Synovial Sarcoma,Synovial Sarcoma,SYNS,SCS-214,SCS214,3.7676547982373454,False,False,False
+ACH-001702,-0.1199765864803053,Soft Tissue,Epithelioid Sarcoma,Epithelioid Sarcoma,EPIS,VA-ES-BJ,VAESBJ,0.5558161550616396,False,False,False
+ACH-000227,-0.119815304253019,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,KP-N-YN,KPNYN,3.4789718050329426,False,False,False
+ACH-002284,-0.1197938047328061,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NB6,NB6,,False,False,False
+ACH-001393,-0.1196835721375128,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,SUM-190PT,SUM190PT,1.6915341649192002,False,False,False
+ACH-001643,-0.1194969619593475,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,SCCH-196,SCCH196,,False,False,False
+ACH-002523,-0.1193279015785082,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SNU-739,SNU739,2.077242998932461,False,False,False
+ACH-002039,-0.1191051456158187,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PK-8,PK8,3.4620523187964327,False,False,False
+ACH-001844,-0.1189058914855202,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC4,ICC4,1.1243281350022014,False,False,False
+ACH-001533,-0.1187206060323287,Lymphoid,Mature B-Cell Neoplasms,Splenic Marginal Zone Lymphoma,SMZL,KARPAS 1718,KARPAS1718,0.918386234446348,False,False,False
+ACH-000657,-0.1185227293404408,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,A2780,A2780,1.3448284969974411,False,False,False
+ACH-001522,-0.1183518108734469,Skin,Melanoma,Melanoma,MEL,HMY-1,HMY1,5.637204481902295,False,False,False
+ACH-000183,-0.1183454812148082,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,L-363,L363,3.13586316536868,False,False,False
+ACH-001036,-0.1182704533028071,Myeloid,Acute Myeloid Leukemia,Myeloid Leukemia Associated with Down Syndrome,MLADS,CMK-11-5,CMK115,3.853995647176393,False,False,False
+ACH-000874,-0.1180208501299308,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged,BLLKMT2A,RS4;11,RS411,4.33699741660501,False,False,False
+ACH-001819,-0.1179874416327203,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,MFM-223,MFM223,1.807354922057604,False,False,False
+ACH-000836,-0.1178829830817979,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,YD-15,YD15,2.3103401206121505,False,False,False
+ACH-000124,-0.1177473055674133,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,OCI-LY-19,OCILY19,4.965784284662087,False,False,False
+ACH-002156,-0.1176925065544937,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,LC-1-sq,LC1SQ,,False,False,False
+ACH-000651,-0.1176699952481723,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SW 620,SW620,2.655351828612554,False,False,False
+ACH-000420,-0.1175969922695589,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SNU-449,SNU449,0.2141248053528473,False,False,False
+ACH-000522,-0.1175111941162779,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,UM-UC-3,UMUC3,4.581351247168778,False,False,False
+ACH-000215,-0.117293528080689,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,LN382,LN382,3.602884408718418,True,True,True
+ACH-001461,-0.1172077422771509,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,C99,C99,0.1634987322828795,False,False,False
+ACH-001997,-0.1167185068779498,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Extrahepatic Cholangiocarcinoma,EHCH,ECC2,ECC2,4.721919445551544,False,False,False
+ACH-000551,-0.1165622686276843,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,K-562,K562,3.782408564927373,False,False,False
+ACH-002229,-0.1164609506545444,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,D-502MG,D502MG,,True,True,True
+ACH-001310,-0.1163796670052708,Kidney,Non-Cancerous,Immortalized Embyonic Kidney Cells,,HA1E,HA1E,3.5298209465286954,False,False,False
+ACH-000164,-0.1162432566179562,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PANC-1,PANC1,2.918386234446348,False,False,False
+ACH-000741,-0.1160683734810256,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,U-BLC1,UBLC1,3.82273014794452,False,False,False
+ACH-000765,-0.1160656485689018,Skin,Melanoma,Melanoma,MEL,WM983B,WM983B,5.188638294561388,False,False,False
+ACH-001961,-0.1159614175334856,Biliary Tract,Intracholecystic Papillary Neoplasm,"Gallbladder Adenocarcinoma, NOS",GBAD,GB2,GB2,2.944858445807539,False,False,False
+ACH-002250,-0.1159039539887983,Head and Neck,Head and Neck Squamous Cell Carcinoma,Larynx Squamous Cell Carcinoma,LXSC,JHU-022,JHU022,,False,False,False
+ACH-000417,-0.1157079262454666,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Panc 08.13,PANC0813,1.803227036434928,False,False,False
+ACH-000475,-0.1155351088854185,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,huH-1,HUH1,1.613531652917927,False,False,False
+ACH-000070,-0.1153866028252384,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma with t(1;19)(q23;p13.3);TCF3-PBX1,BLLTCF3PBX1,697,697,3.350497247084133,False,False,False
+ACH-002446,-0.1153526069302293,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,CCLF_UPGI_0005_T,CCLFUPGI0005T,1.3103401206121503,False,False,False
+ACH-002046,-0.1150390601175655,Uterus,Endometrial Carcinoma,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,UCS,HTMMT,HTMMT,2.8196681834964554,False,False,False
+ACH-001804,-0.1148879107705947,Soft Tissue,Liposarcoma,Dedifferentiated Liposarcoma,DDLS,LPS510,LPS510,2.111031312388744,False,False,False
+ACH-002647,-0.1147882198792589,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Cholangiocarcinoma,CHOL,CCC-5,CCC5,2.1009776477248208,False,False,False
+ACH-000807,-0.1146554656139071,CNS/Brain,Diffuse Glioma,Oligodendroglioma,ODG,SNU-738,SNU738,2.5084286525318573,False,True,True
+ACH-002015,-0.1144456593899216,Eye,Ocular Melanoma,Uveal Melanoma,UM,Mel285,MEL285,2.9467308601403097,False,False,False
+ACH-001619,-0.114413971039206,Biliary Tract,Intracholecystic Papillary Neoplasm,"Gallbladder Adenocarcinoma, NOS",GBAD,OCUG-1,OCUG1,1.7990873060740036,False,False,False
+ACH-002510,-0.1143666424468731,Skin,Melanoma,Acral Melanoma,ACRM,M040416,M040416,6.27854238244459,False,False,False
+ACH-002214,-0.1142974818796461,Lymphoid,Mature B-Cell Neoplasms,Primary Effusion Lymphoma,PEL,BC-1,BC1,3.382667252745041,False,False,False
+ACH-000602,-0.1140513039965065,Myeloid,Acute Myeloid Leukemia,Acute Megakaryoblastic Leukemia,AMKL,M-07e,M07E,5.624393382219767,False,False,False
+ACH-001041,-0.1136768998064068,Skin,Melanoma,Melanoma,MEL,CHL-1-DM,CHL1DM,4.059182199211692,False,False,False
+ACH-001508,-0.1134619781407955,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,H314,H314,3.45022149589718,False,False,False
+ACH-001391,-0.1134188692647841,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,SUM-159PT,SUM159PT,3.6848187375532224,False,False,False
+ACH-000472,-0.1133922784435644,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,HSC-2,HSC2,2.389566811762726,False,False,False
+ACH-000855,-0.1132071232479164,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-150,KYSE150,2.895302621333306,False,False,False
+ACH-001856,-0.1130600489845504,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,RBE,RBE,2.646162657157894,False,False,False
+ACH-001442,-0.1127867835288669,Skin,Cutaneous Squamous Cell Carcinoma,Cutaneous Squamous Cell Carcinoma,CSCC,A388,A388,3.0197019144425483,False,False,False
+ACH-000346,-0.1126849897086087,Lymphoid,Mature B-Cell Neoplasms,B-Cell Prolymphocytic Leukemia,BPLL,JVM-3,JVM3,3.542258049766918,False,False,False
+ACH-001630,-0.1126024704423129,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,PEO1,PEO1,5.489607156748714,False,False,False
+ACH-000865,-0.1124946114395289,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-450,KYSE450,1.2387868595871168,False,False,False
+ACH-000639,-0.112233209533735,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H211,NCIH211,3.323370069061269,False,False,False
+ACH-001318,-0.1120919189000448,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PLC/PRF/5,PLCPRF5,2.636914580355878,False,False,False
+ACH-001368,-0.1118920505874699,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,OAC-M5.1,OACM51,0.6507645591169022,False,False,False
+ACH-002709,-0.1118158206490824,Myeloid,Acute Myeloid Leukemia,Acute Megakaryoblastic Leukemia,AMKL,CMS,CMS,,False,False,False
+ACH-000024,-0.111756592393391,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,OPM-2,OPM2,1.0772429989324606,False,False,False
+ACH-000249,-0.111616583255976,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,CL-11,CL11,1.459431618637297,False,False,False
+ACH-000471,-0.1114518254048131,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,Li-7,LI7,2.895302621333306,False,False,False
+ACH-000198,-0.1113984156241728,Myeloid,Myeloproliferative Neoplasms,"Chronic Eosinophilic Leukemia, NOS",CELNOS,EOL-1,EOL1,5.440287820840419,False,False,False
+ACH-001551,-0.1105806698240333,Skin,Merkel Cell Carcinoma,Merkel Cell Carcinoma,MCC,MCC14/2,MCC142,1.7311832415722,False,False,False
+ACH-000246,-0.1104946444367459,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,SLR 23,SLR23,,False,False,False
+ACH-001532,-0.1104589937222968,Kidney,Rhabdoid Cancer,Rhabdoid Cancer,MRT,JMU-RTK-2,JMURTK2,1.1309308698264486,False,False,False
+ACH-000974,-0.1103854671912407,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,SNG-M,SNGM,3.2016338611696504,False,False,False
+ACH-000446,-0.1100280540377947,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,KP-N-SI9s,KPNSI9S,3.0125686735030555,False,False,False
+ACH-000947,-0.1098664607487398,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,OVK18,OVK18,2.3132458517875616,False,False,False
+ACH-001669,-0.1096401752819887,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma,BLL,TANOUE,TANOUE,2.8094144442358986,False,False,False
+ACH-002233,-0.1095556594274839,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,DIFI,DIFI,,False,False,False
+ACH-000456,-0.1092343189086361,Thyroid,Poorly Differentiated Thyroid Cancer,Poorly Differentiated Thyroid Cancer,THPD,B-CPAP,BCPAP,3.400537929583729,False,False,False
+ACH-001389,-0.1091064672744907,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,SUM-1315MO2,SUM1315MO2,4.502712485966061,False,False,False
+ACH-001701,-0.1090861393996914,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-200,UPCISCC200,3.1176950426697547,False,False,False
+ACH-002462,-0.109032844080023,Eye,Non-Cancerous,"Immortalized Epithelial Cells, Retinal",,RPE1-ss48,RPE1SS48,3.9439213265534856,False,False,False
+ACH-001300,-0.1088666631041213,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,CHLA-15,CHLA15,2.475084882948783,False,False,False
+ACH-001649,-0.1077550650924986,Prostate,Non-Cancerous,"Immortalized Epithelial Cells, Prostate",,Shmac 5,SHMAC5,2.584962500721156,False,False,False
+ACH-001688,-0.1075881917975371,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,UM-RC-7,UMRC7,1.859969548221026,False,False,False
+ACH-000979,-0.107585041225789,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,DU 145,DU145,2.4168397419128294,False,False,False
+ACH-000838,-0.1074825080574977,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,AMO-1,AMO1,3.452858964713811,False,False,False
+ACH-000375,-0.1074312815816566,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,G-402,G402,0.7907720378619999,False,False,False
+ACH-000873,-0.1071868659883303,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-270,KYSE270,1.956056652412403,False,False,False
+ACH-000638,-0.1064668637486263,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H441,NCIH441,0.1763227726404628,False,False,False
+ACH-002535,-0.10639800459494,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,SNU-254,SNU254,3.2675357980687347,False,False,False
+ACH-000095,-0.1059673783317758,CNS/Brain,Embryonal Tumor,Medulloblastoma,MBL,D341 Med,D341Med,0.0976107966264223,False,False,True
+ACH-000444,-0.1058388951391183,Lung,Non-Small Cell Lung Cancer,Giant Cell Carcinoma of the Lung,GCLC,LU99,LU99,2.729008870337863,False,False,False
+ACH-000035,-0.1058365329705294,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,NCI-H1650,NCIH1650,3.8011586560936985,False,False,False
+ACH-000253,-0.105611468816619,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,COLO 201,COLO201,7.5712975825048545,False,False,False
+ACH-000278,-0.1054376600818548,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,COV362,COV362,2.495695162624069,False,False,False
+ACH-000785,-0.1053686731303341,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H2126,NCIH2126,3.9900472195737935,False,False,False
+ACH-000661,-0.1053413554188849,Skin,Melanoma,Melanoma,MEL,WM1799,WM1799,5.273888823668492,False,False,False
+ACH-000448,-0.105229642697468,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1666,NCIH1666,2.790772037862,False,False,False
+ACH-002926,-0.1050510186879022,Eye,Ocular Melanoma,Uveal Melanoma,UM,UPMD1,UPMD1,5.017921907997263,False,False,False
+ACH-000510,-0.1049256772563684,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,NCI-H1299,NCIH1299,2.298658315564515,False,False,False
+ACH-001606,-0.1046880067199577,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,no.11,NO11,,True,True,True
+ACH-001820,-0.1045825901167194,Breast,"Breast Neoplasm, NOS","Breast Neoplasm, NOS",BNNOS,COLO 824,COLO824,0.2750070474998697,False,False,False
+ACH-001977,-0.1041949477828135,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,NO36,NO36,0.7048719644563528,False,False,False
+ACH-000415,-0.1040972743225469,Head and Neck,Head and Neck Squamous Cell Carcinoma,Hypopharynx Squamous Cell Carcinoma,HPHSC,BICR 6,BICR6,1.3785116232537298,False,False,False
+ACH-001421,-0.1038881923193581,Eye,Retinoblastoma,Retinoblastoma,RBL,WERI-Rb-1,WERIRB1,2.9818526532897405,False,False,False
+ACH-001360,-0.1037074542918035,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,MS751,MS751,0.6870606883398922,False,False,False
+ACH-002401,-0.1036274691990432,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,21MT2,21MT2,4.746312766425459,False,False,False
+ACH-000022,-0.1035529010331791,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PA-TU-8988S,PATU8988S,0.0976107966264223,False,False,False
+ACH-000527,-0.1034419799818911,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,OVISE,OVISE,2.1473066987802936,False,False,False
+ACH-000843,-0.1031433651898854,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,HARA,HARA,1.3895668117627256,False,False,False
+ACH-002025,-0.1029623923883141,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,TT1TKB,TT1TKB,0.01435529297707,False,False,False
+ACH-000258,-0.1028357718885589,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Du4475,DU4475,2.37851162325373,False,False,False
+ACH-000682,-0.102570987309532,Head and Neck,Head and Neck Squamous Cell Carcinoma,Larynx Squamous Cell Carcinoma,LXSC,SNU-1066,SNU1066,1.655351828612554,False,False,False
+ACH-000834,-0.1025053492500256,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,UM-UC-1,UMUC1,3.27500704749987,False,False,False
+ACH-000591,-0.1024933514675913,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,LN-235,LN235,3.773996325111173,False,True,True
+ACH-001341,-0.1019630658659448,Cervix,Mixed Cervical Carcinoma,Mixed Cervical Carcinoma,MCCE,DoTc2 4510,DOTC24510,1.0214797274104517,False,False,False
+ACH-002004,-0.1018605741872363,Skin,Melanoma,Melanoma,MEL,UACC62 SKIN CJ1,UACC62SKINCJ1,4.745775149485796,False,False,False
+ACH-000489,-0.1016192117711856,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SW1116,SW1116,1.0071955014042038,False,False,False
+ACH-000528,-0.1016021691541088,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,ABC-1,ABC1,3.758089934201813,False,False,False
+ACH-002706,-0.1015927592375716,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,IS076A,IS076A,0.0565835283663675,False,False,False
+ACH-000905,-0.1015647812770348,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,5637,5637,4.934044647112246,False,False,False
+ACH-000804,-0.1014198758841362,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NB-1,NB1,3.661065479806948,False,False,False
+ACH-001399,-0.1012478095028734,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SW 626,SW626,1.6915341649192002,False,False,False
+ACH-000901,-0.100928709634101,Lung,Non-Small Cell Lung Cancer,Giant Cell Carcinoma of the Lung,GCLC,HCC-1359,HCC1359,3.604071323668861,False,False,False
+ACH-000906,-0.100226511068336,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,ES-2,ES2,3.922197848396367,False,False,False
+ACH-000330,-0.1001209870706731,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,EFM-19,EFM19,0.0426443374084937,False,False,False
+ACH-000133,-0.1000867090522183,Fibroblast,Non-Cancerous,Fibroblast,,Hs 729,HS729,1.622930350920177,False,False,False
+ACH-000717,-0.0992737808320958,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,COLO-680N,COLO680N,3.0531113364595623,False,False,False
+ACH-000463,-0.0992182001742385,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,NCI-H460,NCIH460,1.3561438102252754,False,False,False
+ACH-002528,-0.099143593750297,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,SNU-267,SNU267,4.060047383669939,False,False,False
+ACH-002687,-0.0989648327085812,Eye,Ocular Melanoma,Uveal Melanoma,UM,WM3772F,WM3772F,2.6182386555954547,False,False,False
+ACH-001436,-0.0987358294622669,Testis,Non-Seminomatous Germ Cell Tumor,Yolk Sac Tumor,TYST,1411H,1411H,,False,False,False
+ACH-000092,-0.0986067662894822,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Biphasic Type",PLBMESO,NCI-H2452,NCIH2452,3.62760683812965,False,False,False
+ACH-002710,-0.0985955532468172,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,MPNST-724,MPNST724,2.2720231890610485,False,False,False
+ACH-002500,-0.0983293068360018,Lymphoid,Mature B-Cell Neoplasms,Mantle Cell Lymphoma,MCL,Z-138,Z138,1.7484612330040354,False,False,False
+ACH-002680,-0.0981850396080719,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,170-MG-BA,170MGBA,3.189033824390017,True,True,True
+ACH-000913,-0.0979527351951522,Uterus,Uterine Sarcoma/Mesenchymal,Endometrial Stromal Sarcoma,ESS,ESS-1,ESS1,3.800123352826528,False,False,False
+ACH-002021,-0.0979270193175319,Uterus,Gestational Trophoblastic Disease,Choriocarcinoma,UCCA,T3M-3,T3M3,1.8678964639926547,False,False,False
+ACH-000191,-0.0979264419145715,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,BHT-101,BHT101,3.885574364371426,False,False,False
+ACH-001549,-0.0979115735666558,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,Lu-135,LU135,2.2078928516413328,False,False,False
+ACH-000053,-0.0977874137446262,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,KARPAS-299,KARPAS299,5.405992359675837,False,False,False
+ACH-000709,-0.0977093228993182,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,KMRC-2,KMRC2,3.372952097911829,False,False,False
+ACH-000753,-0.0976277543164851,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,JMSU-1,JMSU1,1.9373443921502325,False,False,False
+ACH-000228,-0.0972129329940905,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,BICR 31,BICR31,1.713695814843359,False,False,False
+ACH-001460,-0.0971069634005601,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,C84,C84,0.0976107966264223,False,False,False
+ACH-000946,-0.0968265700506353,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HEC-265,HEC265,3.634593268445757,False,False,False
+ACH-001795,-0.0967344841363947,Soft Tissue,Liposarcoma,Well-Differentiated Liposarcoma,WDLS,94T778,94T778,1.4905701304462011,False,False,False
+ACH-001353,-0.0964949841917909,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,JOPACA-1,JOPACA1,3.27500704749987,False,False,False
+ACH-001554,-0.0963669079073091,Eye,Ocular Melanoma,Uveal Melanoma,UM,mel-202,MEL202,4.234961094839504,False,False,False
+ACH-002055,-0.0963388362056902,Lymphoid,Mature B-Cell Neoplasms,Burkitt Lymphoma,BL,TL-1,TL1,0.2750070474998697,False,False,False
+ACH-002109,-0.0960884245545247,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,ES8,ES8,,False,False,False
+ACH-000618,-0.0960870442268307,Head and Neck,Head and Neck Squamous Cell Carcinoma,Hypopharynx Squamous Cell Carcinoma,HPHSC,SNU-1041,SNU1041,1.0908534304511135,False,False,False
+ACH-000242,-0.0959574202110895,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,RT4,RT4,0.070389327891398,False,False,False
+ACH-000048,-0.0958931001235173,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,TOV-112D,TOV112D,2.130930869826449,False,False,False
+ACH-000917,-0.0956800693365551,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,TE-4,TE4,2.3103401206121505,False,False,False
+ACH-000090,-0.0956487054088715,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,PC-3,PC3,3.3757345385831563,False,False,False
+ACH-002681,-0.0955925404389534,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,538-MG-BA,538MGBA,1.7004397181410922,True,True,True
+ACH-000389,-0.0952552033665963,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,H4,H4,2.475084882948783,False,True,True
+ACH-000013,-0.0952535755327075,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,ONCO-DG-1,ONCODG1,1.6959938131099002,False,False,False
+ACH-000794,-0.09510887097286,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,BICR 22,BICR22,2.063502942306158,False,False,False
+ACH-000292,-0.0950342927781898,Lung,SMARCA4-deficient undifferentiated tumor,SMARCA4-deficient undifferentiated tumor,,NCI-H841,NCIH841,2.908812907739548,False,False,False
+ACH-001642,-0.094807683927035,Lymphoid,Non-Hodgkin Lymphoma,Mature B-Cell Neoplasms,MBN,SCC-3,SCC3,4.36667191611176,False,False,False
+ACH-001543,-0.0946378123237508,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,KOSC-2,KOSC2,2.8619553641448694,False,False,False
+ACH-000356,-0.0944873429185068,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,MKN-45,MKN45,0.3895668117627256,False,False,False
+ACH-000207,-0.0942683126801586,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oropharynx Squamous Cell Carcinoma,OPHSC,Detroit 562,DETROIT562,2.9392265777282085,False,False,False
+ACH-002041,-0.0938685591200101,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,HOTHC,HOTHC,2.7845039829295666,False,False,False
+ACH-000455,-0.0938507460130584,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,LN-428,LN428,3.84799690655495,True,True,True
+ACH-000280,-0.0936811571414148,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,"Brenner Tumor, Malignant",BTMOV,SNU-840,SNU840,6.047669251391315,False,False,False
+ACH-002141,-0.0936456436865103,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Signet Ring Cell Carcinoma of the Stomach,SSRCC,HSC-39,HSC39,,False,False,False
+ACH-000499,-0.0936356276137584,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,EW8,EW8,0.5753123306874368,False,False,False
+ACH-001411,-0.0932732402849575,Bladder/Urinary Tract,Bladder Squamous Cell Carcinoma,Bladder Squamous Cell Carcinoma,BLSC,UM-UC-5,UMUC5,2.250961573533219,False,False,False
+ACH-000809,-0.093107686919334,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-410,KYSE410,3.454175893185802,False,False,False
+ACH-000835,-0.0928962825570053,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,GCT,GCT,4.266786540694901,False,False,False
+ACH-000798,-0.0928823262378295,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,CL-40,CL40,0.632268215499513,False,False,False
+ACH-000322,-0.0928682090526747,Skin,Melanoma,Melanoma,MEL,HT-144,HT144,4.268284666520996,False,False,False
+ACH-000646,-0.0925772365532038,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,OVMANA,OVMANA,0.0840642647884745,False,False,False
+ACH-001394,-0.0925089487224816,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,SUM-229PE,SUM229PE,2.84197311892718,False,False,False
+ACH-000988,-0.0924917939985476,Uterus,Endometrial Carcinoma,Uterine Adenosquamous Carcinoma,UASC,MFE-319,MFE319,3.20006486151431,False,False,False
+ACH-002460,-0.0922053857395141,Skin,Melanoma,Melanoma,MEL,HT144 SKIN FV2,HT144SKINFV2,3.700439718141092,False,False,False
+ACH-000161,-0.0921660841294394,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,COR-L105,CORL105,3.743084055549586,False,False,False
+ACH-001707,-0.0919555919408162,Lymphoid,Mature B-Cell Neoplasms,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,CLLSLL,WA-OSEL,WAOSEL,2.1473066987802936,False,False,False
+ACH-000685,-0.0917065681805028,Pancreas,Adenosquamous Carcinoma of the Pancreas,Adenosquamous Carcinoma of the Pancreas,PAASC,L3.3,L33,2.956056652412403,False,False,False
+ACH-001618,-0.0913485183305617,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,OCI-M2,OCIM2,3.400537929583729,False,False,False
+ACH-001029,-0.0911918399758849,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,CHLA-10,CHLA10,1.933572638261024,False,False,False
+ACH-000544,-0.0911816096400449,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,OE21,OE21,3.4776773275653072,False,False,False
+ACH-001375,-0.091004594075928,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PACADD-119,PACADD119,2.2570106182060234,False,False,False
+ACH-000139,-0.0909182881656404,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Panc 03.27,PANC0327,2.430285272977781,False,False,False
+ACH-000595,-0.0908232075000473,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,LN-229,LN229,2.9763636357327616,True,True,True
+ACH-001433,-0.0908004041745377,Soft Tissue,Epithelioid Sarcoma,Epithelioid Sarcoma,EPIS,CCLF_PEDS_0008_T,CCLFPEDS0008T,3.578938713093386,False,False,False
+ACH-002044,-0.090797598840247,Head and Neck,Head and Neck Squamous Cell Carcinoma,Sinonasal Squamous Cell Carcinoma,SNSC,HSQ-89,HSQ89,0.1110313123887439,False,False,False
+ACH-000481,-0.0907187454827033,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,NCI-H2170,NCIH2170,1.6040713236688608,False,False,False
+ACH-000533,-0.0905185388178516,Kidney,Rhabdoid Cancer,Rhabdoid Cancer,MRT,NCI-H2004 RT,NCIH2004RT,0.8953026213333066,False,False,False
+ACH-000827,-0.0900719002636101,Skin,Melanoma,Melanoma,MEL,WM793,WM793,3.713695814843359,False,False,False
+ACH-000734,-0.0899388127380907,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,JHH-5,JHH5,1.3895668117627256,False,False,False
+ACH-001849,-0.0899364118643736,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC9,ICC9,2.541019153133559,False,False,False
+ACH-001356,-0.0898953504521436,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,MB-1,MB1,2.277984747299765,False,False,False
+ACH-000376,-0.0898697452896432,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,SF-295,SF295,3.13586316536868,True,True,True
+ACH-000653,-0.089656780154785,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,JJN-3,JJN3,3.316145742293356,False,False,False
+ACH-000953,-0.0895829956207512,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Lymphoblastic Leukemia/Lymphoma,TLL,SUP-T1,SUPT1,4.241077458175037,False,False,False
+ACH-002806,-0.089461579550796,CNS/Brain,Diffuse Glioma,Anaplastic Astrocytoma,AASTR,TB096,TB096,4.573495715495609,False,True,True
+ACH-000898,-0.0894252663316722,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,SNU-719,SNU719,0.0565835283663675,False,False,False
+ACH-000021,-0.0893606308015728,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1693,NCIH1693,0.8155754288625725,False,False,False
+ACH-001960,-0.0888095472810108,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,CC-SW-1,CCSW1,3.72137265947682,False,False,False
+ACH-000344,-0.0884970505940517,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,SNU-668,SNU668,1.7570232465074596,False,False,False
+ACH-002119,-0.088396874426632,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,EW-7,EW7,,False,False,False
+ACH-000616,-0.0883430774551118,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,Hs 746T,HS746T,3.739848102699328,False,False,False
+ACH-000028,-0.0879607836592054,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,KPL-1,KPL1,1.5945485495503542,False,False,False
+ACH-000204,-0.087479249312215,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,LP-1,LP1,2.5777309314900805,False,False,False
+ACH-001559,-0.0873957587578364,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,Mero-82,MERO82,0.6507645591169022,False,False,False
+ACH-001791,-0.0869162799179207,Soft Tissue,Liposarcoma,Liposarcoma,LIPO,LPS6,LPS6,2.606442228131608,False,False,False
+ACH-000664,-0.0868455331046182,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,SU-DHL-1,SUDHL1,5.952799477899938,False,False,False
+ACH-000279,-0.0867240721755833,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,EWS502,EWS502,1.01435529297707,False,False,False
+ACH-000496,-0.0866734046919913,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1792,NCIH1792,2.5777309314900805,False,False,False
+ACH-000307,-0.086418423746543,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PK-1,PK1,3.5909612413426,False,False,False
+ACH-000790,-0.0864108810341311,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,SHP-77,SHP77,5.454175893185802,False,False,False
+ACH-000467,-0.0862657707932469,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,HCC-56,HCC56,0.0285691521967709,False,False,False
+ACH-000805,-0.0859318162039696,Skin,Melanoma,Cutaneous Melanoma,SKCM,COLO-679,COLO679,6.563920775153289,False,False,False
+ACH-001685,-0.0858139824478617,Lymphoid,Hodgkin Lymphoma,Hodgkin Lymphoma,HL,U-HO1,UHO1,1.1176950426697545,False,False,False
+ACH-002834,-0.085788229421628,Bone,Osteosarcoma,Osteosarcoma,OS,OS384,OS384,3.1521834190550453,False,False,False
+ACH-000250,-0.0855717329494676,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,KMRC-20,KMRC20,4.458775699080244,False,False,False
+ACH-000009,-0.0855285890219111,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,C2BBe1,C2BBE1,0.070389327891398,False,False,False
+ACH-001538,-0.0853954188564226,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,KKU-213,KKU213,3.5372960670908418,False,False,False
+ACH-000374,-0.084966943756552,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,HCC1143,HCC1143,2.969012307516316,False,False,False
+ACH-001556,-0.0846043793199502,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Biphasic Type",PLBMESO,Mero-25,MERO25,1.9297909977185967,False,False,False
+ACH-000211,-0.084176768630741,CNS/Brain,Embryonal Tumor,Medulloblastoma,MBL,Daoy,DAOY,4.368768349090335,False,False,True
+ACH-000460,-0.0841398258571582,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,SNU-8,SNU8,2.9616233282869446,False,False,False
+ACH-000403,-0.0838987446271828,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,NCI-H747,NCIH747,1.0214797274104517,False,False,False
+ACH-000776,-0.0836505492128562,CNS/Brain,Embryonal Tumor,Medulloblastoma,MBL,ONS-76,ONS76,0.4750848829487829,False,False,True
+ACH-001050,-0.0835414335118258,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,CW9019,CW9019,1.7949356628035362,False,False,False
+ACH-001652,-0.0833337455253232,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,SKG-II,SKGII,3.381283372503784,False,False,False
+ACH-000217,-0.083305159683484,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,JHH-6,JHH6,3.7463127664254574,False,False,False
+ACH-000784,-0.082915058368982,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-70,KYSE70,1.752748591407134,False,False,False
+ACH-000577,-0.0828979972975943,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,JHH-2,JHH2,3.3798981635246923,False,False,False
+ACH-001841,-0.0828678948527669,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC15,ICC15,3.169925001442312,False,False,False
+ACH-001333,-0.0827966022071864,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,C-33 A,C33A,2.4905701304462013,False,False,False
+ACH-001053,-0.0826408516598706,CNS/Brain,Embryonal Tumor,Medulloblastoma,MBL,D425,D425,0.3673710656485294,False,False,True
+ACH-001459,-0.0822110506451217,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,C80,C80,0.0,False,False,False
+ACH-000393,-0.0820715770818318,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,HLF,HLF,2.2016338611696504,False,False,False
+ACH-000316,-0.0820108600944366,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SNU-886,SNU886,4.401220862160216,False,False,False
+ACH-000983,-0.0819616642530968,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,KCL-22,KCL22,6.022811650915631,False,False,False
+ACH-001796,-0.0818978171203391,Soft Tissue,Liposarcoma,Well-Differentiated Liposarcoma,WDLS,95T1000,95T1000,2.0531113364595623,False,False,False
+ACH-001570,-0.0812589058716331,Skin,Melanoma,Melanoma,MEL,MM426,MM426,3.439623137557117,False,False,False
+ACH-001295,-0.0811240138373998,Eye,Retinoblastoma,Retinoblastoma,RBL,Y-79,Y79,0.2509615735332187,False,False,False
+ACH-000676,-0.0806299823820955,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,LN-464,LN464,4.361066488794321,True,True,True
+ACH-000663,-0.0801559491118866,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,OVTOKO,OVTOKO,0.632268215499513,False,False,False
+ACH-000151,-0.0799837655184038,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma,BLL,JM1,JM1,1.6735564239901446,False,False,False
+ACH-001328,-0.0799344630824794,Skin,Cutaneous Squamous Cell Carcinoma,Cutaneous Squamous Cell Carcinoma,CSCC,A-431,A431,3.114367024952,False,False,False
+ACH-000410,-0.0798765602266391,Bone,Osteosarcoma,Osteosarcoma,OS,Saos-2,SAOS2,2.7548875021634687,False,False,False
+ACH-001578,-0.0796663554420527,Testis,Non-Seminomatous Germ Cell Tumor,Embryonal Carcinoma,EMBCA,NCCIT,NCCIT,2.704871964456353,False,False,False
+ACH-000042,-0.0793324723453681,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Panc 02.03,PANC0203,4.1626934322112366,False,False,False
+ACH-000697,-0.079220972230532,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,A3/KAW,A3KAW,4.554588851677638,False,False,False
+ACH-000894,-0.0791765696209385,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,NCI-H1869,NCIH1869,1.0,False,False,False
+ACH-000281,-0.0791179624391652,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,KP-2,KP2,3.0197019144425483,False,False,False
+ACH-000100,-0.0788808678021548,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,RH-41,RH41,3.0669502439246266,False,False,False
+ACH-000437,-0.0787051081860257,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,SW 1088,SW1088,3.690417095532466,False,True,True
+ACH-000567,-0.0781924843154741,Lymphoid,Mature B-Cell Neoplasms,Burkitt Lymphoma,BL,ST486,ST486,2.032100843167024,False,False,False
+ACH-001031,-0.0780369341121384,CNS/Brain,Embryonal Tumor,Atypical Teratoid/Rhabdoid Tumor,ATRT,CHLA-266,CHLA266,2.8639384504239715,False,False,True
+ACH-000747,-0.0779427846829394,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,NCI-H1703,NCIH1703,2.169925001442312,False,False,False
+ACH-000087,-0.0778378069479125,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,SK-ES-1,SKES1,1.3617683594191536,False,False,False
+ACH-001229,-0.0777842988382726,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-154,UPCISCC154,0.1634987322828795,False,False,False
+ACH-001172,-0.0777750752972334,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,U-251 MG DM,U251MGDM,2.908812907739548,False,True,True
+ACH-000141,-0.0777494572067032,Biliary Tract,Intracholecystic Papillary Neoplasm,"Gallbladder Adenocarcinoma, NOS",GBAD,SNU-308,SNU308,2.1473066987802936,False,False,False
+ACH-002230,-0.0776803189462002,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,D-542MG,D542MG,,True,True,True
+ACH-000986,-0.0776363732087649,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,HT115,HT115,0.0426443374084937,False,False,False
+ACH-001696,-0.0776320878547104,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-111,UPCISCC111,1.6182386555954549,False,False,False
+ACH-000237,-0.077606023117916,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,JHOM-1,JHOM1,4.964398632203184,False,False,False
+ACH-002263,-0.0774760000107466,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-220,KYSE220,,False,False,False
+ACH-002400,-0.0774053882073702,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,21MT1,21MT1,,False,False,False
+ACH-000627,-0.0773948150824525,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,LCLC-103H,LCLC103H,4.774523529590232,False,False,False
+ACH-000849,-0.0772965896219337,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,MDA-MB-468,MDAMB468,3.583759753639499,False,False,False
+ACH-000425,-0.0772691023537318,Skin,Melanoma,Melanoma,MEL,UACC-62,UACC62,4.93451650158608,False,False,False
+ACH-000912,-0.0770630630591744,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H2286,NCIH2286,3.4436066514756147,False,False,False
+ACH-001802,-0.077062096037086,Soft Tissue,Liposarcoma,Dedifferentiated Liposarcoma,DDLS,LPS853,LPS853,2.503348735167504,False,False,False
+ACH-001388,-0.0770126489423602,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,SUM-102PT,SUM102PT,0.1634987322828795,False,False,False
+ACH-000005,-0.0769973894359173,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,HEL 92.1.7,HEL9217,5.066950243924628,False,False,False
+ACH-000286,-0.0769283710911404,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,SNU-1033,SNU1033,4.970393537914677,False,False,False
+ACH-000221,-0.0761590320394806,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SNU-398,SNU398,1.933572638261024,False,False,False
+ACH-001699,-0.0756063960441521,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-131,UPCISCC131,2.570462931026041,False,False,False
+ACH-000520,-0.0755957019566998,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,59M,59M,3.203201156316611,False,False,False
+ACH-001692,-0.0751776238156011,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-040,UPCISCC040,2.9467308601403097,False,False,False
+ACH-001683,-0.0748044280770346,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,ILC,UACC-3133,UACC3133,0.01435529297707,False,False,False
+ACH-000312,-0.0742074967069284,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,SK-N-BE(2),SKNBE2,4.551516017628014,False,False,False
+ACH-000422,-0.0741528851996268,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SNU-475,SNU475,1.599317793698226,False,False,False
+ACH-000377,-0.0730986982327071,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,SNU-478,SNU478,3.499527024215096,False,False,False
+ACH-000332,-0.0729953976576404,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,YAPC,YAPC,3.7644735509926655,False,False,False
+ACH-002048,-0.0728034544005341,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,ERMS,RMS-YM,RMSYM,0.0976107966264223,False,False,False
+ACH-002677,-0.0727645466294969,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,U-2946,U2946,0.5459683691052926,False,False,False
+ACH-000666,-0.0727445548172512,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1355,NCIH1355,4.130107178658833,False,False,False
+ACH-000778,-0.0722515671534184,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,HSC-3,HSC3,4.458775699080244,False,False,False
+ACH-002538,-0.0721784743860784,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SNU-1235,SNU1235,2.636914580355878,False,False,False
+ACH-001852,-0.0721240851550613,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,HKGZ-CC,HKGZCC,2.4195388915137843,False,False,False
+ACH-001628,-0.0719360816079253,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PEA1,PEA1,2.931683057059806,False,False,False
+ACH-001557,-0.0718256677546192,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,Mero-41,MERO41,4.538538163629804,False,False,False
+ACH-000507,-0.0709054902075445,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,KE-39,KE39,0.137503523749935,False,False,False
+ACH-000096,-0.0707536378956071,Kidney,Rhabdoid Cancer,Rhabdoid Cancer,MRT,G-401,G401,2.9763636357327616,False,False,False
+ACH-000041,-0.0707416538961714,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,RD-ES,RDES,2.62760683812965,False,False,False
+ACH-000521,-0.0703944597484871,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H2030,NCIH2030,4.200849574637213,False,False,False
+ACH-000793,-0.0700702257237682,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Signet Ring Cell Carcinoma of the Stomach,SSRCC,KATO III,KATOIII,0.0285691521967709,False,False,False
+ACH-000303,-0.0698616290602643,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,SNU-5,SNU5,3.13586316536868,False,False,False
+ACH-000411,-0.0696699404879509,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,769-P,769P,5.166313747889934,False,False,False
+ACH-000315,-0.069433846307823,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,KARPAS-422,KARPAS422,0.0976107966264223,False,False,False
+ACH-001164,-0.0694080348985498,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,CCLF_PEDS_0003_T,CCLFPEDS0003T,2.430285272977781,False,False,False
+ACH-002524,-0.0693549303467036,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,SNU-251,SNU251,1.9818526532897407,False,False,False
+ACH-001329,-0.0689018349746131,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,ANGM-CSS,ANGMCSS,1.232660756790275,True,True,True
+ACH-000502,-0.0682720375087432,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,TCC-PAN2,TCCPAN2,2.8659188145522125,False,False,False
+ACH-000163,-0.0680820625796616,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,SW579,SW579,2.488000770834068,False,False,False
+ACH-001622,-0.0678314607445235,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,Onda 7,ONDA7,3.2675357980687347,True,True,True
+ACH-000888,-0.0676257442484043,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1793,NCIH1793,3.192194165283345,False,False,False
+ACH-002020,-0.0671534048729029,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,SKG-IIIa,SKGIIIA,0.4114262457264649,False,False,False
+ACH-001648,-0.0670778320051878,Prostate,Non-Cancerous,"Immortalized Epithelial Cells, Prostate",,Shmac 4,SHMAC4,2.2387868595871168,False,False,False
+ACH-000219,-0.067058818719258,Skin,Melanoma,Melanoma,MEL,A-375,A375,3.0461417816447205,False,False,False
+ACH-001211,-0.0667856460754119,Soft Tissue,Rhabdoid Cancer,Extrarenal Rhabdoid Cancer,,TTC-549,TTC549,1.5008020530571575,False,False,False
+ACH-000188,-0.0667414936124432,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,SCC-25,SCC25,3.1391420191456887,False,False,False
+ACH-001607,-0.0667285503097327,Biliary Tract,Intracholecystic Papillary Neoplasm,"Gallbladder Adenocarcinoma, NOS",GBAD,NOZ,NOZ,4.554588851677638,False,False,False
+ACH-000243,-0.066615912544923,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,DAN-G,DANG,0.0976107966264223,False,False,False
+ACH-000099,-0.0664806472231617,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,SIMA,SIMA,0.3448284969974411,False,False,False
+ACH-000259,-0.0662766798422534,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,KELLY,KELLY,3.5360529002402097,False,False,False
+ACH-000505,-0.0661062511661072,Soft Tissue,Leiomyosarcoma,Leiomyosarcoma,LMS,RKN,RKN,4.329123596291566,False,False,False
+ACH-001608,-0.0660666841009143,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,NP 2,NP2,2.364572432295856,True,True,True
+ACH-002475,-0.0659630321087318,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,HAP1,HAP1,2.1176950426697547,False,False,False
+ACH-000826,-0.0656386626936685,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,CAL-12T,CAL12T,5.657354181523702,False,False,False
+ACH-000655,-0.0653622895537587,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,SF268,SF268,2.4168397419128294,False,True,True
+ACH-000187,-0.0650956827951,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,COR-L311,CORL311,2.636914580355878,False,False,False
+ACH-001664,-0.0650830836540584,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,SNU-638,SNU638,0.0,False,False,False
+ACH-001992,-0.0650695785243593,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,ONE58,ONE58,1.1505596765753812,False,False,False
+ACH-002002,-0.0650291619614663,Skin,Melanoma,Melanoma,MEL,A375 SKIN CJ2,A375SKINCJ2,2.9653225483672547,False,False,False
+ACH-001498,-0.0649881441723694,Lymphoid,Mature B-Cell Neoplasms,Germinal Center B-Cell Type,GCB,Farage,FARAGE,0.0565835283663675,False,False,False
+ACH-002659,-0.0649192907730743,Bowel,Colorectal Adenocarcinoma,Mucinous Adenocarcinoma of the Colon and Rectum,MACR,JVE-127,JVE127,0.0,False,False,False
+ACH-000137,-0.0645187786082242,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,8-MG-BA,8MGBA,4.562547724199122,True,True,True
+ACH-002464,-0.064277884931312,Eye,Non-Cancerous,"Immortalized Epithelial Cells, Retinal",,RPE1-ss6,RPE1SS6,3.158660175346498,False,False,False
+ACH-001194,-0.0642394011268743,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,SK-RC-31,SKRC31,3.938285791884053,False,False,False
+ACH-000390,-0.0639435301649869,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,LUDLU-1,LUDLU1,2.341985747228616,False,False,False
+ACH-000771,-0.0633695851412171,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,BICR 56,BICR56,2.269033146455237,False,False,False
+ACH-000775,-0.0632793551610093,Lung,Lung Neuroendocrine Tumor,Lung Carcinoid,LUCA,NCI-H727,NCIH727,0.8953026213333066,False,False,False
+ACH-000233,-0.06309651320203,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,DEL,DEL,5.6760981209122185,False,False,False
+ACH-000352,-0.0630012051295621,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,HCC1428,HCC1428,0.5558161550616396,False,False,False
+ACH-000978,-0.0629375261961017,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,EN,EN,3.805292455600712,False,False,False
+ACH-001524,-0.0627542957890777,Skin,Cutaneous Squamous Cell Carcinoma,Cutaneous Squamous Cell Carcinoma,CSCC,HSC-5,HSC5,2.82781902461732,False,False,False
+ACH-002033,-0.0625722550539642,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,HMMME,HMMME,0.2387868595871165,False,False,False
+ACH-000176,-0.0625432270520374,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,LOU-NH91,LOUNH91,2.38404980679516,False,False,False
+ACH-001385,-0.0625322938606541,Head and Neck,"Head and Neck Carcinoma, Other",NUT Midline Carcinoma of the Head and Neck,NMCHN,RPMI 2650,RPMI2650,0.0,False,False,False
+ACH-001563,-0.0625249379282697,Skin,Melanoma,Melanoma,MEL,MM127,MM127,1.2016338611696504,False,False,False
+ACH-001694,-0.0624404640877454,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-074,UPCISCC074,2.0874628412503395,False,False,False
+ACH-000484,-0.0620008021079621,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,VMRC-RCW,VMRCRCW,4.259272487037594,False,False,False
+ACH-000383,-0.0619967902468373,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,OE33,OE33,2.028569152196771,False,False,False
+ACH-000127,-0.0617066223758421,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,SLR 20,SLR20,1.3045110418099528,False,False,False
+ACH-000693,-0.0616060869095301,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,KYSE-180,KYSE180,3.0197019144425483,False,False,False
+ACH-000841,-0.0615356653537835,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H2087,NCIH2087,1.2387868595871168,False,False,False
+ACH-000114,-0.0614789276520231,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,SU.86.86,SU8686,3.2600256559614555,False,False,False
+ACH-000552,-0.0614740193404989,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,HT-29,HT29,0.6870606883398922,False,False,False
+ACH-000754,-0.0614654384069029,Lymphoid,Hodgkin Lymphoma,Hodgkin Lymphoma,HL,L-428,L428,1.803227036434928,False,False,False
+ACH-001283,-0.0614517750110594,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,TC-106,TC106,1.1243281350022014,False,False,False
+ACH-002070,-0.0610932502421149,CNS/Brain,Meningothelial Tumor,Meningioma,MNG,HKBMM,HKBMM,4.501439145158873,False,False,True
+ACH-002282,-0.0610831539582877,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NB17,NB17,,False,False,False
+ACH-002212,-0.0607182159089436,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,BB30-HNC,BB30HNC,,False,False,False
+ACH-000075,-0.0607160990602332,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,U-87 MG,U87MG,4.252476214135217,True,True,True
+ACH-000787,-0.0604672251479469,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,LXF-289,LXF289,4.1715271060388135,False,False,False
+ACH-001609,-0.0603434605797078,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,NP 3,NP3,2.361768359419153,True,True,True
+ACH-000123,-0.0601705552237704,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Small Cell Carcinoma of the Ovary,SCCO,COV434,COV434,1.2868811477881614,False,False,False
+ACH-001548,-0.0600462247212635,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,LS,LS,2.344828496997441,False,False,False
+ACH-000721,-0.0599028217624664,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,HMC-1-8,HMC18,1.0,False,False,False
+ACH-000937,-0.0598257033325564,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Lymphoblastic Leukemia/Lymphoma,TLL,PF-382,PF382,5.298291730620124,False,False,False
+ACH-000649,-0.0597451099528791,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,786-O,786O,4.594548549550354,False,False,False
+ACH-001677,-0.0597083565725464,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,U-2904,U2904,1.632268215499513,False,False,False
+ACH-000491,-0.059585334753505,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,NCI-H716,NCIH716,0.1110313123887439,False,False,False
+ACH-000768,-0.0595769887322623,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,MDA-MB-231,MDAMB231,5.103077946597573,False,False,False
+ACH-001529,-0.059438652684866,Uterus,Gestational Trophoblastic Disease,Choriocarcinoma,UCCA,JAR,JAR,0.6135316529179271,False,False,False
+ACH-000746,-0.0593688395368384,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,GSS,GSS,1.0772429989324606,False,False,False
+ACH-000573,-0.059150464837276,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",BRCNOS,MDA-MB-436,MDAMB436,3.72137265947682,False,False,False
+ACH-000758,-0.0589465153706875,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,MKN74,MKN74,3.095924419998536,False,False,False
+ACH-000511,-0.0587706395425841,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,Calu-1,CALU1,3.925999418556223,False,False,False
+ACH-002024,-0.0586730555883243,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,ECC4,ECC4,0.3103401206121505,False,False,False
+ACH-000277,-0.0583964919951545,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,HCC1419,HCC1419,0.1634987322828795,False,False,False
+ACH-000011,-0.0583734886557804,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,253J,253J,1.4059923596758368,False,False,False
+ACH-000504,-0.058309361650607,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,SNB75,SNB75,4.138323004056484,True,True,True
+ACH-000385,-0.058150845790712,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,SK-RC-52,SKRC52,2.316145742293356,False,False,False
+ACH-001163,-0.0580004223643909,Kidney,Renal Cell Carcinoma,Renal Medullary Carcinoma,MRC,CCLF_PEDS_0001_T,CCLFPEDS0001T,1.811471030529836,False,False,False
+ACH-000839,-0.0579631183364929,Bladder/Urinary Tract,Bladder Squamous Cell Carcinoma,Bladder Squamous Cell Carcinoma,BLSC,SCaBER,SCABER,3.745237332129749,False,False,False
+ACH-000445,-0.0579414039537652,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,KNS-60,KNS60,3.232660756790275,True,True,True
+ACH-000272,-0.0579009457772726,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,SLR 24,SLR24,2.4276061727818994,False,False,False
+ACH-001843,-0.0576855763019486,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC3,ICC3,5.871104373555458,False,False,False
+ACH-001332,-0.0573655161218242,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,BICR 78,BICR78,1.372952097911829,False,False,False
+ACH-001145,-0.0571934950776297,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,OC 316,OC316,3.1292830169449664,False,False,False
+ACH-000770,-0.0570919987227529,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,P31/FUJ,P31FUJ,4.787641414483327,False,False,False
+ACH-000108,-0.0570043488725665,Pancreas,Adenosquamous Carcinoma of the Pancreas,Adenosquamous Carcinoma of the Pancreas,PAASC,KP-3,KP3,3.641546029087524,False,False,False
+ACH-001340,-0.056854115940857,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,COV413A,COV413A,0.963474123974886,False,False,False
+ACH-002295,-0.0568523664827722,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PCI-30,PCI30,,False,False,False
+ACH-000556,-0.0565927227906447,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,SIHA,SIHA,0.3334237337251918,False,False,False
+ACH-001793,-0.0565371267450803,Soft Tissue,Liposarcoma,Liposarcoma,LIPO,LPS27,LPS27,3.4841381312016693,False,False,False
+ACH-000597,-0.0565091068799439,Soft Tissue,Rhabdoid Cancer,Extrarenal Rhabdoid Cancer,,TTC-709,TTC709,0.903038270112912,False,False,False
+ACH-000720,-0.0564880622744101,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,TCCSUP,TCCSUP,3.563158130402808,False,False,False
+ACH-000866,-0.0564878342911161,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H1048,NCIH1048,1.298658315564515,False,False,False
+ACH-000098,-0.0564560619171151,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,GAMG,GAMG,5.36667191611176,True,True,True
+ACH-000788,-0.0564450689196467,Skin,Melanoma,Melanoma,MEL,A2058,A2058,2.763411574470007,False,False,False
+ACH-000115,-0.0561205117334343,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,VCaP,VCAP,0.3103401206121505,False,False,False
+ACH-000581,-0.0558599044189616,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,SNU-16,SNU16,0.01435529297707,False,False,False
+ACH-000416,-0.0558080719166712,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H838,NCIH838,2.063502942306158,False,False,False
+ACH-000311,-0.0554898646498716,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H2122,NCIH2122,2.007195501404204,False,False,False
+ACH-000619,-0.0553866261579963,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PE/CA-PJ15,PECAPJ15,3.454175893185802,False,False,False
+ACH-000592,-0.054946618993877,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,TM-31,TM31,2.456806149230474,False,True,True
+ACH-000861,-0.0547339230807084,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,HOP-62,HOP62,3.264536430999025,False,False,False
+ACH-000348,-0.0546757261960907,Skin,Melanoma,Melanoma,MEL,RPMI-7951,RPMI7951,4.418189947945766,False,False,False
+ACH-000406,-0.0545805517950198,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,U-937,U937,3.5459683691052923,False,False,False
+ACH-000820,-0.0544218684881449,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SW403,SW403,0.2868811477881615,False,False,False
+ACH-001858,-0.0543083481781276,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,SSP-25,SSP25,3.931683057059806,False,False,False
+ACH-000977,-0.0540729174903421,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,LNCaP clone FGC,LNCAPCLONEFGC,0.2509615735332187,False,False,False
+ACH-000773,-0.05392717473506,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,Ki-JK,KIJK,5.317955218312439,False,False,False
+ACH-001500,-0.0538634532847191,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,FLO-1,FLO1,3.64961545906341,False,False,False
+ACH-000876,-0.0537839988493392,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,MDA-MB-415,MDAMB415,0.1890338243900171,False,False,False
+ACH-000956,-0.0537056876899539,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,22Rv1,22RV1,0.4854268271702416,False,False,False
+ACH-001654,-0.0535437861327123,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,SK-GT-4,SKGT4,4.878725341480106,False,False,False
+ACH-000585,-0.0533464415433594,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,EPLC-272H,EPLC272H,4.086613947409496,False,False,False
+ACH-000251,-0.0532738498383655,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,NCI-H2887,NCIH2887,1.2141248053528475,False,False,False
+ACH-000599,-0.0532511989614423,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PA-TU-8902,PATU8902,2.84197311892718,False,False,False
+ACH-000763,-0.0531482138988647,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,MM1-S,MM1S,3.4892860226258766,False,False,False
+ACH-000867,-0.0530231935918729,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,ChaGo-K-1,CHAGOK1,3.787641414483326,False,False,False
+ACH-000966,-0.0530229730102221,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,IGROV1,IGROV1,1.5210507369009632,False,False,False
+ACH-000256,-0.0529393402240385,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,COV318,COV318,0.3219280948873623,False,False,False
+ACH-001982,-0.0528074835095896,Skin,Melanoma,Melanoma,MEL,NZM3,NZM3,4.812498225333564,False,False,False
+ACH-000142,-0.0526439361658382,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,CAL-29,CAL29,3.2942531364445142,False,False,False
+ACH-000371,-0.0525192047488688,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,RL,RL,2.1858665453113337,False,False,False
+ACH-000846,-0.0524578447347317,Head and Neck,Head and Neck Squamous Cell Carcinoma,Hypopharynx Squamous Cell Carcinoma,HPHSC,FaDu,FADU,3.13586316536868,False,False,False
+ACH-000293,-0.052402379683854,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,KLE,KLE,1.0285691521967708,False,False,False
+ACH-001690,-0.0522896782629719,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-026,UPCISCC026,2.5360529002402097,False,False,False
+ACH-000694,-0.0518788543869845,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,TE-9,TE9,2.111031312388744,False,False,False
+ACH-000671,-0.0514988816634461,Liver,Hepatoblastoma,Hepatoblastoma,LIHB,HuH-6,HUH6,0.1110313123887439,False,False,False
+ACH-000645,-0.0513990809653613,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,JL-1,JL1,1.6461626571578936,False,False,False
+ACH-001001,-0.0511372012525317,Bone,Osteosarcoma,Osteosarcoma,OS,143B,143B,1.5897634869849773,False,False,False
+ACH-000355,-0.0509738063524569,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H82,NCIH82,1.82781902461732,False,False,False
+ACH-001377,-0.0508802252194024,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PACADD-137,PACADD137,0.9781956296816516,False,False,False
+ACH-001274,-0.0506061397236637,Soft Tissue,Synovial Sarcoma,Synovial Sarcoma,SYNS,SW982,SW982,2.9011082430145123,False,False,False
+ACH-001484,-0.0504841425218269,Lymphoid,Mature B-Cell Neoplasms,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,CLLSLL,CI,CI,4.112700132749362,False,False,False
+ACH-001552,-0.0504002148231553,Skin,Merkel Cell Carcinoma,Merkel Cell Carcinoma,MCC,MCC26,MCC26,1.9523335663696857,False,False,False
+ACH-001277,-0.0502752796952329,Soft Tissue,Synovial Sarcoma,Synovial Sarcoma,SYNS,Yamato,YAMATO,1.570462931026041,False,False,False
+ACH-000880,-0.0500897506469443,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,AGS,AGS,0.0565835283663675,False,False,False
+ACH-001379,-0.0500788314420699,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PACADD-161,PACADD161,4.012568673503056,False,False,False
+ACH-000911,-0.0493280808874463,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,NUGC-3,NUGC3,0.8559896973084807,False,False,False
+ACH-001346,-0.0491616910381246,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,H103,H103,2.558267634055736,False,False,False
+ACH-000331,-0.0491443646737607,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,IST-MES2,ISTMES2,2.990954860396993,False,False,False
+ACH-000012,-0.0490702352054946,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,HCC-827,HCC827,4.444269502413482,False,False,False
+ACH-000976,-0.048927433729592,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,HuCCT1,HUCCT1,3.969012307516316,False,False,False
+ACH-001099,-0.0487182842229939,Soft Tissue,Rhabdoid Cancer,Extrarenal Rhabdoid Cancer,,KD,KD,0.8875252707415875,False,False,False
+ACH-001335,-0.0486955274647528,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,C-4 II,C4II,3.915520900751959,False,False,False
+ACH-000517,-0.0486053318008363,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,SNU-410,SNU410,2.8579809951275723,False,False,False
+ACH-000421,-0.0481127615113844,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,SW837,SW837,0.2986583155645151,False,False,False
+ACH-000774,-0.0475596827997271,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,RERF-LC-Ad2,RERFLCAD2,4.040015678847879,False,False,False
+ACH-000587,-0.047265544457518,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1975,NCIH1975,3.524815928357506,False,False,False
+ACH-002485,-0.0472648503084391,Lymphoid,Mature B-Cell Neoplasms,Mantle Cell Lymphoma,MCL,MAVER-1,MAVER1,2.4620523187964327,False,False,False
+ACH-000368,-0.0471264443827664,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,SNU-1105,SNU1105,3.5223068928713888,True,True,True
+ACH-000469,-0.0469966567267892,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,YH-13,YH13,3.973611275519472,True,True,True
+ACH-000435,-0.0469276401138543,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,EFE-184,EFE184,3.85897561429202,False,False,False
+ACH-000811,-0.0465314318936345,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,SK-OV-3,SKOV3,4.090853430451113,False,False,False
+ACH-000247,-0.0464819259031056,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,OCUM-1,OCUM1,0.1110313123887439,False,False,False
+ACH-001402,-0.0462650569653169,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,SW756,SW756,1.4329594072761065,False,False,False
+ACH-000542,-0.0458618282324006,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,Hey-A8,HEYA8,4.173926931999809,False,False,False
+ACH-000159,-0.0457027058683589,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,OS-RC-2,OSRC2,4.997292407636508,False,False,False
+ACH-000853,-0.0456542581602241,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,NCI-H661,NCIH661,2.780310099043376,False,False,False
+ACH-001547,-0.0455912821687428,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,LO68,LO68,1.5459683691052926,False,False,False
+ACH-002066,-0.0455085630101034,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,HS-Sch-2,HSSCH2,4.297925052503806,False,False,False
+ACH-000634,-0.0455036659999577,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,LN-340,LN340,3.1538053360790355,True,True,True
+ACH-000570,-0.0451321747658313,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,YKG1,YKG1,3.851998837112446,True,True,True
+ACH-002847,-0.0450932901223281,Skin,Melanoma,Melanoma,MEL,YUHOIN,YUHOIN,2.498250867527825,False,False,False
+ACH-000473,-0.0447789044105119,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,RT-112,RT112,4.040015678847879,False,False,False
+ACH-000007,-0.0442623198214924,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,LS513,LS513,0.1243281350022017,False,False,False
+ACH-001691,-0.0441751288068127,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-029A,UPCISCC029A,2.570462931026041,False,False,False
+ACH-000524,-0.044117820556691,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,KURAMOCHI,KURAMOCHI,1.1375035237499351,False,False,False
+ACH-000713,-0.0440972869584951,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,Caov-3,CAOV3,0.5260688116675876,False,False,False
+ACH-000025,-0.0438589138132021,CNS/Brain,Meningothelial Tumor,Meningioma,MNG,CH-157MN,CH157MN,2.4168397419128294,False,False,True
+ACH-002508,-0.0437541773336919,Skin,Melanoma,Acral Melanoma,ACRM,WM3211,WM3211,2.2957230245399685,False,False,False
+ACH-000145,-0.043626571479347,Soft Tissue,Leiomyosarcoma,Leiomyosarcoma,LMS,SK-LMS-1,SKLMS1,3.0426443374084937,False,False,False
+ACH-001028,-0.0434957922439682,CNS/Brain,Embryonal Tumor,Atypical Teratoid/Rhabdoid Tumor,ATRT,CHLA-06,CHLA06ATRT,0.6229303509201767,False,False,True
+ACH-001403,-0.0434887464729172,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,TO14,TO14,2.007195501404204,False,False,False
+ACH-002001,-0.042920026820905,Skin,Melanoma,Melanoma,MEL,A375 SKIN CJ1,A375SKINCJ1,4.241077458175037,False,False,False
+ACH-002249,-0.0428814309152481,Head and Neck,Head and Neck Squamous Cell Carcinoma,Larynx Squamous Cell Carcinoma,LXSC,JHU-011,JHU011,,False,False,False
+ACH-000968,-0.0427851061853436,Skin,Melanoma,Melanoma,MEL,COLO 792,COLO792,0.903038270112912,False,False,False
+ACH-002785,-0.042659480317546,Soft Tissue,Leiomyosarcoma,Leiomyosarcoma,LMS,NCC-LMS1-C1,NCCLMS1C1,2.941106310946432,False,False,False
+ACH-002257,-0.042657140467525,CNS/Brain,Diffuse Glioma,Anaplastic Astrocytoma,AASTR,KINGS-1,KINGS1,,False,True,True
+ACH-001687,-0.0423629046640496,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,UM-RC-3,UMRC3,2.543495883425772,False,False,False
+ACH-001322,-0.0422722845529129,Soft Tissue,Synovial Sarcoma,Synovial Sarcoma,SYNS,CME-1,CME1,3.2839217723076173,False,False,False
+ACH-000960,-0.041990099618202,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma with t(12;21)(p13.2;q22.1); ETV6-RUNX1,BLLETV6RUNX1,Reh,REH,4.404630684217612,False,False,False
+ACH-001857,-0.0415534981399092,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,SG231,SG231,2.6599245584023783,False,False,False
+ACH-000845,-0.0411466343385517,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1373,NCIH1373,4.904965718684027,False,False,False
+ACH-001525,-0.0411365169176482,Cervix,Cervical Adenocarcinoma,Cervical Adenocarcinoma,CEAD,HT-3,HT3,2.790772037862,False,False,False
+ACH-000262,-0.0401685749690014,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,UOK101,UOK101,3.6926503700355298,False,False,False
+ACH-000711,-0.0401276615643001,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,JIMT-1,JIMT1,2.773996325111173,False,False,False
+ACH-000288,-0.0400962611523835,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",BRCNOS,BT-549,BT549,3.598126959919604,False,False,False
+ACH-000810,-0.0400273769269487,Skin,Melanoma,Cutaneous Melanoma,SKCM,SK-MEL-30,SKMEL30,4.030336078370959,False,False,False
+ACH-000665,-0.0397549709424205,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,SK-MES-1,SKMES1,5.057016965365539,False,False,False
+ACH-001509,-0.0392849326027317,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,H357,H357,2.140778655782796,False,False,False
+ACH-002458,-0.0391131667682334,Skin,Melanoma,Melanoma,MEL,HT144 SKIN FV1,HT144SKINFV1,3.4646682670034443,False,False,False
+ACH-000957,-0.0390705459648343,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,LS 180,LS180,0.0426443374084937,False,False,False
+ACH-000837,-0.0389997596460252,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H322,NCIH322,5.196134880765161,False,False,False
+ACH-000067,-0.038878250499968,CNS/Brain,Diffuse Glioma,Oligodendroglioma,ODG,Hs 683,HS683,3.249445341085839,False,True,True
+ACH-000948,-0.0384270458994036,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,23132/87,2313287,0.0426443374084937,False,False,False
+ACH-002490,-0.0383916703064736,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H1882,NCIH1882,3.2448870591235344,False,False,False
+ACH-000414,-0.0383221736185413,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1944,NCIH1944,5.235727059838059,False,False,False
+ACH-000851,-0.0380804653107875,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,MOR/CPR,MORCPR,1.063502942306158,False,False,False
+ACH-001616,-0.038049452919903,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,OCI-LY18,OCILY18,0.6870606883398922,False,False,False
+ACH-001075,-0.0379945952215442,Lung,Non-Small Cell Lung Cancer,Mucoepidermoid Carcinoma of the Lung,LUMEC,NCI-H292,NCIH292,3.196921733820329,False,False,False
+ACH-001515,-0.037714500622969,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,HCS-2,HCS2,1.6182386555954549,False,False,False
+ACH-000847,-0.0372225155123531,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,HGC-27,HGC27,1.1505596765753812,False,False,False
+ACH-000260,-0.0371978891260052,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,SK-N-AS,SKNAS,5.0574502721839,False,False,False
+ACH-000724,-0.036873812469013,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,HT-1376,HT1376,0.6229303509201767,False,False,False
+ACH-000222,-0.0367245753056169,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,AsPC-1,ASPC1,4.282439805006387,False,False,False
+ACH-001745,-0.0366624560170629,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,RhJT,RHJT,1.263034405833794,False,False,False
+ACH-000152,-0.0366624235451312,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,M059K,M059K,3.6881803585869264,True,True,True
+ACH-001526,-0.0366234679211677,Bone,Osteosarcoma,Osteosarcoma,OS,HuO9,HUO9,4.476381687567235,False,False,False
+ACH-001623,-0.0365512159327261,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,Onda 8,ONDA8,2.563158130402808,True,True,True
+ACH-000829,-0.0365213137107473,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,HuNS1,HUNS1,2.1473066987802936,False,False,False
+ACH-000294,-0.0364839931922795,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,NB-4,NB4,5.843983844048327,False,False,False
+ACH-000736,-0.0362533656192867,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Signet Ring Cell Carcinoma of the Stomach,SSRCC,SNU-601,SNU601,0.1110313123887439,False,False,False
+ACH-000359,-0.0360870632388425,Bone,Osteosarcoma,Osteosarcoma,OS,MG-63,MG63,0.2387868595871165,False,False,False
+ACH-000047,-0.0360453899000142,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,GCIY,GCIY,,False,False,False
+ACH-000395,-0.0359535987490249,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,NCI-H520,NCIH520,1.4329594072761065,False,False,False
+ACH-000273,-0.0356222539974101,CNS/Brain,Diffuse Glioma,Gliosarcoma,GSARC,SF539,SF539,2.5058909297299574,False,True,True
+ACH-001627,-0.0352484356004986,Prostate,Non-Cancerous,"Immortalized Epithelial Cells, Prostate",,P4E6,P4E6,3.169925001442312,False,False,False
+ACH-000907,-0.0351446359047526,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,SNU-349,SNU349,2.657640005207824,False,False,False
+ACH-000668,-0.0347300750109572,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,HCC70,HCC70,0.5260688116675876,False,False,False
+ACH-001380,-0.0346934566763777,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PACADD-165,PACADD165,1.6644828403646823,False,False,False
+ACH-000822,-0.0346140682217811,Skin,Melanoma,Melanoma,MEL,SK-MEL-24,SKMEL24,5.303780748177103,False,False,False
+ACH-002650,-0.0345765481023489,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,ETCC-016,ETCC016,2.298658315564515,False,False,False
+ACH-001396,-0.0343366472758498,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,SUM-52PE,SUM52PE,0.01435529297707,False,False,False
+ACH-000118,-0.034319048276686,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,HUP-T3,HUPT3,3.942983598187102,False,False,False
+ACH-002210,-0.0343083968498495,Myeloid,Non-Cancerous,Immortalized Blood,,ARH-77,ARH77,,False,False,False
+ACH-000488,-0.0341523089274304,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,TE-11,TE11,4.0,False,False,False
+ACH-000231,-0.0339364659191392,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,KALS-1,KALS1,4.67581593117227,True,True,True
+ACH-000695,-0.0338124648471214,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,COR-L47,CORL47,0.1763227726404628,False,False,False
+ACH-001192,-0.0331975739406886,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,SK-NEP-1,SKNEP1,3.237257770900372,False,False,False
+ACH-001443,-0.0331813406712034,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,ASH-3,ASH3,3.2203299548795554,False,False,False
+ACH-000036,-0.033152231017295,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,U343,U343,1.91456452349394,True,True,True
+ACH-000550,-0.0329443172209174,Skin,Melanoma,Melanoma,MEL,IGR-39,IGR39,1.9068905956085185,False,False,False
+ACH-000545,-0.0328626783387843,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,VM-CUB1,VMCUB1,4.18824265626441,False,False,False
+ACH-000116,-0.0325102850781748,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,OAW28,OAW28,1.3045110418099528,False,False,False
+ACH-000910,-0.03240593889156,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,MDA-MB-453,MDAMB453,3.8982083525087177,False,False,False
+ACH-000264,-0.032245628451604,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,Calu-6,CALU6,1.5058909297299574,False,False,False
+ACH-000518,-0.0322027722984257,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,CAL-33,CAL33,1.6088092426755238,False,False,False
+ACH-000223,-0.031879211379176,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,HCC1937,HCC1937,4.012568673503056,False,False,False
+ACH-002297,-0.031744730027937,Head and Neck,Head and Neck Squamous Cell Carcinoma,Larynx Squamous Cell Carcinoma,LXSC,PCI-4B,PCI4B,,False,False,False
+ACH-000831,-0.0314142485864188,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HEC-50B,HEC50B,4.332707933640605,False,False,False
+ACH-001414,-0.0314000531549704,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,UM-UC-6,UMUC6,3.885574364371426,False,False,False
+ACH-000886,-0.0313891731160409,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H2009,NCIH2009,5.37364821133469,False,False,False
+ACH-002143,-0.0312110374475785,Skin,Melanoma,Melanoma,MEL,IST-MEL1,ISTMEL1,,False,False,False
+ACH-002023,-0.0306014637675439,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,TGBC18TKB,TGBC18TKB,4.161887682376894,False,False,False
+ACH-002027,-0.0304523351801369,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HOUA-I,HOUAI,3.485426827170241,False,False,False
+ACH-001374,-0.0296892188242826,Ovary/Fallopian Tube,Ovarian Germ Cell Tumor,Mixed Germ Cell Tumor,OMGCT,PA-1 [PA1],PA1,2.851998837112446,False,False,False
+ACH-000458,-0.0295283632843691,Skin,Melanoma,Melanoma,MEL,CJM,CJM,1.2265085298086795,False,False,False
+ACH-001232,-0.029195325872234,CNS/Brain,Embryonal Tumor,Medulloblastoma,MBL,UW228,UW228,2.4436066514756147,False,False,True
+ACH-000584,-0.0291487476633156,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,JHOS-4,JHOS4,2.1176950426697547,False,False,False
+ACH-002711,-0.0291438339395449,Head and Neck,Salivary Carcinoma,Adenoid Cystic Carcinoma,ACYC,UM-HACC-2A,UMHACC2A,2.028569152196771,False,False,False
+ACH-000339,-0.0287920643175484,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,HCC-461,HCC461,4.298658315564516,False,False,False
+ACH-001197,-0.028091952459724,Lymphoid,Non-Hodgkin Lymphoma,Mature T and NK Neoplasms,MTNN,SMZ-1,SMZ1,5.305240965954483,False,False,False
+ACH-000975,-0.0279946482556277,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,HCC2450,HCC2450,2.070389327891398,False,False,False
+ACH-000172,-0.0279701053373542,Soft Tissue,Rhabdoid Cancer,Extrarenal Rhabdoid Cancer,,TM-87,TM87,1.263034405833794,False,False,False
+ACH-000363,-0.0278899356467999,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,SK-MM-2,SKMM2,1.263034405833794,False,False,False
+ACH-000326,-0.0278482230809244,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,JURL-MK1,JURLMK1,3.7092906357233577,False,False,False
+ACH-001839,-0.0276870094614268,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC13-7,ICC137,3.643856189774725,False,False,False
+ACH-000764,-0.0275482560021284,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Mucinous Stomach Adenocarcinoma,MSTAD,SH-10-TC,SH10TC,2.82781902461732,False,False,False
+ACH-000749,-0.0274601643234801,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,DMS 273,DMS273,3.017921907997262,False,False,False
+ACH-000885,-0.0274503177260601,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,TOV-21G,TOV21G,2.879705766282288,False,False,False
+ACH-000174,-0.0274223733318223,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,CAL-62,CAL62,1.063502942306158,False,False,False
+ACH-000320,-0.0271434206548845,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PSN1,PSN1,3.1009776477248208,False,False,False
+ACH-000696,-0.0268838020033147,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,OVCAR-8,OVCAR8,2.765534746362977,False,False,False
+ACH-000872,-0.026536675330378,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,HCC515,HCC515,3.23112515787905,False,False,False
+ACH-001848,-0.0263922703009061,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC8,ICC8,2.526068811667588,False,False,False
+ACH-001698,-0.0263578542033455,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,UPCI-SCC-116,UPCISCC116,1.0565835283663676,False,False,False
+ACH-002043,-0.0262478083640563,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,Ca9-22,CA922,2.298658315564515,False,False,False
+ACH-000466,-0.0261676341803024,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,SNU-216,SNU216,4.185073637876762,False,False,False
+ACH-001651,-0.0258850616727955,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,SKG-I,SKGI,2.3476656563009706,False,False,False
+ACH-000086,-0.025831267132256,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,ACC-MESO-1,ACCMESO1,2.8011586560936985,False,False,False
+ACH-000565,-0.0257064639115224,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,RCM-1,RCM1,0.3673710656485294,False,False,False
+ACH-001632,-0.0256488602527453,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,PEO4,PEO4,4.2630344058337934,False,False,False
+ACH-001711,-0.0254590460171008,CNS/Brain,Embryonal Tumor,Primitive Neuroectodermal Tumor,PNET,PFSK-1,PFSK1,2.7845039829295666,False,False,True
+ACH-000932,-0.0249110388362341,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,SNU-1,SNU1,0.2868811477881615,False,False,False
+ACH-000132,-0.0244452769751472,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,JHOS-2,JHOS2,4.138323004056484,False,False,False
+ACH-002784,-0.0243753785964055,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,NCC-UPS2-C1,NCCUPS2C1,4.00539998774259,False,False,False
+ACH-001098,-0.0240741228294694,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,KCI-MOH1,KCIMOH1,2.935459747805289,False,False,False
+ACH-000436,-0.0240045643178801,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,OCI-My7,OCIMY7,2.280956313831056,False,False,False
+ACH-002478,-0.0239210545232192,Lymphoid,Mature B-Cell Neoplasms,Primary Effusion Lymphoma,PEL,BC-2,BC2,4.60821785302146,False,False,False
+ACH-002296,-0.02390475495301,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PCI-38,PCI38,,False,False,False
+ACH-000097,-0.0237740287890596,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,ZR-75-1,ZR751,1.1763227726404628,False,False,False
+ACH-000959,-0.0237012722907965,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SNU-C4,SNUC4,0.1634987322828795,False,False,False
+ACH-000266,-0.0234292449541246,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,SNU-213,SNU213,3.6848187375532224,False,False,False
+ACH-001655,-0.0233865401810916,Uterus,Uterine Sarcoma/Mesenchymal,Uterine Leiomyosarcoma,ULMS,SKN,SKN,2.488000770834068,False,False,False
+ACH-001137,-0.0232151637815915,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1993,NCIH1993,,False,False,False
+ACH-000980,-0.023162684540134,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,NCI-H1155,NCIH1155,0.6040713236688608,False,False,False
+ACH-001750,-0.0222811923185388,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,ERMS,TTC442,TTC442,1.8237493603082728,False,False,False
+ACH-001239,-0.0218687474466344,Skin,Melanoma,Melanoma,MEL,WM-266-4,WM2664,5.2253520607761015,False,False,False
+ACH-000605,-0.0216639122212879,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,TE-6,TE6,1.232660756790275,False,False,False
+ACH-000329,-0.0215997578674217,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,CCF-STTG1,CCFSTTG1,3.0942360698457656,False,True,True
+ACH-001523,-0.0215193497547832,Skin,Cutaneous Squamous Cell Carcinoma,Cutaneous Squamous Cell Carcinoma,CSCC,HSC-1,HSC1,0.1890338243900171,False,False,False
+ACH-001366,-0.0211953646624187,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NGP,NGP,3.05484847699562,False,False,False
+ACH-001401,-0.0207071225653788,Adrenal Gland,Adrenocortical Carcinoma,Adrenocortical Carcinoma,ACC,SW-13,SW13,2.3868109464722167,False,False,False
+ACH-000515,-0.0206034937622429,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,HCC-33,HCC33,3.593353770980297,False,False,False
+ACH-001344,-0.0205821491500948,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,GI-ME-N,GIMEN,2.6758159311722696,False,False,False
+ACH-000840,-0.0202469998408805,Lung,Non-Small Cell Lung Cancer,Lung Adenosquamous Carcinoma,LUAS,HCC-366,HCC366,6.155223019254282,False,False,False
+ACH-000970,-0.0198473590256647,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SNU-C5,SNUC5,0.6690267655096305,False,False,False
+ACH-000889,-0.0195499808686739,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,KMM-1,KMM1,3.6205864104518777,False,False,False
+ACH-000337,-0.0195406828754944,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H3122,NCIH3122,0.7739963251111731,False,False,False
+ACH-000408,-0.0192095136019587,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,TE-5,TE5,0.2265085298086797,False,False,False
+ACH-000950,-0.0189371662706397,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,LoVo,LOVO,0.7824085649273732,False,False,False
+ACH-001566,-0.0188445783086296,Skin,Melanoma,Melanoma,MEL,MM370,MM370,3.708187236020709,False,False,False
+ACH-000113,-0.0186934092599195,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,OCI-AML2,OCIAML2,4.893362210763872,False,False,False
+ACH-000146,-0.0185831012927456,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,THP-1,THP1,4.745237332129749,False,False,False
+ACH-000362,-0.0183510627848055,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,MOLM-13,MOLM13,4.94251450533924,False,False,False
+ACH-001511,-0.0177768132835352,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,H413,H413,1.761285273361619,False,False,False
+ACH-000802,-0.017758604434024,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,BFTC-905,BFTC905,2.575312330687437,False,False,False
+ACH-000464,-0.0173413741932566,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,CAS-1,CAS1,2.983677694698067,True,True,True
+ACH-001495,-0.0168541792476911,Uterus,Endometrial Carcinoma,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,UCS,EMTOKA,EMTOKA,3.605257262939004,False,False,False
+ACH-001709,-0.016429634907342,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,WSU-NHL,WSUNHL,0.2986583155645151,False,False,False
+ACH-000735,-0.0163200624070409,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PE/CA-PJ49,PECAPJ49,3.7548875021634687,False,False,False
+ACH-000030,-0.0157858176742718,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PC-14,PC14,4.663913842115978,False,False,False
+ACH-000483,-0.0156880379395206,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SNU-182,SNU182,2.613531652917927,False,False,False
+ACH-001542,-0.0156686508928426,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,KON,KON,4.145677455195635,False,False,False
+ACH-001129,-0.0152501424702002,Myeloid,Acute Myeloid Leukemia,Acute Monoblastic/Monocytic Leukemia,AMOL,MONO-MAC-1,MONOMAC1,3.821710215034674,False,False,False
+ACH-000226,-0.0150872852647553,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,SUP-M2,SUPM2,4.601696516480957,False,False,False
+ACH-000548,-0.0148254661141897,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,BHY,BHY,3.463360885816658,False,False,False
+ACH-000238,-0.0146281746842921,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,SCC-4,SCC4,2.8933622107638715,False,False,False
+ACH-000701,-0.0143947907641106,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,RMUG-S,RMUGS,4.654206377944292,False,False,False
+ACH-000189,-0.0143005289991787,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,RCC10RGB,RCC10RGB,4.173127433480656,False,False,False
+ACH-000274,-0.014059236907006,Skin,Melanoma,Melanoma,MEL,Hs 852.T,HS852T,3.84799690655495,False,False,False
+ACH-000060,-0.0138774457284071,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Panc 10.05,PANC1005,1.3950627995175775,False,False,False
+ACH-000387,-0.0135299661144997,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,TF-1,TF1,4.016139702655253,False,False,False
+ACH-001864,-0.0128424314703539,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,YSCCC,YSCCC,3.521050736900963,False,False,False
+ACH-001301,-0.0126340620598685,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,COG-N-278,COGN278,3.679198570566922,False,False,False
+ACH-000756,-0.0125559393096171,CNS/Brain,Diffuse Glioma,Gliosarcoma,GSARC,GI-1,GI1,1.7907720378619998,False,True,True
+ACH-002042,-0.0124199177009749,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,T3M-5,T3M5,3.842978831788325,False,False,False
+ACH-000144,-0.0123887485901062,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,RERF-GC-1B,RERFGC1B,2.316145742293356,False,False,False
+ACH-001430,-0.0116028885746387,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,TC-138,TC138,1.1826922975161902,False,False,False
+ACH-000055,-0.010937790443635,CNS/Brain,Embryonal Tumor,Medulloblastoma,MBL,D283 Med,D283MED,0.4854268271702416,False,False,True
+ACH-000672,-0.0107023026947873,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,IA-LM,IALM,1.3561438102252754,False,False,False
+ACH-002531,-0.0106320024363429,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,SNU-2535,SNU2535,1.1634987322828796,False,False,False
+ACH-002522,-0.0105838711716331,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,SNU-2292,SNU2292,3.6005076453457856,False,False,False
+ACH-000656,-0.0105556022050138,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,SU-DHL-8,SUDHL8,3.4356285940520905,False,False,False
+ACH-000783,-0.0093450801809374,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,ILC,CAMA-1,CAMA1,0.137503523749935,False,False,False
+ACH-000037,-0.0092431407151299,Soft Tissue,"Sarcoma, NOS","Sarcoma, NOS",SARCNOS,S-117,S117,4.646162657157894,False,False,False
+ACH-002161,-0.0092028261373903,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,MKN28,MKN28,,False,False,False
+ACH-000094,-0.0087029255350982,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,HPAF-II,HPAFII,4.20163386116965,False,False,False
+ACH-000995,-0.0086029150489619,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Lymphoblastic Leukemia/Lymphoma,TLL,JURKAT,JURKAT,5.977279923499917,False,False,False
+ACH-000971,-0.0078127634655355,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,HCT 116,HCT116,3.494415610397496,False,False,False
+ACH-000426,-0.0065942803879133,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,KMS-20,KMS20,,False,False,False
+ACH-000255,-0.0059703711020491,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,LMSU,LMSU,3.9717734471933728,False,False,False
+ACH-001205,-0.0055529154493713,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,TC-32,TC32,,False,False,False
+ACH-000630,-0.0044431591390928,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,YD-8,YD8,2.572889668420581,False,False,False
+ACH-002228,-0.0041253243229004,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,D-423MG,D423MG,,True,True,True
+ACH-000862,-0.0034852165278322,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,KMBC-2,KMBC2,2.885574364371426,False,False,False
+ACH-000470,-0.0028150916165179,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,SW1463,SW1463,0.1890338243900171,False,False,False
+ACH-000341,-0.0024367354727962,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,SK-N-FI,SKNFI,4.349789870241872,False,False,False
+ACH-000833,-0.0020295046494558,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,RH-30,RH30,3.7311832415722,False,False,False
+ACH-000148,-0.0015612622040689,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",BRCNOS,Hs 578T,HS578T,0.6690267655096305,False,False,False
+ACH-001065,-0.0014293719123188,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,ILC,Evsa-T,EVSAT,,False,False,False
+ACH-000623,-0.0012537548692551,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,SNU-201,SNU201,3.4019034716079584,True,True,True
+ACH-001611,-0.0009350432911515,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,NP 8,NP8,3.901108243014512,True,True,True
+ACH-000318,-0.0006637549459547,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,TE-10,TE10,1.4329594072761065,False,False,False
+ACH-000919,-0.0004989253957288,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,IM95,IM95,0.0565835283663675,False,False,False
+ACH-001959,-0.000399899865367,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,CC-LP-1,CCLP1,0.6870606883398922,False,False,False
+ACH-001494,-0.0002904393878773,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Extrahepatic Cholangiocarcinoma,EHCH,EGI-1,EGI1,2.584962500721156,False,False,False
+ACH-001653,0.0001144852612371,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,SK-GT-2,SKGT2,2.2839217723076173,False,False,False
+ACH-000738,0.0007294014335807,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,GB-1,GB1,2.9523335663696857,True,True,True
+ACH-000490,0.0015269292861581,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,SF767,SF767,0.6507645591169022,False,False,False
+ACH-000338,0.0019818221680791,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,SR-786,SR786,6.8157035033480655,False,False,False
+ACH-000926,0.002336719922702,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,HT-55,HT55,0.6507645591169022,False,False,False
+ACH-000365,0.0027617907776147,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,SU-DHL-4,SUDHL4,0.2750070474998697,False,False,False
+ACH-000608,0.003606034548681,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,COV644,COV644,0.8399595874895318,False,False,False
+ACH-000958,0.0036499572636748,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SW48,SW48,1.4541758931858022,False,False,False
+ACH-000433,0.0037287303855412,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,Caki-1,CAKI1,2.587364990936461,False,False,False
+ACH-000943,0.0038099702863075,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,RKO,RKO,0.01435529297707,False,False,False
+ACH-001183,0.0046864325213776,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,RT112/84,RT11284,2.298658315564515,False,False,False
+ACH-001416,0.0047295355267151,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,UM-UC9,UMUC9,2.6915341649192004,False,False,False
+ACH-001641,0.0049332528232923,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,SAT,SAT,1.782408564927373,False,False,False
+ACH-001650,0.0053772702328582,Cervix,Cervical Adenocarcinoma,Cervical Adenocarcinoma,CEAD,SISO,SISO,3.196921733820329,False,False,False
+ACH-002461,0.0056182482719693,Skin,Melanoma,Melanoma,MEL,RVH421 SKIN FV1,RVH421SKINFV1,2.1342209397606338,False,False,False
+ACH-000864,0.0058844056425417,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,COLO 684,COLO684,2.903038270112912,False,False,False
+ACH-002189,0.0059784480258512,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,RCC-FG2,RCCFG2,,False,False,False
+ACH-000054,0.0074818503465167,Soft Tissue,Fibrosarcoma,Fibrosarcoma,FIBS,HT-1080,HT1080,5.199279721336625,False,False,False
+ACH-000673,0.0079395693521938,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,LN-443,LN443,2.0461417816447205,True,True,True
+ACH-000085,0.0087959195145968,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,T3M-4,T3M4,2.4646682670034443,False,False,False
+ACH-002294,0.0093959794910756,Head and Neck,Head and Neck Squamous Cell Carcinoma,Hypopharynx Squamous Cell Carcinoma,HPHSC,PCI-15A,PCI15A,,False,False,False
+ACH-000699,0.0097628374492862,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,HCC1395,HCC1395,2.596935142387232,False,False,False
+ACH-001786,0.0102736470702649,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SNU-1544,SNU1544,0.0285691521967709,False,False,False
+ACH-000856,0.0103637135326038,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,CAL-51,CAL51,1.8519988371124465,False,False,False
+ACH-000452,0.010414194215685,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,TE-8,TE8,3.609991295212679,False,False,False
+ACH-000234,0.0104860639017762,Kidney,Renal Cell Carcinoma,Papillary Renal Cell Carcinoma,PRCC,Caki-2,CAKI2,3.7495342676692616,False,False,False
+ACH-002526,0.0106442440732389,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,SNU-1327,SNU1327,1.4750848829487828,False,False,False
+ACH-002186,0.0111884833433415,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PL4,PL4,,False,False,False
+ACH-000606,0.0114908795476525,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PE/CA-PJ34 (clone C12),PECAPJ34CLONEC12,2.889473542531109,False,False,False
+ACH-000430,0.0118085496338623,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,TYK-nu,TYKNU,0.2016338611696504,False,False,False
+ACH-000535,0.0121444961436965,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,BxPC-3,BXPC3,0.933572638261024,False,False,False
+ACH-000622,0.0121453066601201,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,KNS-42,KNS42,4.039138393906958,True,True,True
+ACH-001735,0.0122987764345681,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged,BLLKMT2A,SEMK2,SEMK2,3.8982083525087177,False,False,False
+ACH-000938,0.0125176976759303,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma,BLL,NALM-6,NALM6,3.636914580355878,False,False,False
+ACH-000128,0.0127563635201631,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,LN-319,LN319,4.553360503335328,False,True,True
+ACH-000261,0.0136812186561474,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,RERF-LC-AI,RERFLCAI,2.51096191927738,False,False,False
+ACH-001674,0.0144721359545973,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,TGW,TGW,2.028569152196771,False,False,False
+ACH-000263,0.0149531781513316,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,KASUMI-1,KASUMI1,4.807354922057604,False,False,False
+ACH-000702,0.0160452725928209,Lymphoid,Hodgkin Lymphoma,Hodgkin Lymphoma,HL,L-1236,L1236,5.361066488794321,False,False,False
+ACH-000212,0.0164422236842449,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,CAL-120,CAL120,1.7570232465074596,False,False,False
+ACH-000138,0.0164662679913665,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,CFPAC-1,CFPAC1,2.7506065048355923,False,False,False
+ACH-000583,0.0166538248948672,Lymphoid,Non-Hodgkin Lymphoma,Mature B-Cell Neoplasms,MBN,MC116,MC116,2.6959938131099,False,False,False
+ACH-000373,0.0167120921603155,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,SKM-1,SKM1,3.848998430400023,False,False,False
+ACH-001382,0.016809922800281,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PACADD-188,PACADD188,2.927896453728821,False,False,False
+ACH-000722,0.0169312391084651,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SNU-C1,SNUC1,0.070389327891398,False,False,False
+ACH-000367,0.0172668820475868,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,NCI-H226,NCIH226,2.543495883425772,False,False,False
+ACH-000319,0.0175885946849909,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,MPP 89,MPP89,2.1984941536390834,False,False,False
+ACH-000991,0.0176061776533182,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,SNU-81,SNU81,0.2750070474998697,False,False,False
+ACH-000647,0.0179041228061008,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,TE-1,TE1,4.635173946674924,False,False,False
+ACH-001560,0.0182652384530024,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Biphasic Type",PLBMESO,Mero-83,MERO83,3.96624587322494,False,False,False
+ACH-000700,0.0183449104408416,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,NCI-H2882,NCIH2882,2.0874628412503395,False,False,False
+ACH-002243,0.018419358192545,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,HCE-4,HCE4,,False,False,False
+ACH-001413,0.0194290970813451,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,UM-UC-11,UMUC11,3.1342209397606338,False,False,False
+ACH-000296,0.0195023388628592,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,OUMS-23,OUMS23,3.5397791916984938,False,False,False
+ACH-000740,0.019781724661637,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,A-253,A253,2.799087306074004,False,False,False
+ACH-002239,0.0199453304858492,Head and Neck,Salivary Carcinoma,Mucoepidermoid Carcinoma,MUCC,H3118,H3118,,False,False,False
+ACH-001096,0.020090661474732,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,JR,JR,1.1699250014423124,False,False,False
+ACH-001853,0.0204595396677425,Liver,Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma,Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma,HCCIHCH,KMCH-1,KMCH1,0.2016338611696504,False,False,False
+ACH-000579,0.0212101605158107,Skin,Melanoma,Melanoma,MEL,UACC-257,UACC257,5.491532461804321,False,False,False
+ACH-000748,0.0213223155722084,Bone,Osteosarcoma,Osteosarcoma,OS,SJSA-1,SJSA1,1.0840642647884746,False,False,False
+ACH-002304,0.0222720620011658,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,SK-MG-1,SKMG1,,False,True,True
+ACH-000015,0.0228068241833939,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,NCI-H1581,NCIH1581,0.9107326619029126,False,False,False
+ACH-000200,0.0240305112559906,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,NMC-G1,NMCG1,3.860962797858116,True,True,True
+ACH-001740,0.0251412612700144,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,RH28,RH28,1.5360529002402097,False,False,False
+ACH-000549,0.0258228438457846,Head and Neck,Head and Neck Squamous Cell Carcinoma,Larynx Squamous Cell Carcinoma,LXSC,SNU-1076,SNU1076,3.257010618206024,False,False,False
+ACH-001233,0.0262681920232684,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,VMRC-LCD,VMRCLCD,,False,False,False
+ACH-000624,0.0264483851640109,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,DCIS,HCC1806,HCC1806,2.269033146455237,False,False,False
+ACH-000017,0.0271085535743195,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,SK-BR-3,SKBR3,3.190614860209497,False,False,False
+ACH-001673,0.0272169139326489,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Extrahepatic Cholangiocarcinoma,EHCH,TFK-1,TFK1,4.391630261517429,False,False,False
+ACH-000732,0.0277109934509553,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PE/CA-PJ41 (clone D2),PECAPJ41CLONED2,2.19534759832222,False,False,False
+ACH-000143,0.0281850882775575,Lung,Non-Small Cell Lung Cancer,NUT Carcinoma of the Lung,NUTCL,HCC2429,HCC2429,0.01435529297707,False,False,False
+ACH-000662,0.0292266242108914,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,COR-L23,CORL23,3.2265085298086795,False,False,False
+ACH-001151,0.0293842197560516,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,OVCAR-5,OVCAR5,2.9164766444377164,False,False,False
+ACH-000493,0.02972256056712,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SNU-423,SNU423,4.327687364176047,False,False,False
+ACH-001415,0.0305307503109094,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,UM-UC7,UMUC7,2.7845039829295666,False,False,False
+ACH-000792,0.0305415597409387,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,BFTC-909,BFTC909,4.94673086014031,False,False,False
+ACH-000993,0.030543314178401,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,JHUEM-7,JHUEM7,3.349082146391089,False,False,False
+ACH-002116,0.0308718006883649,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,EW-22,EW22,,False,False,False
+ACH-000766,0.0310546394533897,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1648,NCIH1648,4.597531174224212,False,False,False
+ACH-000498,0.0313745788337694,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,KO52,KO52,4.775050541483175,False,False,False
+ACH-001354,0.0314479893309612,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,LAN-2,LAN2,2.1076878693143737,False,False,False
+ACH-000310,0.0315512946138245,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,IMR-32,IMR32,1.6369145803558778,False,False,False
+ACH-001196,0.0320227094593236,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,ERMS,SMS-CTR,SMSCTR,1.1505596765753812,False,False,False
+ACH-001513,0.0324346280052716,Cervix,Cervical Adenocarcinoma,Endocervical Adenocarcinoma,ECAD,HCA-1,HCA1,2.4672794804599825,False,False,False
+ACH-000899,0.0329347140612983,Skin,Melanoma,Melanoma,MEL,WM88,WM88,5.040015678847879,False,False,False
+ACH-000478,0.0331355855883297,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,SNU-387,SNU387,4.3269687115878925,False,False,False
+ACH-000782,0.0331899317359491,Lymphoid,B-Lymphoblastic Leukemia/Lymphoma,B-Lymphoblastic Leukemia/Lymphoma with t(v;11q23.3);KMT2A Rearranged,BLLKMT2A,SEM,SEM,3.878725341480105,False,False,False
+ACH-000604,0.0344559099566528,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,KYO-1,KYO1,3.3978029618624896,False,False,False
+ACH-001544,0.0347015967976439,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,KYAE-1,KYAE1,,False,False,False
+ACH-000688,0.0353811824796433,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mixed Ovarian Carcinoma,MXOV,OV7,OV7,2.899175630480513,False,False,False
+ACH-000915,0.0364619437754699,Skin,Melanoma,Cutaneous Melanoma,SKCM,IPC-298,IPC298,3.400537929583729,False,False,False
+ACH-000714,0.0365850647618693,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,KMS-11,KMS11,3.654206377944292,False,False,False
+ACH-000767,0.0367560788836613,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H526,NCIH526,1.232660756790275,False,False,False
+ACH-002305,0.0370049372226378,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,SKN-3,SKN3,,False,False,False
+ACH-001605,0.0372833608884418,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,no.10,NO10,3.730096465595469,True,True,True
+ACH-001067,0.0375244777201569,CNS/Brain,Meningothelial Tumor,Meningioma,MNG,F5,F5,2.523561956057013,False,False,True
+ACH-000903,0.0377369719962239,Thyroid,Well-Differentiated Thyroid Cancer,Follicular Thyroid Cancer,THFO,FTC-133,FTC133,2.495695162624069,False,False,False
+ACH-000396,0.0380055492212085,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,J82,J82,3.626439136697315,False,False,False
+ACH-000195,0.0382483643518136,Myeloid,Acute Myeloid Leukemia,Acute Megakaryoblastic Leukemia,AMKL,Set-2,SET2,4.647314509547136,False,False,False
+ACH-001458,0.038751973770668,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,C75,C75,0.0,False,False,False
+ACH-002202,0.040380163322539,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,TMK-1,TMK1,,False,False,False
+ACH-000934,0.0405694190030898,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,MDA-MB-361,MDAMB361,4.83541884047548,False,False,False
+ACH-002140,0.0408132444244975,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,Hey,HEY,,False,False,False
+ACH-001838,0.0415890854840068,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC12,ICC12,2.903038270112912,False,False,False
+ACH-000039,0.041902607284312,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,SK-N-MC,SKNMC,1.0426443374084935,False,False,False
+ACH-000461,0.0420186142774079,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Extrahepatic Cholangiocarcinoma,EHCH,SNU-1196,SNU1196,1.4436066514756145,False,False,False
+ACH-002084,0.0421142625418052,Skin,Melanoma,Melanoma,MEL,MMAc,MMAC,5.967399198924614,False,False,False
+ACH-002925,0.0429779501959784,Eye,Ocular Melanoma,Uveal Melanoma,UM,UPMM3,UPMM3,3.428946344769483,False,False,False
+ACH-000354,0.0430544194097847,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Capan-1,CAPAN1,3.1795110502715103,False,False,False
+ACH-002026,0.0436800146002787,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HHUA,HHUA,3.5310694927259543,False,False,False
+ACH-000997,0.0441132438591575,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,HCT-15,HCT15,0.7739963251111731,False,False,False
+ACH-001634,0.0444378777097885,Lymphoid,Mature B-Cell Neoplasms,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,CLLSLL,PGA-1,PGA1,4.70984201927331,False,False,False
+ACH-001970,0.0444840224210694,Skin,Melanoma,Melanoma,MEL,MM253,MM253,5.677790101216656,False,False,False
+ACH-000500,0.044566834888773,Head and Neck,Head and Neck Squamous Cell Carcinoma,Larynx Squamous Cell Carcinoma,LXSC,SNU-46,SNU46,2.4776773275653072,False,False,False
+ACH-000561,0.0448023573392284,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,T.T,TDOTT,1.01435529297707,False,False,False
+ACH-000424,0.0456765976081663,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,TC-71,TC71,0.84799690655495,False,False,False
+ACH-000969,0.0460722495656865,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,KM12,KM12,0.3448284969974411,False,False,False
+ACH-000503,0.0465934072029469,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,BICR 16,BICR16,2.875780063068488,False,False,False
+ACH-000614,0.0467712038448406,Skin,Melanoma,Melanoma,MEL,RVH-421,RVH421,3.339137384919585,False,False,False
+ACH-002251,0.0467714530118613,Head and Neck,Head and Neck Squamous Cell Carcinoma,Larynx Squamous Cell Carcinoma,LXSC,JHU-029,JHU029,,False,False,False
+ACH-001119,0.0476342941258269,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Negative,ALCLALKN,Mac-2A,MAC2A,4.412781525338476,False,False,False
+ACH-000434,0.0479394166378405,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,NCI-H1915,NCIH1915,2.229587922740652,False,False,False
+ACH-000203,0.0488904746895745,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,NH-6,NH6,2.9981955031532523,False,False,False
+ACH-000667,0.0490812621209521,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,HCC-44,HCC44,4.07638806851284,False,False,False
+ACH-001715,0.0495289436694714,Bone,Osteosarcoma,Osteosarcoma,OS,CAL-72,CAL72,2.3103401206121505,False,False,False
+ACH-002234,0.0496646835889928,Head and Neck,"Head and Neck Carcinoma, Other","Head and Neck Carcinoma, Other",OHNCA,DOK,DOK,,False,False,False
+ACH-000040,0.051167548737891,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,U-118 MG,U118MG,4.068670810665099,False,True,True
+ACH-000817,0.0516898062344909,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,RPMI 8226,RPMI8226,2.1473066987802936,False,False,False
+ACH-001111,0.0538987388120513,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,L82,L82,3.442280035252584,False,False,False
+ACH-000972,0.0561320027588876,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HEC-151,HEC151,0.2265085298086797,False,False,False
+ACH-000317,0.0571843541723433,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,TUHR14TKB,TUHR14TKB,3.4276061727818994,False,False,False
+ACH-002265,0.0590999070664366,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,LB771-HNC,LB771HNC,,False,False,False
+ACH-001081,0.0611733605674322,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,HCC2998,HCC2998,,False,False,False
+ACH-000677,0.061485121768388,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,SW 1573,SW1573,5.876762490781555,False,False,False
+ACH-002298,0.0623810454010203,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PCI-6A,PCI6A,,False,False,False
+ACH-000800,0.0625905948044451,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,NCI-H446,NCIH446,3.365972427593384,False,False,False
+ACH-000202,0.0635322465150558,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,COLO-320,COLO320,5.268658955027672,False,False,False
+ACH-000994,0.063705164825705,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,HEC-59,HEC59,2.608809242675524,False,False,False
+ACH-000269,0.0646174864093663,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,AM-38,AM38,5.324810603420484,True,True,True
+ACH-001193,0.0647083644827234,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,SK-PN-DW,SKPNDW,3.883620816285672,False,False,False
+ACH-000557,0.0647808182835897,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,AML-193,AML193,5.511910748670928,False,False,False
+ACH-000609,0.0664817337911547,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,SF126,SF126,3.854993016757,True,True,True
+ACH-000900,0.0677283863894105,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H23,NCIH23,2.3978029618624896,False,False,False
+ACH-001107,0.0690925851130189,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,KP-1N,KP1N,,False,False,False
+ACH-000863,0.069192449589795,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,DBTRG-05MG,DBTRG05MG,5.131754090984813,True,True,True
+ACH-002198,0.0698499775544463,Other,Extra Gonadal Germ Cell Tumor,Extra Gonadal Germ Cell Tumor,EGCT,SCH,SCH,,False,False,False
+ACH-000541,0.0710214571224864,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,KMS-34,KMS34,4.044394119358453,False,False,False
+ACH-000023,0.0728120873202823,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PA-TU-8988T,PATU8988T,2.039138393906958,False,False,False
+ACH-000501,0.0742352183482297,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,LS123,LS123,5.681168120416691,False,False,False
+ACH-002399,0.0759820070924571,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,21NT,21NT,4.386810946472217,False,False,False
+ACH-001999,0.0782587007699927,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,950-5-BIK,9505BIK,1.5260688116675876,False,False,False
+ACH-000468,0.0799195805359906,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PK-45H,PK45H,3.035623909730721,False,False,False
+ACH-000596,0.0800335423229682,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,LCLC-97TM1,LCLC97TM1,2.954196310386876,False,False,False
+ACH-000890,0.0805584025424567,Lung,SMARCA4-deficient undifferentiated tumor,SMARCA4-deficient undifferentiated tumor,,SW 1271,SW1271,2.0107798387532423,False,False,False
+ACH-000206,0.0834967789608107,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Lymphoblastic Leukemia/Lymphoma,TLL,C8166,C8166,1.01435529297707,False,False,False
+ACH-000935,0.0878494314763456,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,MDST8,MDST8,4.471837762422287,False,False,False
+ACH-001610,0.0885645395249642,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,NP 5,NP5,3.925999418556223,True,True,True
+ACH-000558,0.088798450947946,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,A-172,A172,2.9726926540042644,True,True,True
+ACH-001126,0.0936459027373276,CNS/Brain,Diffuse Glioma,Anaplastic Astrocytoma,AASTR,MOG-G-UVW,MOGGUVW,,False,True,True
+ACH-000589,0.0941631140928563,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1437,NCIH1437,3.75702324650746,False,False,False
+ACH-000928,0.0970930263102723,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,JHUEM-1,JHUEM1,0.5160151470036647,False,False,False
+ACH-000427,0.098274836126423,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,NCI-N87,NCIN87,2.594548549550354,False,False,False
+ACH-000799,0.100186155125727,Skin,Melanoma,Melanoma,MEL,Hs 695T,HS695T,2.364572432295856,False,False,False
+ACH-001842,0.1004099655328189,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,ICC2,ICC2,3.71699089440494,False,False,False
+ACH-001190,0.1028522889274984,Skin,Melanoma,Melanoma,MEL,SK-MEL-2,SKMEL2,5.195741293246449,False,False,False
+ACH-000479,0.1047894331675723,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,KNS-81,KNS81,3.867896463992655,True,True,True
+ACH-000454,0.1088759428550153,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,HCC-95,HCC95,1.2078928516413328,False,False,False
+ACH-000757,0.1090731831358326,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,A427,A427,0.6599245584023783,False,False,False
+ACH-000153,0.1175549505353995,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Sarcomatoid Type",PLSMESO,NCI-H2052,NCIH2052,2.6758159311722696,False,False,False
+ACH-000378,0.1199998475098155,Lung,Non-Small Cell Lung Cancer,Lung Adenosquamous Carcinoma,LUAS,NCI-H647,NCIH647,3.6205864104518777,False,False,False
+ACH-002800,0.120187625593559,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,NCC-MPNST2-C1,NCCMPNST2C1,3.140778655782796,False,False,False
+ACH-000859,0.1208801374118166,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,DCIS,HCC1954,HCC1954,2.169925001442312,False,False,False
+ACH-000631,0.1233525271229778,CNS/Brain,Diffuse Glioma,Glioblastoma,GB,KS-1,KS1,3.734438666137167,True,True,True
+ACH-000963,0.1247164864476391,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,CCK-81,CCK81,0.0285691521967709,False,False,False
+ACH-000334,0.1265337617502357,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,DB,DB,0.1763227726404628,False,False,False
+ACH-000335,0.1332930352389847,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Biphasic Type",PLBMESO,MSTO-211H,MSTO211H,2.771885578515366,False,False,False
+ACH-000512,0.1360462086253006,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,INA6,INA6,4.850999394716474,False,False,False
+ACH-001625,0.1423228452870458,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,OSC-19,OSC19,3.738767836800192,False,False,False
+ACH-000155,0.1440974778765411,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,SW 1990,SW1990,2.405992359675837,False,False,False
+ACH-000945,0.1466360585527427,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H650,NCIH650,4.002702520379824,False,False,False
+ACH-000459,0.1569071459577286,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,TUHR10TKB,TUHR10TKB,5.1013979521825314,False,False,False
+ACH-000554,0.1691119537302776,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,ILC,UACC-893,UACC893,3.399171093819823,False,False,False
+ACH-000350,0.1797526003441087,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,COLO-678,COLO678,0.6959938131099002,False,False,False
+ACH-000879,0.1810626855794979,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,MFE-296,MFE296,1.722466024471091,False,False,False
+ACH-001302,0.2014153532155527,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,COG-N-305,COGN305,1.550900664647523,False,False,False
+ACH-000402,0.2170639412425271,Lymphoid,Mature B-Cell Neoplasms,Burkitt Lymphoma,BL,BL-70,BL70,0.4222330006830478,False,False,False
+ACH-001016,0.2402571887582129,CNS/Brain,Diffuse Glioma,Astrocytoma,ASTR,Becker,BECKER,2.411426245726465,False,True,True
+ACH-002183,0.243103416074188,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,OVMIU,OVMIU,,False,False,False
+ACH-000801,0.2485575583495798,Skin,Melanoma,Melanoma,MEL,Hs 936.T,HS936T,5.971313624068879,False,False,False
+ACH-001039,0.2496383445372178,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,COLO 205,COLO205,,False,False,False
+ACH-000916,0.3663709992074044,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,NCI-H1573,NCIH1573,2.9523335663696857,False,False,False

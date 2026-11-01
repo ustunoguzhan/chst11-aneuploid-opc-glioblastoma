@@ -1,0 +1,99 @@
+{
+  "correlations": [
+    {
+      "group": "GBM",
+      "n": 47,
+      "spearman_rho": 0.3972016651248844,
+      "spearman_p": 0.005701166904531349,
+      "spearman_ci_low": 0.11931871014298528,
+      "spearman_ci_high": 0.6180126033941955,
+      "pearson_r": 0.3962756463962519,
+      "pearson_p": 0.0058252186253520645,
+      "ols_slope": 0.03320193705697988,
+      "ols_slope_p": 0.0058252186253520705,
+      "interpretation": "higher expression -> weaker (less negative) dependency",
+      "n_lineages": NaN
+    },
+    {
+      "group": "All diffuse glioma",
+      "n": 64,
+      "spearman_rho": 0.3231493034701582,
+      "spearman_p": 0.009200143795519096,
+      "spearman_ci_low": 0.08642053670797073,
+      "spearman_ci_high": 0.5344434682297674,
+      "pearson_r": 0.2802834952766737,
+      "pearson_p": 0.024880980486116026,
+      "ols_slope": 0.02502829827509197,
+      "ols_slope_p": 0.024880980486116065,
+      "interpretation": "higher expression -> weaker (less negative) dependency",
+      "n_lineages": NaN
+    },
+    {
+      "group": "All lines",
+      "n": 1103,
+      "spearman_rho": 0.030289846711342515,
+      "spearman_p": 0.3148681917014886,
+      "spearman_ci_low": -0.0278214462021769,
+      "spearman_ci_high": 0.08842009795340536,
+      "pearson_r": 0.006997525017882057,
+      "pearson_p": 0.8164314189476783,
+      "ols_slope": 0.00041164422964399617,
+      "ols_slope_p": 0.8164314189476763,
+      "interpretation": "higher expression -> weaker (less negative) dependency",
+      "n_lineages": NaN
+    },
+    {
+      "group": "All lines, lineage-adjusted (partial rank)",
+      "n": 1103,
+      "spearman_rho": 0.05085096655119636,
+      "spearman_p": 0.09140907125709723,
+      "spearman_ci_low": NaN,
+      "spearman_ci_high": NaN,
+      "pearson_r": NaN,
+      "pearson_p": NaN,
+      "ols_slope": NaN,
+      "ols_slope_p": NaN,
+      "interpretation": NaN,
+      "n_lineages": 29.0
+    }
+  ],
+  "groups": [
+    {
+      "group": "GBM",
+      "n": 51,
+      "median": -0.0579414039537652,
+      "mean": -0.05145887738993957,
+      "n_below_minus_0_5": 0,
+      "n_below_minus_1": 0,
+      "frac_below_minus_0_5": 0.0
+    },
+    {
+      "group": "Other diffuse glioma",
+      "n": 21,
+      "median": -0.054946618993877,
+      "mean": -0.03988144093500144,
+      "n_below_minus_0_5": 0,
+      "n_below_minus_1": 0,
+      "frac_below_minus_0_5": 0.0
+    },
+    {
+      "group": "Non-glioma",
+      "n": 1106,
+      "median": -0.0799591143004416,
+      "mean": -0.08285802540962606,
+      "n_below_minus_0_5": 2,
+      "n_below_minus_1": 0,
+      "frac_below_minus_0_5": 0.0018083182640144665
+    },
+    {
+      "group": "All",
+      "n": 1178,
+      "median": -0.07789029581542595,
+      "mean": -0.08073250348859795,
+      "n_below_minus_0_5": 2,
+      "n_below_minus_1": 0,
+      "frac_below_minus_0_5": 0.001697792869269949
+    }
+  ],
+  "gbm_vs_nonglioma_mannwhitney_p": 0.014777628849713282
+}

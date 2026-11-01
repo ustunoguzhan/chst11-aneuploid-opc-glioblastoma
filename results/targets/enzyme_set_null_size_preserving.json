@@ -1,0 +1,40 @@
+{
+ "observed": 0.01054718,
+ "primary": {
+  "construction": "size-preserving, 28 enzymes excluded, rank jitter SD 60",
+  "n_sets": 1000,
+  "null_median": 0.008128,
+  "null_95": 0.016398,
+  "null_97_5": 0.018462,
+  "b_at_or_above": 336,
+  "p_add_one": 0.336663,
+  "gate_exceeds_95th": false
+ },
+ "rank_jitter_500": {
+  "construction": "rank-jitter null (500 sets, duplicates dropped)",
+  "n_sets": 500,
+  "null_median": 0.007844,
+  "null_95": 0.017308,
+  "null_97_5": 0.019104,
+  "b_at_or_above": 165,
+  "p_add_one": 0.331337,
+  "gate_exceeds_95th": false,
+  "set_size_min": 27,
+  "set_size_median": 28.0,
+  "reference": {
+   "null_median": 0.00784,
+   "null_97_5": 0.0191,
+   "p_add_one": 0.331
+  }
+ },
+ "checks": {
+  "synaptic_set_size": 271,
+  "enzyme_set_size": 28,
+  "synaptic_observed": 0.00800855,
+  "enzyme_observed": 0.01054718,
+  "synaptic_matches_reference": true,
+  "enzyme_matches_reference": true
+ },
+ "seed": 42,
+ "decision": "matched p >= 0.05: set-level contrast not distinguishable from the matched null"
+}

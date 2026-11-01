@@ -1,0 +1,41 @@
+{
+ "endpoint": "primary synaptic set (GO:0007268), aneuploid minus diploid AUCell",
+ "observed": 0.00800855,
+ "p_perm_exact": 0.002081,
+ "min_p": 1.9073486328125e-06,
+ "positive": "16/20",
+ "primary": {
+  "construction": "size-preserving, members excluded, +/-50 detection ranks",
+  "n_sets": 1000,
+  "null_median": 0.001172,
+  "null_95": 0.004224,
+  "null_97_5": 0.004969,
+  "b_at_or_above": 0,
+  "p_add_one": 0.000999,
+  "gate_exceeds_95th": true,
+  "set_size_min": 271,
+  "set_size_max": 271
+ },
+ "sensitivity": {
+  "construction": "rank-window null (duplicates dropped)",
+  "n_sets": 1000,
+  "null_median": 0.001687,
+  "null_95": 0.00462,
+  "null_97_5": 0.005167,
+  "b_at_or_above": 0,
+  "p_add_one": 0.000999,
+  "gate_exceeds_95th": true,
+  "set_size_min": 256,
+  "set_size_median": 264.0
+ },
+ "checks": {
+  "synaptic_set_size": 271,
+  "enzyme_set_size": 28,
+  "synaptic_observed": 0.00800855,
+  "enzyme_observed": 0.01054718,
+  "synaptic_matches_reference": true,
+  "enzyme_matches_reference": true
+ },
+ "seed": 42,
+ "decision": "gate passes: observed contrast exceeds the 95th percentile of the matched null"
+}

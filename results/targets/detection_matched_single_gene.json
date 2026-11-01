@@ -1,0 +1,92 @@
+{
+ "prespecified_family": {
+  "XYLT1": {
+   "raw_p": 0.0069,
+   "holm_p": 0.0276,
+   "survives": true
+  },
+  "GRM5": {
+   "raw_p": 0.4212,
+   "holm_p": 1.0,
+   "survives": false
+  },
+  "CACNA1B": {
+   "raw_p": 0.9711,
+   "holm_p": 1.0,
+   "survives": false
+  },
+  "GABRB2": {
+   "raw_p": 0.5743,
+   "holm_p": 1.0,
+   "survives": false
+  }
+ },
+ "post_hoc_28_gene_family": {
+  "XYLT1": {
+   "holm_p": 0.16594,
+   "survives": false
+  },
+  "CHST11": {
+   "holm_p": 0.01682,
+   "survives": true
+  },
+  "DSEL": {
+   "holm_p": 0.0499,
+   "survives": true
+  },
+  "GALNT13": {
+   "holm_p": 1.0,
+   "survives": false
+  }
+ },
+ "matched_null": {
+  "XYLT1": {
+   "gene": "XYLT1",
+   "detection_pct": 37.2,
+   "delta_log": 0.3794,
+   "p_perm": 0.00691,
+   "positive": "16/20",
+   "n_matched_genes": 101,
+   "matched_pool_size": 101,
+   "null_median": 0.105,
+   "null_97_5": 0.4994,
+   "p_detection_matched": 0.07843
+  },
+  "CHST11": {
+   "gene": "CHST11",
+   "detection_pct": 29.63,
+   "delta_log": 0.4586,
+   "p_perm": 0.0006,
+   "positive": "18/20",
+   "n_matched_genes": 218,
+   "matched_pool_size": 218,
+   "null_median": 0.0865,
+   "null_97_5": 0.2954,
+   "p_detection_matched": 0.00457
+  },
+  "DSEL": {
+   "gene": "DSEL",
+   "detection_pct": 17.44,
+   "delta_log": 0.1616,
+   "p_perm": 0.00185,
+   "positive": "16/20",
+   "n_matched_genes": 500,
+   "matched_pool_size": 609,
+   "null_median": 0.0641,
+   "null_97_5": 0.2009,
+   "p_detection_matched": 0.05589
+  },
+  "GALNT13": {
+   "gene": "GALNT13",
+   "detection_pct": 47.12,
+   "delta_log": 0.149,
+   "p_perm": 0.32283,
+   "positive": "15/20",
+   "n_matched_genes": 129,
+   "matched_pool_size": 129,
+   "null_median": 0.1186,
+   "null_97_5": 0.5907,
+   "p_detection_matched": 0.41538
+  }
+ }
+}

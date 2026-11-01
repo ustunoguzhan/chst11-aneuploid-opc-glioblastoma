@@ -1,0 +1,5 @@
+gene,drug_line,n_samples,delta_log,p_perm,positive,reliable,detection_pct,detection_aneuploid_pct,detection_diploid_pct
+GRM5,line 2,20,0.0546,0.4212,16/20,True,10.25,17.6,6.24
+XYLT1,line 1,20,0.3794,0.0069,16/20,True,37.2,56.66,26.56
+CACNA1B,line 2,20,-0.0129,0.9711,14/20,False,2.43,3.9,1.63
+GABRB2,line 2,20,-0.0215,0.5743,9/20,False,2.49,4.72,1.28

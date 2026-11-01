@@ -1,0 +1,33 @@
+{
+ "univariate_reproduces_reference": {
+  "TCGA:CHST11": true,
+  "TCGA:XYLT1": true,
+  "TCGA:DSEL": true,
+  "TCGA:GALNT13": true,
+  "TCGA:ST6GALNAC3": true,
+  "CGGA:CHST11": true,
+  "CGGA:XYLT1": true,
+  "CGGA:DSEL": true,
+  "CGGA:GALNT13": true,
+  "CGGA:GRM5": true
+ },
+ "idh_counts_tcga": {
+  "wt": 110,
+  "NaN": 37,
+  "mut": 7
+ },
+ "idh_counts_cgga": {
+  "wildtype": 182,
+  "mutant": 45,
+  "NaN": 10
+ },
+ "mgmt_counts_cgga": {
+  "methylated": 104,
+  "un-methylated": 89,
+  "NaN": 44
+ },
+ "mgmt_in_tcga": "not available in cBioPortal PanCan patient clinical data; not imputed",
+ "nominated_enzymes_significant_both_cohorts": [],
+ "decision": "no nominated enzyme significant in both cohorts",
+ "ph_test": "lifelines proportional_hazard_test, rank time transform"
+}

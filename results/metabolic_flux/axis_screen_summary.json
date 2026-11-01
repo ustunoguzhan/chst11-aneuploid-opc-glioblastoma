@@ -1,0 +1,17 @@
+{
+ "n_nuclei_flux": 5986,
+ "n_samples": 56,
+ "nuclei_per_sample": [
+  101,
+  107
+ ],
+ "modules_tested": 163,
+ "modules_q05": 38,
+ "modules_q05_positive": 8,
+ "kegg_genes": 145,
+ "kegg_genes_present": 138,
+ "enzymes_tested": 113,
+ "enzymes_q05_positive": 38,
+ "enzymes_carried_forward": 28,
+ "carried_forward_equals_28_enzyme_family": true
+}

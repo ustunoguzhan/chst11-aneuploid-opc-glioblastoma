@@ -1,0 +1,29 @@
+gene,branch,n_branches,delta_log,p_perm,p_holm,detection_pct,interpretable
+CHST11,Chondroitin / dermatan sulfate; Glycosaminoglycan degradation,2,0.4586,0.0006,0.01682,29.63,True
+DSEL,Chondroitin / dermatan sulfate; Glycosaminoglycan degradation,2,0.1616,0.00185,0.0499,17.44,True
+ARSB,Chondroitin / dermatan sulfate; Glycosaminoglycan degradation,2,0.0329,0.18212,1.0,12.97,True
+XYLT1,Chondroitin / dermatan sulfate; Glycosaminoglycan degradation; Heparan sulfate / heparin,3,0.3794,0.00691,0.16594,37.2,True
+B3GAT1,Chondroitin / dermatan sulfate; Glycosaminoglycan degradation; Heparan sulfate / heparin,3,0.0332,0.22571,1.0,14.25,True
+HS6ST2,Glycosaminoglycan degradation; Heparan sulfate / heparin,2,0.0927,0.00867,0.19952,8.22,True
+GUSB,Glycosaminoglycan degradation; Heparan sulfate / heparin,2,0.0433,0.00529,0.13223,6.3,True
+NDST3,Glycosaminoglycan degradation; Heparan sulfate / heparin,2,-0.0011,0.89594,1.0,1.81,False
+HS6ST3,Glycosaminoglycan degradation; Heparan sulfate / heparin,2,-0.0068,0.8999,1.0,5.07,True
+GLCE,Glycosaminoglycan degradation; Heparan sulfate / heparin,2,-0.0306,0.37283,1.0,14.35,True
+HS3ST5,Glycosaminoglycan degradation; Heparan sulfate / heparin,2,-0.1719,0.02315,0.38067,19.95,True
+GALNT13,Mucin-type O-glycan biosynthesis; Other O-linked glycosylation,2,0.149,0.32283,1.0,47.12,True
+GALNT1,Mucin-type O-glycan biosynthesis; Other O-linked glycosylation,2,0.0878,0.01472,0.2943,15.57,True
+GALNT8,Mucin-type O-glycan biosynthesis; Other O-linked glycosylation,2,0.0247,0.0118,0.25966,4.45,False
+GALNTL6,Mucin-type O-glycan biosynthesis; Other O-linked glycosylation,2,0.0089,0.81801,1.0,3.12,False
+GALNT7,Mucin-type O-glycan biosynthesis; Other O-linked glycosylation,2,-0.0152,0.66466,1.0,17.89,True
+ST6GAL1,Mucin-type O-glycan biosynthesis; Other O-linked glycosylation; Sialylation and glycosphingolipid,3,0.1566,0.01922,0.34593,12.57,True
+ST6GALNAC3,Mucin-type O-glycan biosynthesis; Other O-linked glycosylation; Sialylation and glycosphingolipid,3,-0.2778,0.04036,0.56509,32.86,True
+POGLUT1,Other O-linked glycosylation,1,0.0474,0.00282,0.07344,5.6,True
+POMT1,Other O-linked glycosylation,1,0.0458,0.01201,0.25966,8.09,True
+POMT2,Other O-linked glycosylation,1,0.0322,0.03652,0.54786,6.8,True
+XXYLT1,Other O-linked glycosylation,1,0.0314,0.13246,1.0,9.72,True
+COLGALT2,Other O-linked glycosylation,1,-0.0385,0.59783,1.0,21.99,True
+ST6GAL2,Other O-linked glycosylation; Sialylation and glycosphingolipid,2,0.0548,0.02239,0.38067,3.93,False
+ST8SIA5,Sialylation and glycosphingolipid,1,0.1778,0.01676,0.31851,12.0,True
+ST3GAL5,Sialylation and glycosphingolipid,1,0.0267,0.42461,1.0,24.77,True
+EXTL3,unassigned,0,0.0375,0.28993,1.0,11.46,True
+MGAT5B,unassigned,0,0.0244,0.10172,1.0,2.3,False

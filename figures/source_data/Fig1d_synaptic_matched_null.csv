@@ -1,0 +1,3 @@
+construction,n_sets,null_median,null_95,null_97_5,p_add_one,observed
+size-preserving,1000,0.001172,0.004224,0.004969,0.000999,0.00800855
+duplicates dropped,1000,0.001687,0.00462,0.005167,0.000999,0.00800855

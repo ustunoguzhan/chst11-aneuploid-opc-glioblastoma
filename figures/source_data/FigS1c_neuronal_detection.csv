@@ -1,0 +1,11 @@
+gene,gene_set,detection_pct,mean_counts_per_nucleus,detection_aneuploid_pct,detection_diploid_pct
+GABRB2,reported_neuronal_10,2.44,0.0327,4.41,1.3
+WNK2,reported_neuronal_10,2.82,0.036,5.55,1.25
+CACNA1B,reported_neuronal_10,3.17,0.0474,4.64,2.33
+GALNTL6,reported_neuronal_10,3.4,0.058,5.15,2.4
+PRKG1,reported_neuronal_10,3.75,0.0544,4.44,3.36
+TENM2,reported_neuronal_10,5.16,0.1128,8.8,3.07
+CNTN5,reported_neuronal_10,7.39,0.1823,11.57,4.99
+CNTN3,reported_neuronal_10,8.56,0.1572,14.02,5.43
+RYR2,reported_neuronal_10,14.23,0.2756,6.66,18.58
+SNAP91,reported_neuronal_10,15.91,0.2705,28.66,8.6

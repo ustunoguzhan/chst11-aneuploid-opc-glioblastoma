@@ -1,0 +1,40 @@
+{
+ "genes": [
+  "CHST11",
+  "CSPG4",
+  "VCAN",
+  "BCAN",
+  "NCAN",
+  "ACAN"
+ ],
+ "n_samples": 20,
+ "per_sample_delta_vs_CHST11_spearman": {
+  "CSPG4": {
+   "spearman_r": 0.602,
+   "p": 0.0049,
+   "n": 20
+  },
+  "VCAN": {
+   "spearman_r": 0.83,
+   "p": 0.0,
+   "n": 20
+  },
+  "BCAN": {
+   "spearman_r": 0.618,
+   "p": 0.0037,
+   "n": 20
+  },
+  "NCAN": {
+   "spearman_r": 0.572,
+   "p": 0.0084,
+   "n": 20
+  },
+  "ACAN": {
+   "spearman_r": 0.096,
+   "p": 0.6862,
+   "n": 20
+  }
+ },
+ "method": "Same infercnvpy-based compartment split (>=30 nuclei each side, 20 samples, 13,196 OPC-like nuclei) as the primary CHST11 contrast. Per-sample log1p(CP10k) mean difference (aneuploid - diploid); exact sign-flip permutation, two-sided. Cross-gene consistency: Spearman correlation of each gene's per-sample delta against CHST11's per-sample delta, across the 20 samples.",
+ "caveat": "Descriptive pathway-consistency check, not a candidate-gene screen: no detection-matched null was applied to CSPG4/VCAN/BCAN/NCAN/ACAN (they were not drawn from a random background), and no multiple-testing correction was applied across the five genes. This does not measure chondroitin 4-O-sulfation directly (protein sulfation state) and does not replace mass-spectrometry-based disaccharide quantification (LC-MS/MS of chondroitinase-digested tissue)."
+}

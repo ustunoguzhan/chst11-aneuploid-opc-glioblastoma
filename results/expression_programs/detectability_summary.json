@@ -1,0 +1,25 @@
+{
+ "n_nuclei": 18336,
+ "n_aneuploid": 6682,
+ "n_diploid": 11654,
+ "by_gene_set": {
+  "GO_synaptic_271": {
+   "n": 271,
+   "median_pct": 1.03,
+   "min_pct": 0.0,
+   "max_pct": 78.28
+  },
+  "GO_translation_reference": {
+   "n": 217,
+   "median_pct": 3.88,
+   "min_pct": 0.0,
+   "max_pct": 32.71
+  },
+  "reported_neuronal_10": {
+   "n": 10,
+   "median_pct": 4.455,
+   "min_pct": 2.44,
+   "max_pct": 15.91
+  }
+ }
+}

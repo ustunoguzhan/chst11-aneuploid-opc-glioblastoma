@@ -1,0 +1,41 @@
+{
+ "study": "PDC000204",
+ "source": "PDC Common Data Analysis Pipeline, gene-level log2 ratio",
+ "aliquots": 110,
+ "primary_tumor": 100,
+ "solid_tissue_normal": 10,
+ "chst11_quantified": 100,
+ "tumor_vs_normal": {
+  "n_tumor": 91,
+  "n_normal": 9,
+  "median_tumor": 0.0363,
+  "median_normal": -0.7059,
+  "difference_in_medians": 0.7422,
+  "difference_in_means": 0.47845518925518926,
+  "mann_whitney_U": 622.0,
+  "p_two_sided": 0.010666791610600586
+ },
+ "tumor_correlations": [
+  {
+   "gene": "CSPG4",
+   "n": 91,
+   "spearman_r": 0.3946742899947273,
+   "p": 0.00010825812860037691,
+   "p_holm": 0.00032477438580113074
+  },
+  {
+   "gene": "VCAN",
+   "n": 91,
+   "spearman_r": 0.04691867270950405,
+   "p": 0.6587557160481013,
+   "p_holm": 1.0
+  },
+  {
+   "gene": "BCAN",
+   "n": 91,
+   "spearman_r": 0.0017120628765180954,
+   "p": 0.9871496068601856,
+   "p_holm": 1.0
+  }
+ ]
+}

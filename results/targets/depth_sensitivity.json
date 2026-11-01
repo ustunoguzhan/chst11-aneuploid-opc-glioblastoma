@@ -1,0 +1,181 @@
+{
+ "n_samples": 20,
+ "n_nuclei": 13196,
+ "samples": [
+  "GSM5319507",
+  "GSM5319509",
+  "GSM5319510",
+  "GSM5319518",
+  "GSM5319520",
+  "GSM5319530",
+  "GSM5319531",
+  "GSM5319532",
+  "GSM5319534",
+  "GSM5319539",
+  "GSM5319541",
+  "GSM5319542",
+  "GSM5319545",
+  "GSM5319548",
+  "GSM5319550",
+  "GSM5319552",
+  "GSM5319559",
+  "GSM5319565",
+  "GSM5319567",
+  "GSM5319576"
+ ],
+ "depth_median_counts": {
+  "GSM5319507": {
+   "aneuploid": 3511.5,
+   "diploid": 3414.0
+  },
+  "GSM5319509": {
+   "aneuploid": 4385.5,
+   "diploid": 5457.5
+  },
+  "GSM5319510": {
+   "aneuploid": 1564.0,
+   "diploid": 577.0
+  },
+  "GSM5319518": {
+   "aneuploid": 1309.0,
+   "diploid": 403.0
+  },
+  "GSM5319520": {
+   "aneuploid": 1818.5,
+   "diploid": 1326.0
+  },
+  "GSM5319530": {
+   "aneuploid": 731.0,
+   "diploid": 397.0
+  },
+  "GSM5319531": {
+   "aneuploid": 2197.0,
+   "diploid": 1367.0
+  },
+  "GSM5319532": {
+   "aneuploid": 5119.0,
+   "diploid": 3839.0
+  },
+  "GSM5319534": {
+   "aneuploid": 2763.0,
+   "diploid": 718.0
+  },
+  "GSM5319539": {
+   "aneuploid": 1545.0,
+   "diploid": 1098.0
+  },
+  "GSM5319541": {
+   "aneuploid": 2097.0,
+   "diploid": 1113.5
+  },
+  "GSM5319542": {
+   "aneuploid": 959.0,
+   "diploid": 613.0
+  },
+  "GSM5319545": {
+   "aneuploid": 1699.5,
+   "diploid": 1595.0
+  },
+  "GSM5319548": {
+   "aneuploid": 3793.0,
+   "diploid": 1501.0
+  },
+  "GSM5319550": {
+   "aneuploid": 788.0,
+   "diploid": 362.0
+  },
+  "GSM5319552": {
+   "aneuploid": 1911.0,
+   "diploid": 1489.0
+  },
+  "GSM5319559": {
+   "aneuploid": 3556.0,
+   "diploid": 3090.0
+  },
+  "GSM5319565": {
+   "aneuploid": 3069.0,
+   "diploid": 4434.0
+  },
+  "GSM5319567": {
+   "aneuploid": 1732.5,
+   "diploid": 1187.0
+  },
+  "GSM5319576": {
+   "aneuploid": 828.5,
+   "diploid": 501.0
+  }
+ },
+ "depth_log2_ratio_aneuploid_vs_diploid": {
+  "mean": 0.6575,
+  "p_perm": 0.000166,
+  "min_p": 1.9073486328125e-06,
+  "positive": 18
+ },
+ "reference_nuclei_in_analysis_samples": {
+  "Microglia_CG": 11185,
+  "Oligodendrocytes": 8888
+ },
+ "model": "per-sample OLS log1p(CP10k) ~ 1 + aneuploid + log10(total counts); exact two-sided sign-flip over samples/patients; matched null one-sided, add-one",
+ "genes": [
+  {
+   "gene": "CHST11",
+   "n_samples": 20,
+   "detection_pct": 29.63,
+   "delta_raw": 0.4586,
+   "p_raw": 0.000601,
+   "coef_depth_adjusted": 0.3569,
+   "p_depth_adjusted": 4.6e-05,
+   "positive_depth_adjusted": "19/20",
+   "coef_depth_adjusted_patient": 0.3408,
+   "p_depth_adjusted_patient": 6.1e-05,
+   "n_patients": 15,
+   "matched_pool_size": 218,
+   "n_matched_genes": 218,
+   "null_raw_median": 0.0865,
+   "p_matched_raw": 0.00457,
+   "null_adj_median": -0.0076,
+   "null_adj_97_5": 0.1955,
+   "p_matched_depth_adjusted": 0.00913
+  },
+  {
+   "gene": "XYLT1",
+   "n_samples": 20,
+   "detection_pct": 37.2,
+   "delta_raw": 0.3794,
+   "p_raw": 0.006914,
+   "coef_depth_adjusted": 0.2559,
+   "p_depth_adjusted": 0.078596,
+   "positive_depth_adjusted": "12/20",
+   "coef_depth_adjusted_patient": 0.2091,
+   "p_depth_adjusted_patient": 0.091797,
+   "n_patients": 15,
+   "matched_pool_size": 101,
+   "n_matched_genes": 101,
+   "null_raw_median": 0.105,
+   "p_matched_raw": 0.07843,
+   "null_adj_median": -0.0054,
+   "null_adj_97_5": 0.3939,
+   "p_matched_depth_adjusted": 0.08824
+  },
+  {
+   "gene": "DSEL",
+   "n_samples": 20,
+   "detection_pct": 17.44,
+   "delta_raw": 0.1616,
+   "p_raw": 0.001848,
+   "coef_depth_adjusted": 0.0854,
+   "p_depth_adjusted": 0.118448,
+   "positive_depth_adjusted": "12/20",
+   "coef_depth_adjusted_patient": 0.0905,
+   "p_depth_adjusted_patient": 0.203003,
+   "n_patients": 15,
+   "matched_pool_size": 609,
+   "n_matched_genes": 500,
+   "null_raw_median": 0.0641,
+   "p_matched_raw": 0.05589,
+   "null_adj_median": 0.0112,
+   "null_adj_97_5": 0.1538,
+   "p_matched_depth_adjusted": 0.08383
+  }
+ ]
+}

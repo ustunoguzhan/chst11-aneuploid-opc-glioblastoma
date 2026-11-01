@@ -1,0 +1,133 @@
+{
+ "neftel_primary": {
+  "Macrophages": [
+   "CD14",
+   "AIF1",
+   "FCER1G",
+   "FCGR3A",
+   "TYROBP",
+   "CSF1R"
+  ],
+  "T_cells": [
+   "CD2",
+   "CD3D",
+   "CD3E",
+   "CD3G"
+  ],
+  "Oligodendrocytes": [
+   "MBP",
+   "TF",
+   "PLP1",
+   "MAG",
+   "MOG",
+   "CLDN11"
+  ]
+ },
+ "guard_beyond_neftel": {
+  "Endothelial_CG": [
+   "CLDN5",
+   "EMCN",
+   "FLT1",
+   "PECAM1",
+   "NOVA2",
+   "SOX17",
+   "ACKR1",
+   "CD34",
+   "SEMA3G"
+  ],
+  "Pericyte_CG": [
+   "COL4A1",
+   "KCNJ8",
+   "MGP",
+   "MYL9",
+   "ABCC9",
+   "PDGFRB",
+   "ACTA2",
+   "CSPG4",
+   "DES",
+   "GJA4",
+   "NDUFA4L2"
+  ],
+  "Microglia_CG": [
+   "AIF1",
+   "APBB1IP",
+   "CCDC26",
+   "CX3CR1",
+   "DOCK8",
+   "F13A1",
+   "ITGAX",
+   "LINC00278",
+   "MRC1",
+   "OLR1",
+   "P2RY12",
+   "SCIN",
+   "SRGN",
+   "TTR"
+  ]
+ },
+ "cellguide_crosscheck": {
+  "Macrophage_CG": [
+   "LYZ",
+   "C1QA",
+   "CD14",
+   "CD68",
+   "FOLR2",
+   "CD163",
+   "CD4",
+   "HLA-DRA",
+   "ITGAX"
+  ],
+  "T_cell_CG": [
+   "ANXA2",
+   "AQP3",
+   "CCL3",
+   "CCL4",
+   "CCL5",
+   "CCR6",
+   "CD3D",
+   "CD40LG",
+   "CD8A",
+   "CRIP1",
+   "CXCR6",
+   "DUSP2",
+   "FOXP3",
+   "GNLY",
+   "GZMB",
+   "GZMH",
+   "GZMK",
+   "HOPX",
+   "IFI6",
+   "IFIT3",
+   "IL2",
+   "IL32",
+   "IL4R",
+   "IL7R",
+   "ITGA1"
+  ],
+  "Oligo_CG": [
+   "AC084149.2",
+   "ANLN",
+   "CARNS1",
+   "CERCAM",
+   "CNDP1",
+   "CRYAB",
+   "ENPP2",
+   "ERBB4",
+   "LINC01378",
+   "LINC01608",
+   "MBP",
+   "MOBP",
+   "OPALIN",
+   "PLP1",
+   "PTCSC3",
+   "RNASE1",
+   "SLC5A11",
+   "ST18",
+   "STK32A",
+   "TF",
+   "VCAN",
+   "MOG"
+  ]
+ },
+ "provenance": "CELLxGENE CellGuide get_marker_genes(marker_type='canonical'); restricted to human symbols present in the data"
+}

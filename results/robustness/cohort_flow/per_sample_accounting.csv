@@ -1,0 +1,59 @@
+gsm,sample,patient_pair,progression,in_processed_cohort,n_cells,n_reference,tier,state,cnv_reference_ok,status
+GSM5319575,SF9871,#1,Primary,True,3598.0,122.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319534,SF10108,#1,Recurrent,True,4339.0,1208.0,1.0,ok,True,in analysis set
+GSM5319525,SF4849,#10,Primary,False,,,,,False,removed in QC (00b: <100 nuclei after filtering or pairing broken)
+GSM5319566,SF6118,#10,Recurrent,False,,,,,False,removed in QC (00b: <100 nuclei after filtering or pairing broken)
+GSM5319526,SF5581,#11,Primary,True,4212.0,269.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319533,SF9715,#11,Recurrent,True,181.0,1.0,2.0,ok,False,no within-sample CNV reference (<20 reference nuclei)
+GSM5319509,SF11780,#12,Primary,True,6685.0,92.0,1.0,ok,True,in analysis set
+GSM5319565,SF12243,#12,Recurrent,True,5527.0,1956.0,1.0,ok,True,in analysis set
+GSM5319541,SF10592,#13,Primary,True,1315.0,534.0,1.0,ok,True,in analysis set
+GSM5319561,SF11857,#13,Recurrent,True,3394.0,2093.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319522,SF3996,#14,Primary,True,462.0,67.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319576,SF4449,#14,Recurrent,True,8402.0,417.0,1.0,ok,True,in analysis set
+GSM5319527,SF6809,#15,Primary,True,187.0,50.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319555,SF7025,#15,Recurrent,True,147.0,1.0,2.0,ok,False,no within-sample CNV reference (<20 reference nuclei)
+GSM5319530,SF9358,#16,Primary,True,3022.0,1309.0,1.0,ok,True,in analysis set
+GSM5319568,SF9962,#16,Recurrent,True,3465.0,274.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319528,SF7307,#17,Primary,True,265.0,87.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319557,SF7388,#17,Recurrent,True,4681.0,1315.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319504,SF10432,#19,Primary,True,439.0,11.0,2.0,ok,False,no within-sample CNV reference (<20 reference nuclei)
+GSM5319539,SF11248,#19,Recurrent,True,1888.0,264.0,1.0,ok,True,in analysis set
+GSM5319531,SF9372,#20,Primary,True,4450.0,674.0,1.0,ok,True,in analysis set
+GSM5319535,SF10433,#20,Recurrent,True,3725.0,2535.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319524,SF4810,#21,Primary,True,607.0,57.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319552,SF6098,#21,Recurrent,True,1717.0,544.0,1.0,ok,True,in analysis set
+GSM5319523,SF4209,#22,Primary,True,846.0,142.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319572,SF4324,#22,Recurrent,True,3596.0,2489.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319508,SF11587,#23,Primary,True,1298.0,41.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319573,SF11981,#23,Recurrent,True,1358.0,39.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319513,SF1199,#24,Primary,True,103.0,2.0,2.0,ok,False,no within-sample CNV reference (<20 reference nuclei)
+GSM5319546,SF1343,#24,Recurrent,True,2730.0,505.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319518,SF2777,#25,Primary,True,4174.0,108.0,1.0,ok,True,in analysis set
+GSM5319548,SF2979,#25,Recurrent,True,4167.0,1004.0,1.0,ok,True,in analysis set
+GSM5319517,SF2501,#26,Primary,True,323.0,72.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319547,SF2628,#26,Recurrent,True,2532.0,510.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319519,SF2990,#27,Primary,True,1884.0,280.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319549,SF3073,#27,Recurrent,True,3098.0,2146.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319506,SF11082,#28,Primary,True,4085.0,89.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319562,SF11488,#28,Recurrent,True,4454.0,149.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319521,SF3391,#29,Primary,True,6834.0,486.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319551,SF3448,#29,Recurrent,True,4773.0,2595.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319511,SF11916,#30,Primary,True,1325.0,32.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319543,SF12382,#30,Recurrent,True,1990.0,333.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319510,SF11815,#31,Primary,True,3701.0,269.0,1.0,ok,True,in analysis set
+GSM5319560,SF12408,#31,Recurrent,True,2921.0,26.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319520,SF3076,#32,Primary,True,3165.0,414.0,1.0,ok,True,in analysis set
+GSM5319550,SF3243,#32,Recurrent,True,2533.0,346.0,1.0,ok,True,in analysis set
+GSM5319529,SF8963,#33,Primary,True,4234.0,164.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319567,SF12165,#33,Recurrent,True,5899.0,2839.0,1.0,ok,True,in analysis set
+GSM5319505,SF10857,#35,Primary,True,2610.0,138.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319542,SF12008,#35,Recurrent,True,2688.0,1134.0,1.0,ok,True,in analysis set
+GSM5319532,SF9494,#37,Primary,True,3432.0,915.0,1.0,ok,True,in analysis set
+GSM5319559,SF9798,#37,Recurrent,True,4051.0,106.0,1.0,ok,True,in analysis set
+GSM5319507,SF11344,#40,Primary,True,5643.0,3779.0,1.0,ok,True,in analysis set
+GSM5319545,SF12460,#40,Recurrent,True,4172.0,2161.0,1.0,ok,True,in analysis set
+GSM5319514,SF12115,#41,Primary,True,253.0,3.0,2.0,ok,False,no within-sample CNV reference (<20 reference nuclei)
+GSM5319569,SF12751,#41,Recurrent,True,4127.0,3447.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319503,SF10099,#9,Primary,True,677.0,207.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)
+GSM5319536,SF10441,#9,Recurrent,True,1097.0,493.0,1.0,ok,True,<30 OPC-like nuclei in one compartment (details need gbm_snrna_states.h5ad)

@@ -1,0 +1,153 @@
+{
+ "sources": {
+  "Chondroitin / dermatan sulfate": [
+   {
+    "library": "Reactome_2022",
+    "set_name": "Chondroitin Sulfate Biosynthesis R-HSA-2022870",
+    "genes_matched": 1
+   },
+   {
+    "library": "Reactome_2022",
+    "set_name": "Chondroitin Sulfate/Dermatan Sulfate Metabolism R-HSA-1793185",
+    "genes_matched": 5
+   },
+   {
+    "library": "Reactome_2022",
+    "set_name": "Dermatan Sulfate Biosynthesis R-HSA-2022923",
+    "genes_matched": 1
+   },
+   {
+    "library": "Reactome_Pathways_2024",
+    "set_name": "Chondroitin Sulfate Biosynthesis",
+    "genes_matched": 1
+   },
+   {
+    "library": "Reactome_Pathways_2024",
+    "set_name": "Dermatan Sulfate Biosynthesis",
+    "genes_matched": 1
+   }
+  ],
+  "Heparan sulfate / heparin": [
+   {
+    "library": "Reactome_2022",
+    "set_name": "Heparan Sulfate/Heparin (HS-GAG) Metabolism R-HSA-1638091",
+    "genes_matched": 8
+   },
+   {
+    "library": "Reactome_2022",
+    "set_name": "HS-GAG Biosynthesis R-HSA-2022928",
+    "genes_matched": 5
+   },
+   {
+    "library": "Reactome_Pathways_2024",
+    "set_name": "HS-GAG Biosynthesis",
+    "genes_matched": 5
+   }
+  ],
+  "Glycosaminoglycan degradation": [
+   {
+    "library": "KEGG_2021_Human",
+    "set_name": "Glycosaminoglycan degradation",
+    "genes_matched": 2
+   },
+   {
+    "library": "Reactome_2022",
+    "set_name": "Glycosaminoglycan Metabolism R-HSA-1630316",
+    "genes_matched": 11
+   },
+   {
+    "library": "Reactome_Pathways_2024",
+    "set_name": "Glycosaminoglycan Metabolism",
+    "genes_matched": 11
+   },
+   {
+    "library": "KEGG_2019_Human",
+    "set_name": "Glycosaminoglycan degradation",
+    "genes_matched": 2
+   },
+   {
+    "library": "WikiPathway_2023_Human",
+    "set_name": "Glycosaminoglycan Degradation WP4815",
+    "genes_matched": 2
+   }
+  ],
+  "Mucin-type O-glycan biosynthesis": [
+   {
+    "library": "KEGG_2021_Human",
+    "set_name": "Mucin type O-glycan biosynthesis",
+    "genes_matched": 6
+   },
+   {
+    "library": "KEGG_2021_Human",
+    "set_name": "Mucin type O-glycan biosynthesis",
+    "genes_matched": 6
+   },
+   {
+    "library": "Reactome_2022",
+    "set_name": "O-linked Glycosylation Of Mucins R-HSA-913709",
+    "genes_matched": 5
+   },
+   {
+    "library": "Reactome_2022",
+    "set_name": "Termination Of O-glycan Biosynthesis R-HSA-977068",
+    "genes_matched": 2
+   },
+   {
+    "library": "Reactome_Pathways_2024",
+    "set_name": "O-linked Glycosylation of Mucins",
+    "genes_matched": 7
+   },
+   {
+    "library": "Reactome_Pathways_2024",
+    "set_name": "Termination of O-glycan Biosynthesis",
+    "genes_matched": 2
+   },
+   {
+    "library": "KEGG_2019_Human",
+    "set_name": "Mucin type O-glycan biosynthesis",
+    "genes_matched": 5
+   },
+   {
+    "library": "KEGG_2019_Human",
+    "set_name": "Mucin type O-glycan biosynthesis",
+    "genes_matched": 5
+   }
+  ],
+  "Other O-linked glycosylation": [
+   {
+    "library": "KEGG_2021_Human",
+    "set_name": "Other types of O-glycan biosynthesis",
+    "genes_matched": 12
+   },
+   {
+    "library": "Reactome_2022",
+    "set_name": "O-linked Glycosylation R-HSA-5173105",
+    "genes_matched": 7
+   },
+   {
+    "library": "Reactome_Pathways_2024",
+    "set_name": "O-linked Glycosylation",
+    "genes_matched": 9
+   },
+   {
+    "library": "KEGG_2019_Human",
+    "set_name": "Other types of O-glycan biosynthesis",
+    "genes_matched": 6
+   }
+  ],
+  "Sialylation and glycosphingolipid": [
+   {
+    "library": "Reactome_2022",
+    "set_name": "Sialic Acid Metabolism R-HSA-4085001",
+    "genes_matched": 5
+   },
+   {
+    "library": "Reactome_Pathways_2024",
+    "set_name": "Sialic Acid Metabolism",
+    "genes_matched": 5
+   }
+  ]
+ },
+ "unassigned": 2,
+ "n_genes": 28
+}

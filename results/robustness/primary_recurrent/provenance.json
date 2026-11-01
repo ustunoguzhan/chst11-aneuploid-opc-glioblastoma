@@ -1,0 +1,25 @@
+{
+  "script": "scripts/20_primary_recurrent.py",
+  "args": {
+    "genes": [
+      "CHST11",
+      "XYLT1",
+      "DSEL"
+    ],
+    "n_boot": 50000
+  },
+  "data_dir": "data",
+  "results_dir": "results",
+  "versions": {
+    "python": "3.13.11",
+    "numpy": "2.3.3",
+    "pandas": "2.3.2",
+    "scipy": "1.17.1",
+    "anndata": "0.12.13",
+    "scanpy": "1.12.1",
+    "infercnvpy": "0.6.1",
+    "decoupler": "2.2.0",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.6"
+  }
+}

@@ -1,0 +1,25 @@
+data/*.h5ad
+data/cgga/
+data/external_cache/
+data/**/*.txt
+data/**/*.zip
+data/**/*.tar
+*.h5ad
+*.zip
+*.tar
+
+__pycache__/
+*.pyc
+.pybiomart.sqlite
+*.log
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# robustness-analysis cache and run logs
+results/cache/
+logs/
+
+# figure files written by the figure scripts
+figures/output/

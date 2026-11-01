@@ -1,0 +1,70 @@
+{
+ "analysis_set": {
+  "n_samples": 20,
+  "n_patients": 15,
+  "patients_contributing_two_samples": 5,
+  "patients_contributing_one_sample": 10,
+  "n_primary_samples": 9,
+  "n_recurrent_samples": 11,
+  "paired_patients": [
+   "#12",
+   "#25",
+   "#32",
+   "#37",
+   "#40"
+  ]
+ },
+ "sample_level": {
+  "CHST11": {
+   "n": 20,
+   "delta": 0.458606,
+   "p_perm": 0.000601,
+   "min_attainable_p": 1.9073486328125e-06,
+   "positive": 18,
+   "p_holm_three_enzymes": 0.001802
+  },
+  "XYLT1": {
+   "n": 20,
+   "delta": 0.379443,
+   "p_perm": 0.006914,
+   "min_attainable_p": 1.9073486328125e-06,
+   "positive": 16,
+   "p_holm_three_enzymes": 0.006914
+  },
+  "DSEL": {
+   "n": 20,
+   "delta": 0.161554,
+   "p_perm": 0.001848,
+   "min_attainable_p": 1.9073486328125e-06,
+   "positive": 16,
+   "p_holm_three_enzymes": 0.003696
+  }
+ },
+ "patient_level": {
+  "CHST11": {
+   "n": 15,
+   "delta": 0.475203,
+   "p_perm": 0.001587,
+   "min_attainable_p": 6.103515625e-05,
+   "positive": 13,
+   "p_holm_three_enzymes": 0.004761
+  },
+  "XYLT1": {
+   "n": 15,
+   "delta": 0.346112,
+   "p_perm": 0.011841,
+   "min_attainable_p": 6.103515625e-05,
+   "positive": 12,
+   "p_holm_three_enzymes": 0.011841
+  },
+  "DSEL": {
+   "n": 15,
+   "delta": 0.16704,
+   "p_perm": 0.004944,
+   "min_attainable_p": 6.103515625e-05,
+   "positive": 12,
+   "p_holm_three_enzymes": 0.009888
+  }
+ },
+ "verdict": "CHST11 retains significance with the patient as the unit of analysis (sample level p=0.000601, patient level p=0.001587)."
+}

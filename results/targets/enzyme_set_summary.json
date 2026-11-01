@@ -1,0 +1,28 @@
+{
+ "GAG_biosynthesis": {
+  "delta": 0.010547,
+  "p_perm": 0.00696,
+  "min_p": 1.9073486328125e-06,
+  "positive": 17,
+  "n": 20
+ },
+ "NEG_CONTROL_translation": {
+  "delta": 0.00039,
+  "p_perm": 0.687407,
+  "min_p": 1.9073486328125e-06,
+  "positive": 10,
+  "n": 20
+ },
+ "detection_matched_null": {
+  "n_sets": 500,
+  "null_median": 0.007844,
+  "null_97_5": 0.019104,
+  "observed": 0.010547,
+  "p_add_one": 0.331337
+ },
+ "n_samples": 20,
+ "n_nuclei": 13196,
+ "genes_nominated": 28,
+ "genes_present": 28,
+ "genes_significant_and_interpretable": 2
+}

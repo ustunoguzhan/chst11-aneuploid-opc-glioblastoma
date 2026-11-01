@@ -1,0 +1,6 @@
+step,nuclei,samples,patients,nuclei_lost
+start,165696,58,29,0
+MT<5.0%,165661,58,29,35
+samples>=100,165658,57,29,3
+paired patients,165058,56,28,600
+singlet,163481,56,28,1577

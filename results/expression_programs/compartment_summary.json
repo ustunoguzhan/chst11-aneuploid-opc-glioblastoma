@@ -1,0 +1,36 @@
+{
+ "n_samples_cohort": 56,
+ "n_samples_within_sample_reference": 51,
+ "n_samples_analysis_set": 20,
+ "n_nuclei_analysis_set": 13196,
+ "samples": [
+  "GSM5319507",
+  "GSM5319509",
+  "GSM5319510",
+  "GSM5319518",
+  "GSM5319520",
+  "GSM5319530",
+  "GSM5319531",
+  "GSM5319532",
+  "GSM5319534",
+  "GSM5319539",
+  "GSM5319541",
+  "GSM5319542",
+  "GSM5319545",
+  "GSM5319548",
+  "GSM5319550",
+  "GSM5319552",
+  "GSM5319559",
+  "GSM5319565",
+  "GSM5319567",
+  "GSM5319576"
+ ],
+ "positive_control": {
+  "delta": 0.018284011325330203,
+  "p_perm": 2.47955322265625e-05,
+  "min_p": 1.9073486328125e-06,
+  "branch": "exact",
+  "positive": 18,
+  "n": 20
+ }
+}

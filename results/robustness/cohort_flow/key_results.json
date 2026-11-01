@@ -1,0 +1,38 @@
+{
+  "flow": [
+    {
+      "step": "Deposited (GSE174554, snrna_cohort.csv)",
+      "samples": 58,
+      "patients": 29
+    },
+    {
+      "step": "After QC and pairing (processed cohort)",
+      "samples": 56,
+      "patients": 28
+    },
+    {
+      "step": "Within-sample CNV reference (>=20 nuclei)",
+      "samples": 51,
+      "patients": 28
+    },
+    {
+      "step": ">=30 OPC-like nuclei in both compartments",
+      "samples": 20,
+      "patients": 15
+    }
+  ],
+  "dropped_in_qc": [
+    {
+      "gsm": "GSM5319525",
+      "sample": "SF4849",
+      "patient_pair": "#10",
+      "progression": "Primary"
+    },
+    {
+      "gsm": "GSM5319566",
+      "sample": "SF6118",
+      "patient_pair": "#10",
+      "progression": "Recurrent"
+    }
+  ]
+}

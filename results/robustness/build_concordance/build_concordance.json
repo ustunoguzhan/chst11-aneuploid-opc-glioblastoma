@@ -1,0 +1,186 @@
+{
+  "versions": {
+    "python": "3.13.11",
+    "numpy": "2.3.3",
+    "pandas": "2.3.2",
+    "scipy": "1.17.1",
+    "anndata": "0.12.13",
+    "scanpy": "1.12.1",
+    "infercnvpy": "0.6.1",
+    "decoupler": "2.2.0",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.6"
+  },
+  "packages": {
+    "numpy": {
+      "required": "2.3.3",
+      "installed": "2.3.3",
+      "status": "OK"
+    },
+    "pandas": {
+      "required": "2.3.2",
+      "installed": "2.3.2",
+      "status": "OK"
+    },
+    "scipy": {
+      "required": "1.17.1",
+      "installed": "1.17.1",
+      "status": "OK"
+    },
+    "anndata": {
+      "required": "0.12.13",
+      "installed": "0.12.13",
+      "status": "OK"
+    },
+    "scanpy": {
+      "required": "1.12.1",
+      "installed": "1.12.1",
+      "status": "OK"
+    },
+    "infercnvpy": {
+      "required": "0.6.1",
+      "installed": "0.6.1",
+      "status": "OK"
+    },
+    "decoupler": {
+      "required": "2.2.0",
+      "installed": "2.2.0",
+      "status": "OK"
+    },
+    "statsmodels": {
+      "required": "0.14.6",
+      "installed": "0.14.6",
+      "status": "OK"
+    },
+    "matplotlib": {
+      "required": "3.10.6",
+      "installed": "3.10.6",
+      "status": "OK"
+    },
+    "igraph": {
+      "required": "optional",
+      "installed": "1.0.0"
+    },
+    "leidenalg": {
+      "required": "optional",
+      "installed": "0.12.0"
+    },
+    "openpyxl": {
+      "required": "optional",
+      "installed": "3.1.5"
+    },
+    "gseapy": {
+      "required": "optional",
+      "installed": "1.2.1"
+    },
+    "lifelines": {
+      "required": "optional",
+      "installed": "0.30.3"
+    }
+  },
+  "files": {
+    "counts_h5ad": {
+      "path": "data/gbm_snrna_counts.h5ad",
+      "exists": true,
+      "size_mb": 613.62
+    },
+    "states_h5ad": {
+      "path": "data/gbm_snrna_states.h5ad",
+      "exists": true,
+      "size_mb": 653.15
+    },
+    "cnv_calls": {
+      "path": "results/cnv/infercnvpy_cell_level_calls.csv",
+      "exists": true,
+      "size_mb": 15.84
+    },
+    "cnv_meta": {
+      "path": "results/cnv/infercnvpy_sample_metadata.csv",
+      "exists": true,
+      "size_mb": 0.0
+    },
+    "gene_positions": {
+      "path": "results/cnv/gene_positions.csv",
+      "exists": true,
+      "size_mb": 1.05
+    },
+    "cohort": {
+      "path": "data/snrna_cohort.csv",
+      "exists": true,
+      "size_mb": 0.0
+    },
+    "per_tumor_expression": {
+      "path": "results/targets/per_tumor_expression.csv",
+      "exists": true,
+      "size_mb": 0.0
+    },
+    "cell_state_scope": {
+      "path": "results/targets/cell_state_scope.csv",
+      "exists": true,
+      "size_mb": 0.0
+    },
+    "cspg_json": {
+      "path": "results/targets/cspg_pathway_consistency.json",
+      "exists": true,
+      "size_mb": 0.0
+    },
+    "scfea_flux": {
+      "path": "data/scfea_flux_5986_malignant_nuclei.csv.gz",
+      "exists": true,
+      "size_mb": 1.85
+    },
+    "depmap": {
+      "path": "data/depmap_chst11_dependency_by_cellline.csv",
+      "exists": true,
+      "size_mb": 0.17
+    },
+    "tractability": {
+      "path": "data/target_tractability.csv",
+      "exists": true,
+      "size_mb": 0.01
+    },
+    "qc_waterfall": {
+      "path": "data/qc_waterfall.csv",
+      "exists": true,
+      "size_mb": 0.0
+    }
+  },
+  "checks": {
+    "states_obs_missing_columns": [],
+    "states_shape": [
+      163481,
+      33694
+    ],
+    "states_sc_columns": [
+      "sc_MES2",
+      "sc_MES1",
+      "sc_AC",
+      "sc_OPC",
+      "sc_NPC1",
+      "sc_NPC2",
+      "sc_G1S",
+      "sc_G2M",
+      "sc_Macrophages",
+      "sc_T_cells",
+      "sc_Oligodendrocytes",
+      "sc_Endothelial_CG",
+      "sc_Pericyte_CG",
+      "sc_Microglia_CG",
+      "sc_Macrophage_CG",
+      "sc_T_cell_CG",
+      "sc_Oligo_CG"
+    ],
+    "cnv_calls_matching_counts_obs": 1.0,
+    "counts_obs_with_cnv_call": 1.0,
+    "CHST11_sample": {
+      "mean": 0.45860555205,
+      "p": 0.0006008148193359375,
+      "positive": 18,
+      "n": 20
+    },
+    "CHST11_patient": {
+      "mean": 0.4752025044000001,
+      "p": 0.0015869140625
+    }
+  }
+}
