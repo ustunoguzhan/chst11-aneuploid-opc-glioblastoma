@@ -84,21 +84,20 @@ for s in 01_copy_number_inference 02_compartment_positive_control 03_detectabili
 done
 
 if [[ $QUICK == 1 ]]; then
-  Q18=(--references none); Q19=(--n-boot 20000); Q22=(--n-null 200); Q23=(--n-perm 50)
+  Q18=(--references none); Q19=(--n-boot 20000); Q22=(--n-null 200)
 else
-  Q18=(); Q19=(); Q22=(); Q23=()
+  Q18=(); Q19=(); Q22=()
 fi
 run_step 28 28_build_concordance_check       env GBM_STATES_H5AD="$B2" "$PY" scripts/28_build_concordance_check.py
-run_step 23 23_threshold_calibration         env GBM_STATES_H5AD="$B2" "$PY" scripts/23_threshold_calibration.py "${Q23[@]}"
-run_step 18 18_cnv_classification_robustness env GBM_STATES_H5AD="$B2" "$PY" scripts/18_cnv_classification_robustness.py --n-jobs "$JOBS" "${Q18[@]}"
+run_step 18 18_cnv_classification_robustness "$PY" scripts/18_cnv_classification_robustness.py --n-jobs "$JOBS" "${Q18[@]}"
 run_step 19 19_patient_level_robustness      "$PY" scripts/19_patient_level_robustness.py "${Q19[@]}"
 run_step 20 20_primary_recurrent             "$PY" scripts/20_primary_recurrent.py
-run_step 21 21_sulfotransferase_family       env GBM_STATES_H5AD="$B2" "$PY" scripts/21_sulfotransferase_family.py
-run_step 22 22_cs_pathway_coherence          env GBM_STATES_H5AD="$B2" "$PY" scripts/22_cs_pathway_coherence.py "${Q22[@]}"
-run_step 24 24_state_scoring_harmonization   env GBM_STATES_H5AD="$B2" "$PY" scripts/24_state_scoring_harmonization.py
+run_step 21 21_sulfotransferase_family       "$PY" scripts/21_sulfotransferase_family.py
+run_step 22 22_cs_pathway_coherence          "$PY" scripts/22_cs_pathway_coherence.py "${Q22[@]}"
 run_step 25 25_depmap_dependency             "$PY" scripts/25_depmap_dependency.py
 run_step 26 26_multiplicity_corrections      "$PY" scripts/26_multiplicity_corrections.py
 run_step 27 27_cohort_flow                   "$PY" scripts/27_cohort_flow.py
+run_step 30 30_build2_sensitivity            "$PY" scripts/30_build2_sensitivity.py
 
 run_step figures make_figures env PUBFIG_DIR="${PUBFIG_DIR:-$ROOT/tools/pubfig}" \
   "$PY" figures/make_figures.py

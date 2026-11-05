@@ -208,9 +208,9 @@ def threshold_free(cells, expr, logdepth, score_col, allowed, min_cells=60):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--references", default="ref_oligo,ref_microglia,ref_allnm,ref_primary,ref_recalibrated",
+    ap.add_argument("--references", default="ref_oligo,ref_microglia,ref_allnm,ref_primary",
                     help="comma list of re-run references, or 'none' to skip the inferCNV re-run. "
-                         "ref_recalibrated is used only if script 23 has been run.")
+                         "ref_recalibrated is optional and needs scripts/optional/threshold_calibration.py.")
     ap.add_argument("--n-jobs", type=int, default=4)
     ap.add_argument("--reuse-cache", action="store_true",
                     help="reuse previously re-computed calls (cnv_recomputed_calls.csv.gz) if present")
@@ -241,7 +241,7 @@ def main():
                 log("recalibrated gate identical to the primary gate; dropping ref_recalibrated")
                 refs.remove("ref_recalibrated")
         else:
-            log("script 23 not run (no recalibrated calls); dropping ref_recalibrated")
+            log("optional threshold calibration not run (no recalibrated calls); dropping ref_recalibrated")
             refs.remove("ref_recalibrated")
     bad = [r for r in refs if r not in RECOMPUTE_REFS]
     if bad:

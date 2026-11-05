@@ -34,7 +34,7 @@ tumors.
 ## Repository layout
 
 ```
-scripts/          analysis pipeline, 00a-29, with the shared library common.py
+scripts/          analysis pipeline, 00a-30, with the shared library common.py
 results/          derived results written by the scripts; results/robustness/ for 18-28
 data/             reference tables, provided inputs and the two build annotations in data/builds/ (see data/README.md)
 figures/          make_figures.py (Figures 1-3, 8, S1, S3, S4) and make_figures_robustness.py (Figures 4-7, S2);
@@ -53,17 +53,18 @@ TOOLS.md          software versions, external services and method citations
 ```bash
 bash setup_env.sh                 # .venv with the pinned packages in requirements.txt
 bash tests/run_smoke_test.sh      # optional, a few minutes on synthetic data
-bash run_all.sh                   # scripts 01-28 and both figure scripts
+bash run_all.sh                   # scripts 01-30 and both figure scripts
 bash run_all.sh --from-raw        # additionally rebuilds the matrices (00a-00e) from GEO files
 bash run_all.sh --quick           # fewer permutations, no inferCNV re-runs in script 18
 bash run_all.sh --only "18 19"    # selected steps (prefix match on the step id; "figures" for the figure scripts)
 bash run_all.sh --jobs 8          # parallel workers for the inferCNV re-runs of script 18 (default 4)
 ```
 
-The primary analyses (01–17) use Build 1 of the discovery cohort and the robustness analyses
-that read the processed matrices (18, 21–24) use Build 2. Both builds come from the same
-preprocessing scripts run in two software environments and differ only in their cluster-level
-malignant calls; their per-nucleus annotations are deposited in `data/builds/` and applied by
+Every analysis uses Build 1 of the discovery cohort. Build 2 comes from the same preprocessing
+scripts run in a second software environment and differs only in its cluster-level malignant
+calls; it is used only for the barcode concordance check (28) and the preprocessing sensitivity
+analysis (30), which shows that the 1,734 nuclei added to its OPC-like analysis set are mature
+oligodendrocytes. The per-nucleus annotations of both builds are deposited; their per-nucleus annotations are deposited in `data/builds/` and applied by
 `00e`, so `--from-raw` regenerates both exactly (see [`data/README.md`](data/README.md)).
 
 Raw data are public and are not redistributed; download steps are in
@@ -82,9 +83,10 @@ summary lists completed, skipped (optional input missing) and failed steps.
 | 15–17 | CGGA, TCGA-GBM and IVY-GAP context, covariate-adjusted Cox models |
 | 29 | CHST11 protein in the CPTAC glioblastoma proteome (PDC000204) |
 | 28 | barcode concordance between the two preprocessing builds |
-| 23 | calibration of the non-malignant reference threshold (its calls are read by 18) |
 | 18–22 | alternative copy-number classifications and threshold-free analysis, patient-level and leave-one-out robustness, primary versus recurrent, sulfotransferase family, CHST11-excluded pathway coherence |
-| 24–27 | state-scoring harmonization, DepMap dependency, multiplicity corrections, cohort flow |
+| 25–27 | DepMap dependency, multiplicity corrections, cohort flow |
+| 30 | preprocessing sensitivity: nuclei added to the Build 2 analysis set and the compartment statistics with and without them |
+| `optional/threshold_calibration.py` | optional quality-control helper (permutation calibration of every non-malignant marker threshold); not part of the reported analyses and not run by `run_all.sh` |
 
 `run_all.sh` runs them in the order of this table. Network access is needed by scripts 03,
 06, 10, 13 and 14, which download gene-set libraries from Enrichr through gseapy (script 22

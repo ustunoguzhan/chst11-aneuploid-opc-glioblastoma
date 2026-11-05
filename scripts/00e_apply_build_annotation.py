@@ -51,12 +51,6 @@ else:
     A.obs.loc[M, "neftel_state"] = st.to_numpy()
     A.obs["neftel_x"] = np.nan; A.obs["neftel_y"] = np.nan
     A.obs.loc[M, "neftel_x"] = pl["x"]; A.obs.loc[M, "neftel_y"] = pl["y"]
-    cache = os.path.join(RESULTS_DIR, "cache")
-    os.makedirs(cache, exist_ok=True)
-    ax = b2.copy()
-    ax.insert(1, "patient", A.obs.loc[ax.index, "patient"].astype(str).to_numpy())
-    ax.to_csv(os.path.join(cache, "state_axes_malignant.csv.gz"), compression="gzip")
-    print("wrote results/cache/state_axes_malignant.csv.gz (Build 2 state scores)", flush=True)
 
 A.uns["build"] = dict(build=args.build,
                       annotation=f"data/builds/build{args.build}_annotation.csv.gz")

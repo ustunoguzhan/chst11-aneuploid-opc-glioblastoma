@@ -1,0 +1,20 @@
+{
+  "build1_set": 13196,
+  "build2_set": 14911,
+  "added_in_build2": 1734,
+  "build1_only": 19,
+  "build1_samples": 20,
+  "build2_samples": 20,
+  "samples_identical": true,
+  "added_build1_cluster_call": {
+    "Oligodendrocytes": 1733,
+    "Microglia_CG": 1
+  },
+  "added_compartment": {
+    "diploid": 1643,
+    "aneuploid": 91
+  },
+  "added_share_of_build2_diploid": 0.1617603623117062,
+  "added_share_of_build2_diploid_per_sample_median": 0.06972591362126246,
+  "added_share_of_build2_diploid_per_sample_max": 0.7508532423208191
+}

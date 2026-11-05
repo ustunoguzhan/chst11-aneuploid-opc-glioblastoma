@@ -25,7 +25,8 @@
 | PyDESeq2 | 0.5.4 | pseudobulk differential expression that defined the neuronal candidate list |
 
 These versions define the pinned environment, in which Build 2 of the discovery cohort was
-preprocessed. Build 1 was preprocessed by the same scripts with scanpy 1.11.5, anndata 0.12.19,
+preprocessed. Scripts 18, 21, 22 and 30 were run on Build 1 with the same package versions
+under Python 3.12.10 (recorded in each provenance file). Build 1 was preprocessed by the same scripts with scanpy 1.11.5, anndata 0.12.19,
 NumPy 2.4.6 and SciPy 1.17.1; the two builds and their deposited annotations are described in
 `data/README.md`.
 

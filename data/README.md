@@ -59,8 +59,8 @@ same code and parameters (3,000 highly variable genes, 50 principal components, 
 resolution 1.0 with the igraph implementation and two iterations, random seed 0), in two
 software environments: Build 1 with scanpy 1.11.5, anndata 0.12.19, NumPy 2.4.6 and SciPy
 1.17.1 (igraph and leidenalg versions were not recorded); Build 2 with the pinned environment of
-`requirements.txt`. The primary analyses (scripts 01–17) use Build 1; the robustness analyses
-that need the processed matrices (scripts 18 and 21–24) use Build 2.
+`requirements.txt`. Every analysis uses Build 1; Build 2 is used only by the concordance check
+(script 28) and the preprocessing sensitivity analysis (script 30).
 
 The builds share the same 163,481 quality-controlled nuclei, the same normalized matrix and the
 same meta-module scores. They differ in the Leiden partition and therefore in the cluster-level
@@ -69,7 +69,10 @@ Build 2. Of the nuclei in Build 1 oligodendrocyte clusters, 4,654 fell into mali
 in Build 2 (3,113 of them assigned to the OPC-like state), 12 Build 1 microglia did the same, and
 67 Build 1 malignant nuclei fell into non-malignant clusters. Nuclei called malignant in both
 builds received the same Neftel state. The OPC-like analysis set contains 13,196 nuclei in Build 1
-and 14,911 in Build 2, from the same 20 samples.
+and 14,911 in Build 2, from the same 20 samples. Of the 1,734 nuclei found only in the Build 2
+set, 1,733 belong to Build 1 oligodendrocyte clusters and 95% are diploid; they express mature
+oligodendrocyte markers and almost no CHST11, so they dilute the Build 2 diploid compartment and
+inflate its compartment differences (script 30).
 
 Because graph-based clustering depends on the software environment, re-running `00c` does not by
 itself reproduce either build. Both annotations are therefore deposited in `builds/`, and
@@ -79,14 +82,12 @@ not modified):
 | File | Content |
 | :-- | :-- |
 | `builds/build1_annotation.csv.gz` | Build 1, all 163,481 nuclei: Leiden cluster, cluster call, malignant flag, Neftel state and coordinates, cycling flag, meta-module scores |
-| `builds/build2_annotation.csv.gz` | Build 2, the 126,387 malignant nuclei: Neftel state and the scanpy `score_genes` state scores read by scripts 21 and 24 |
+| `builds/build2_annotation.csv.gz` | Build 2, the 126,387 malignant nuclei: Neftel state and the scanpy `score_genes` state scores |
 | `builds/build1_cluster_summary.csv`, `builds/build2_cluster_summary.csv` | per-cluster marker scores, patient mix and malignant call of each build |
 
 The Build 2 Leiden labels and the cell-type calls of its non-malignant clusters were not
 retained. `00e` carries the Build 1 cell-type call over to Build 2 non-malignant nuclei and labels
-the 67 nuclei that are malignant only in Build 1 `nonmalignant_unresolved`; only the alternative
-inferCNV references of script 18 and the cluster-level recalibration of script 23 read these
-labels.
+the 67 nuclei that are malignant only in Build 1 `nonmalignant_unresolved`.
 
 One file, `GSM5319529_SF8963`, has a MatrixMarket header that declares 4,855,174 entries
 where the file holds 4,648,192, and a block of NUL bytes that erases 181 nuclei.

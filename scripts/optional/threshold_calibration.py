@@ -4,6 +4,9 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import numpy as np
 import pandas as pd
@@ -92,7 +95,7 @@ def main():
     ap.add_argument("--n-cells", type=int, default=30000)
     ap.add_argument("--seed", type=int, default=0)
     args = ap.parse_args()
-    require([STATES_H5AD], "23_threshold_calibration")
+    require([STATES_H5AD], "threshold_calibration")
     out = outdir("threshold_calibration")
 
     ct = json.load(open(PACKAGE_DATA / "celltype_genesets.json", encoding="utf-8"))
